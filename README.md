@@ -1,7 +1,7 @@
 # splitreus62
 
-[Atreus](https://github.com/technomancy/atreus) Phil Hagelberg
-[Atreus62](https://github.com/profet23/atreus62) Profet23
+- [Atreus](https://github.com/technomancy/atreus) Phil Hagelberg
+- [Atreus62](https://github.com/profet23/atreus62) Profet23
 
 All these files were created from scratch, but out of respect for Phil I wanted to GPLv3 the project. 
 
