@@ -10,6 +10,8 @@ All these files were created from scratch, but out of respect for Phil I wanted 
 
 Thanks to Phil for the staggering measurements from the atreus, and profet23 for the 62 key variant. 
 
+This project uses MIT licensed KiCad footprints from Keebio and the Lily58 project.
+
 ### Features: 
 - Reversible PCB supports MX/Alps/Choc Modified from keebio footprint.
 - Pro Micro Footprint borrowed from the Lily58.
