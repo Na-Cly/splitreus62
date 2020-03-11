@@ -1,4 +1,4 @@
-![pretty]("splitreus62.jpg")
+![pretty](splitreus62.jpg)
 
 # splitreus62
 
