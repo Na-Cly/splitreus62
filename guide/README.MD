@@ -1,6 +1,7 @@
 # Build Guide (WIP)
 
-## -Steps-
+## Steps
+The only order of steps that matter are diodes before switches. Other than that it's pretty much up to you. I prefer the order listed below.
 
 #### Diodes
 
