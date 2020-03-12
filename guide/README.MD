@@ -19,3 +19,7 @@ Make sure to test your diodes before soldering the switches in. If you do not ha
 
 #### Switches
 - Nothing special here, except choc switches are roatated 180 degrees. This allowed for a reversible footprint for MX/Alps/Choc.
+
+#### Case (low profile)
+##### - Uses 5 m3x4 per half (m3x5 also work)
+- Before putting on keycaps mount the PCB to the case using the screws.
