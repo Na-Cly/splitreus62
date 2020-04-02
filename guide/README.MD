@@ -16,26 +16,26 @@ _Note: this build guide uses the low profile case that is compatible with pcb mo
 #### Diodes
 - through hole diodes can be soldered on top of the pcb, or below. The low profile case requires the diodes be placed on top of the pcb. 
 - The black line on the diode will always face the square pad on the pcb.
-![diodes](diodes.jpg)
+![diodes](build_pictures/diodes.jpg)
 
 Make sure to test your diodes before soldering the switches in. If you do not have a multimeter I suggest flashing the pro micros and using a paper clip or wire to short each switch to make sure the diodes are all working.
 
 #### TRRS
 - TRRS is straight forward. It only fits in 1 orientation per side if placed on top.
-![trrs](trrs.jpg)
+![trrs](build_pictures/trrs.jpg)
 
 
 #### Diodes
 - through hole diodes can be soldered on top of the pcb, or below. The low profile case requires the diodes be placed on top of the pcb. 
 - The black line on the diode will always face the square pad on the pcb.
-![diodes](diodes.jpg)
+![diodes](build_pictures/diodes.jpg)
 
 Make sure to test your diodes before soldering the switches in. If you do not have a multimeter I suggest flashing the pro micros and using a paper clip or wire to short each switch to make sure the diodes are all working.
 
 
 #### Switches
 - Nothing special here, except choc switches are roatated 180 degrees. This allowed for a reversible footprint for MX/Alps/Choc.
-![switches](switches.jpg)
+![switches](build_pictures/switches.jpg)
 
 #### Case (low profile)
 ##### _Uses 5 m3x4 per half (m3x5 also work)_
