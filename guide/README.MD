@@ -3,22 +3,39 @@
 ## Steps
 The only order of steps that matter are diodes before switches. Other than that it's pretty much up to you. I prefer the order listed below.
 
-_Note: this build guide uses the low profile case that is compatible with pcb mounted switches. A case is in the works for plate mounted switches._
+_Note: this build guide uses the low profile case that is compatible with pcb mounted switches. A case is in the works for plate mounted switches. There is a sandwich case available as well, but it is currently only been tested as a 3d print and not as metal._
+
+### I always suggest doing switches last because they are usually the most expensive part of my builds. 
+### Suggested order:
+ - Diodes
+ - TRRS
+ - Pro micro headers (multimeter headers if possible to make sure there are no shorted pins)
+ - Pro micro to headers
+ - Switches
 
 #### Diodes
 - through hole diodes can be soldered on top of the pcb, or below. The low profile case requires the diodes be placed on top of the pcb. 
 - The black line on the diode will always face the square pad on the pcb.
+![diodes](diodes.jpg)
 
 Make sure to test your diodes before soldering the switches in. If you do not have a multimeter I suggest flashing the pro micros and using a paper clip or wire to short each switch to make sure the diodes are all working.
 
-#### Pro Micro
-- There are 2 sets of holes for the pro micro. This design was pulled from the Lily58. This allows for both controllers to face upwards using a reversible PCB. The trade off for this is the holes are smaller than usual and are close to the 2nd set of holes. It's important to make sure that there is no extra solder that is joining them together as you could short your pro micro, or in my case the reset switch to ground and it won't work properly. 
+#### TRRS
+- TRRS is straight forward. It only fits in 1 orientation per side if placed on top.
+![trrs](trrs.jpg)
 
-- The pro micro pin 1 lines up with the small square in the silkscreen.
-- The pro micro will always be in the left most set of holes. Surrounded by a rectangle of silkscreen.
+
+#### Diodes
+- through hole diodes can be soldered on top of the pcb, or below. The low profile case requires the diodes be placed on top of the pcb. 
+- The black line on the diode will always face the square pad on the pcb.
+![diodes](diodes.jpg)
+
+Make sure to test your diodes before soldering the switches in. If you do not have a multimeter I suggest flashing the pro micros and using a paper clip or wire to short each switch to make sure the diodes are all working.
+
 
 #### Switches
 - Nothing special here, except choc switches are roatated 180 degrees. This allowed for a reversible footprint for MX/Alps/Choc.
+![switches](switches.jpg)
 
 #### Case (low profile)
 ##### _Uses 5 m3x4 per half (m3x5 also work)_
