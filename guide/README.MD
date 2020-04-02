@@ -22,6 +22,8 @@ Make sure to test your diodes before soldering the switches in. If you do not ha
 
 #### TRRS
 - TRRS is straight forward. It only fits in 1 orientation per side if placed on top.
+![diodes](build_pictures/diodes.jpg)
+#### Bottom of TRRS
 ![trrs](build_pictures/trrs.jpg)
 
 
