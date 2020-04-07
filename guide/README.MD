@@ -26,16 +26,12 @@ Make sure to test your diodes before soldering the switches in. If you do not ha
 #### Bottom of TRRS
 ![trrs](build_pictures/trrs.jpg)
 
-#### Diodes
-- through hole diodes can be soldered on top of the pcb, or below. The low profile case requires the diodes be placed on top of the pcb. 
-- The black line on the diode will always face the square pad on the pcb.
-![diodes](build_pictures/diodes.jpg)
-
-Make sure to test your diodes before soldering the switches in. If you do not have a multimeter I suggest flashing the pro micros and using a paper clip or wire to short each switch to make sure the diodes are all working.
 
 #### Pro Micro Left and right hands
+_NOTE: It is very important that you do not bridge pins from one set of pro micro pads to the other. This could result in the pro micro not powering on, getting stuck in reset mode, or could even end up frying the pro micro. Go easy on the solder._
 - Pro micro always uses the left most set of pads when the pcb is face up.  
 - Picutres of left and right sides
+
 #### Left
 ![left_micro](build_pictures/pro_micro_headers.jpg)
 
