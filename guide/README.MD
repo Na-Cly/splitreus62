@@ -29,6 +29,8 @@ Make sure to test your diodes before soldering the switches in. If you do not ha
 
 #### Pro Micro Left and right hands
 _NOTE: It is very important that you do not bridge pins from one set of pro micro pads to the other. This could result in the pro micro not powering on, getting stuck in reset mode, or could even end up frying the pro micro. Go easy on the solder._
+- I reccomend soldering on headers to the PCB before soldering the headers onto the pro micro. It is much easier to fix any soldering mistakes with just the headers on the PCB. 
+- If you have a multimeter it's a good idea to make sure no adjacent pins are connected after soldering. 
 - Pro micro always uses the left most set of pads when the pcb is face up.  
 - Picutres of left and right sides
 
