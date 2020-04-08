@@ -1,5 +1,5 @@
 # Build Guide (WIP)
-
+* Thanks to Lucas for the photos used in the build guide. [Github](https://github.com/layertwo)
 ## Steps
 The only order of steps that matter are diodes before switches. Other than that it's pretty much up to you. I prefer the order listed below.
 
