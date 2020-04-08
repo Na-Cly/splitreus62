@@ -23,4 +23,4 @@ This project uses MIT licensed KiCad footprints from Keebio and the Lily58 proje
 - SMD Diode footprint is only on the back-copper layer, so diodes have to be mounted on the bottom of the left half and the top of the right half.
 
 
-## Build Guide (Coming soon)
+## [Build Guide](/build_guide)
