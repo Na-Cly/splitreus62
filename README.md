@@ -18,7 +18,7 @@ _Note: this version does not support the low profile case._
 
 
 ### Known issues:
-- TBD
+- Silk screen from the footprints are a little weird in this branch
 
 ## [Build Guide](/guide/README.MD)
 
