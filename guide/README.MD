@@ -48,3 +48,5 @@ _NOTE: It is very important that you do not bridge pins from one set of pro micr
 #### Case (low profile)
 ##### _Uses 5 m3x4 per half (m3x5 also work)_
 - Before putting on keycaps mount the PCB to the case using the screws.
+
+### Flashing - WIP
