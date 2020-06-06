@@ -1260,6 +1260,4 @@ Connection ~ 9650 4250
 Wire Wire Line
 	9950 4250 10250 4250
 Connection ~ 9950 4250
-Text GLabel 9400 2750 0    50   Input ~ 0
-VDD_NRF
 $EndSCHEMATC
