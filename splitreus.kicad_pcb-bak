@@ -17,13 +17,13 @@
   )
 
   (layers
-    (0 F.Cu signal hide)
-    (31 B.Cu signal hide)
+    (0 F.Cu signal)
+    (31 B.Cu signal)
     (32 B.Adhes user hide)
     (33 F.Adhes user hide)
     (34 B.Paste user hide)
     (35 F.Paste user hide)
-    (36 B.SilkS user hide)
+    (36 B.SilkS user)
     (37 F.SilkS user)
     (38 B.Mask user hide)
     (39 F.Mask user hide)
@@ -31,7 +31,7 @@
     (41 Cmts.User user hide)
     (42 Eco1.User user hide)
     (43 Eco2.User user hide)
-    (44 Edge.Cuts user hide)
+    (44 Edge.Cuts user)
     (45 Margin user hide)
     (46 B.CrtYd user hide)
     (47 F.CrtYd user hide)
@@ -2433,7 +2433,7 @@
     (fp_line (start -0.127 6.604) (end 18.034 6.604) (layer F.Fab) (width 0.15))
     (fp_line (start 18.034 6.604) (end 18.034 -6.604) (layer F.Fab) (width 0.15))
     (fp_line (start 18.034 -6.604) (end -0.127 -6.604) (layer F.Fab) (width 0.15))
-    (fp_text user E73-2G4M08S1C (at 15.875 0) (layer F.SilkS) hide
+    (fp_text user E73-2G4M08S1C (at 15.875 0) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (pad 28 smd rect (at 4.632 4.041 90) (size 0.65 1) (layers F.Cu F.Paste F.Mask)
@@ -4587,7 +4587,7 @@
     (at 113.453 15.6058)
     (path /5EE30D46)
     (attr smd)
-    (fp_text reference J0 (at 0 8.3) (layer F.SilkS) hide
+    (fp_text reference J0 (at 0 8.3) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value USB_C_Receptacle_USB2.0 (at 0 -0.5) (layer F.Fab)
