@@ -1,4 +1,4 @@
-17061702998132904
+17066479302718915
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -42672,11 +42672,25 @@ THT ceramic resonator filter DSS6
 3
 3
 Custom Footies
+C_0603_1608Metric_better_silk
+Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+Custom Footies
 MX-Alps-Choc-1U-No-reversible-fixed
 
 
 0
 11
+2
+Custom Footies
+R_0603_1608Metric_better_silk
+Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
 2
 Custom Footies
 USB-C-C168688
@@ -42708,6 +42722,13 @@ breakaway-mousebites
 0
 Custom Footies
 juliet_7e4
+
+
+0
+0
+0
+Custom Footies
+pgnm
 
 
 0

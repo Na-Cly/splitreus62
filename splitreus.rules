@@ -1,0 +1,86 @@
+
+(rules PCB splitreus
+  (snap_angle 
+    fortyfive_degree
+  )
+  (autoroute_settings
+    (fanout off)
+    (eu.mihosoft.freerouting.autoroute on)
+    (postroute on)
+    (vias on)
+    (via_costs 50)
+    (plane_via_costs 5)
+    (start_ripup_costs 100)
+    (start_pass_no 25)
+    (layer_rule F.Cu
+      (active on)
+      (preferred_direction horizontal)
+      (preferred_direction_trace_costs 1.0)
+      (against_preferred_direction_trace_costs 2.3)
+    )
+    (layer_rule B.Cu
+      (active on)
+      (preferred_direction vertical)
+      (preferred_direction_trace_costs 1.0)
+      (against_preferred_direction_trace_costs 1.8)
+    )
+  )
+  (rule
+    (width 250.0)
+    (clear 200.2)
+    (clear 125.0 (type smd_to_turn_gap))
+    (clear 50.0 (type smd_smd))
+  )
+  (padstack "Via[0-1]_800:400_um"
+    (shape
+      (circle F.Cu 800.0 0.0 0.0)
+    )
+    (shape
+      (circle B.Cu 800.0 0.0 0.0)
+    )
+    (attach off)
+  )
+  (via 
+    "Via[0-1]_800:400_um" "Via[0-1]_800:400_um" default
+  )
+  (via 
+    "Via[0-1]_800:400_um-kicad_default" "Via[0-1]_800:400_um" "kicad_default"
+  )
+  (via_rule
+    default "Via[0-1]_800:400_um"
+  )
+  (via_rule
+    "kicad_default" "Via[0-1]_800:400_um-kicad_default"
+  )
+  (class default
+    (clearance_class default)
+    (via_rule default)
+    (rule
+      (width 250.0)
+    )
+    (circuit 
+      (use_layer F.Cu B.Cu)
+    )
+  )
+  (class "kicad_default"
+    "Net-(D0-Pad1)" "Net-(D1-Pad1)" "Net-(D2-Pad1)" "Net-(D3-Pad1)" "Net-(D4-Pad1)" "Net-(D5-Pad1)" "Net-(D6-Pad1)" "Net-(D7-Pad1)"
+    "Net-(D8-Pad1)" "Net-(D9-Pad1)" "Net-(D10-Pad1)" "Net-(D11-Pad1)" "Net-(D12-Pad1)" "Net-(D13-Pad1)" "Net-(D14-Pad1)" "Net-(D15-Pad1)"
+    "Net-(D16-Pad1)" "Net-(D17-Pad1)" "Net-(D18-Pad1)" "Net-(D19-Pad1)" "Net-(D21-Pad1)" "Net-(D22-Pad1)" "Net-(D23-Pad1)" "Net-(D24-Pad1)"
+    "Net-(D25-Pad1)" "Net-(D26-Pad1)" "Net-(D27-Pad1)" "Net-(D28-Pad1)" "Net-(D29-Pad1)" "Net-(D30-Pad1)" ROW0 ROW1
+    ROW2 ROW3 ROW4 ROW5 COL0 GND COL4 COL2
+    VCC COL5 COL3 COL1 "Net-(D20-Pad1)" RST VBAT VBUS
+    "Net-(D31-Pad1)" "Net-(D33-Pad1)" "BLE_LED" D+ "D-" "Net-(R3-Pad1)" "Net-(R4-Pad2)" "BATT_VOLT"
+    "Net-(C1-Pad1)" "Net-(C3-Pad1)" "Net-(J0-PadA5)" "Net-(J0-PadB5)" "Net-(PWR1-Pad1)" SWDIO "Net-(C2-Pad1)" SWDCLK
+    "Net-(J0-PadS1)" "Net-(J0-PadB8)" "Net-(J0-PadA8)" "Net-(PWR1-Pad3)" "Net-(U0-Pad28)" "Net-(U0-Pad33)" "Net-(L1-Pad1)" "Net-(U0-Pad30)"
+    "Net-(U0-Pad32)" "Net-(U0-Pad34)" "Net-(U0-Pad36)" "Net-(U0-Pad38)" "Net-(U0-Pad40)" "Net-(U0-Pad42)" "Net-(U0-Pad14)" "Net-(U0-Pad12)"
+    "Net-(U0-Pad20)" "Net-(U0-Pad16)" "Net-(U0-Pad22)" "Net-(U0-Pad18)" "Net-(U2-Pad4)"
+    (clearance_class "kicad_default")
+    (via_rule kicad_default)
+    (rule
+      (width 250.0)
+    )
+    (circuit 
+      (use_layer F.Cu B.Cu)
+    )
+  )
+)
