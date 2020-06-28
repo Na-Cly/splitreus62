@@ -1191,4 +1191,15 @@ Text GLabel 8400 1800 0    50   Input ~ 0
 COL4
 Text GLabel 8400 2800 0    50   Input ~ 0
 ROW1
+$Comp
+L Connector:USB_C_Receptacle_USB2.0 J?
+U 1 1 5EFF0F73
+P 1300 6250
+F 0 "J?" H 1407 7117 50  0000 C CNN
+F 1 "USB_C_Receptacle_USB2.0" H 1407 7026 50  0000 C CNN
+F 2 "" H 1450 6250 50  0001 C CNN
+F 3 "https://www.usb.org/sites/default/files/documents/usb_type-c.zip" H 1450 6250 50  0001 C CNN
+	1    1300 6250
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC

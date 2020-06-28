@@ -1056,23 +1056,19 @@ Text GLabel 7200 4400 1    50   Input ~ 0
 ROW4
 Text GLabel 7200 5300 1    50   Input ~ 0
 ROW5
-Text GLabel 12350 1400 0    50   Input ~ 0
-ROW0
-Text GLabel 12350 1500 0    50   Input ~ 0
-ROW1
-Text GLabel 12350 1800 0    50   Input ~ 0
+Text GLabel 8400 2700 0    50   Input ~ 0
 ROW2
-Text GLabel 12350 2000 0    50   Input ~ 0
+Text GLabel 10550 2800 2    50   Input ~ 0
 ROW3
-Text GLabel 12350 2100 0    50   Input ~ 0
+Text GLabel 10550 2200 2    50   Input ~ 0
 ROW4
-Text GLabel 12350 2200 0    50   Input ~ 0
+Text GLabel 10550 2600 2    50   Input ~ 0
 ROW5
-Text GLabel 12350 2300 0    50   Input ~ 0
+Text GLabel 8400 900  0    50   Input ~ 0
 COL0
-Text GLabel 12350 2400 0    50   Input ~ 0
+Text GLabel 10550 2500 2    50   Input ~ 0
 COL1
-Text GLabel 12350 2500 0    50   Input ~ 0
+Text GLabel 10550 2400 2    50   Input ~ 0
 COL2
 Text GLabel 1450 4700 3    50   Input ~ 0
 COL0
@@ -1086,32 +1082,17 @@ Text GLabel 6100 4700 3    50   Input ~ 0
 COL4
 Text GLabel 7350 5600 3    50   Input ~ 0
 COL5
-Text GLabel 13750 2400 2    50   Input ~ 0
-COL4
-Text GLabel 13750 2300 2    50   Input ~ 0
+Text GLabel 8400 1900 0    50   Input ~ 0
 COL5
-Text GLabel 12350 1900 0    50   Input ~ 0
+Text GLabel 8400 2600 0    50   Input ~ 0
 SERIAL
-$Comp
-L promicro:ProMicro U1
-U 1 1 5E46BADA
-P 13050 2150
-F 0 "U1" H 13050 3187 60  0000 C CNN
-F 1 "ProMicro" H 13050 3081 60  0000 C CNN
-F 2 "Lily58-footprint:ProMicro_rev2" H 13150 1100 60  0001 C CNN
-F 3 "" H 13150 1100 60  0000 C CNN
-	1    13050 2150
-	1    0    0    -1  
-$EndComp
-Text GLabel 13750 2500 2    50   Input ~ 0
+Text GLabel 10550 2300 2    50   Input ~ 0
 COL3
 Text GLabel 9600 3700 2    50   Input ~ 0
 SERIAL
 Text GLabel 9600 3450 2    50   Input ~ 0
 VCC
 Text GLabel 9600 3800 2    50   Input ~ 0
-GND
-Text GLabel 12350 1700 0    50   Input ~ 0
 GND
 Wire Wire Line
 	1450 2000 1200 2000
@@ -1132,8 +1113,6 @@ F 3 "" H 1000 1150 60  0000 C CNN
 	1    1000 1150
 	1    0    0    -1  
 $EndComp
-Text GLabel 13750 2200 2    50   Input ~ 0
-LED
 $Comp
 L lily58-cache_mj-4pp-9:Lily58-cache_MJ-4PP-9 J1
 U 1 1 5E5FAED1
@@ -1145,7 +1124,7 @@ F 3 "~" H 9150 3600 50  0001 C CNN
 	1    9150 3600
 	1    0    0    -1  
 $EndComp
-Text GLabel 13750 1600 2    50   Input ~ 0
+Text GLabel 8400 2100 0    50   Input ~ 0
 RST
 Text GLabel 9550 4550 2    50   Input ~ 0
 RST
@@ -1160,10 +1139,6 @@ F 3 "~" H 9350 4750 50  0001 C CNN
 	1    9350 4550
 	-1   0    0    1   
 $EndComp
-Text GLabel 13750 1800 2    50   Input ~ 0
-VCC
-Text GLabel 13750 1700 2    50   Input ~ 0
-VCC
 $Comp
 L Keyboard_Parts:ATMEGA32U4 U1
 U 1 1 5EF9801C
@@ -1186,4 +1161,34 @@ F 3 "" H 9150 4550 50  0001 C CNN
 	1    9150 4550
 	0    1    1    0   
 $EndComp
+Text GLabel 8400 1700 0    50   Input ~ 0
+LED
+$Comp
+L power:VCC #PWR?
+U 1 1 5EFDA1AF
+P 10550 1400
+F 0 "#PWR?" H 10550 1250 50  0001 C CNN
+F 1 "VCC" V 10567 1528 50  0000 L CNN
+F 2 "" H 10550 1400 50  0001 C CNN
+F 3 "" H 10550 1400 50  0001 C CNN
+	1    10550 1400
+	0    1    1    0   
+$EndComp
+$Comp
+L power:VCC #PWR?
+U 1 1 5EFDA531
+P 10550 1900
+F 0 "#PWR?" H 10550 1750 50  0001 C CNN
+F 1 "VCC" V 10567 2028 50  0000 L CNN
+F 2 "" H 10550 1900 50  0001 C CNN
+F 3 "" H 10550 1900 50  0001 C CNN
+	1    10550 1900
+	0    1    1    0   
+$EndComp
+Text GLabel 8400 2900 0    50   Input ~ 0
+ROW0
+Text GLabel 8400 1800 0    50   Input ~ 0
+COL4
+Text GLabel 8400 2800 0    50   Input ~ 0
+ROW1
 $EndSCHEMATC
