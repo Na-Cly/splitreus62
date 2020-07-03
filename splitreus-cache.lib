@@ -1,6 +1,27 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
+# Connector_Generic_Conn_01x03
+#
+DEF Connector_Generic_Conn_01x03 J 0 40 Y N 1 F N
+F0 "J" 0 200 50 H V C CNN
+F1 "Connector_Generic_Conn_01x03" 0 -200 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ Connector*:*_1x??_*
+$ENDFPLIST
+DRAW
+S -50 -95 0 -105 1 1 6 N
+S -50 5 0 -5 1 1 6 N
+S -50 105 0 95 1 1 6 N
+S -50 150 50 -150 1 1 10 f
+X Pin_1 1 -200 100 150 R 50 50 1 1 P
+X Pin_2 2 -200 0 150 R 50 50 1 1 P
+X Pin_3 3 -200 -100 150 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
 # Keyboard_Parts_DIODE_SCHOTTKY_SOT23
 #
 DEF Keyboard_Parts_DIODE_SCHOTTKY_SOT23 D 0 40 N N 1 F N
@@ -54,27 +75,62 @@ X B 2 200 0 100 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# lily58-cache_mj-4pp-9_Lily58-cache_MJ-4PP-9
+# custom_symbols_PJ-606-6A
 #
-DEF lily58-cache_mj-4pp-9_Lily58-cache_MJ-4PP-9 J 0 40 Y Y 1 F N
-F0 "J" -350 -300 60 H V C CNN
-F1 "lily58-cache_mj-4pp-9_Lily58-cache_MJ-4PP-9" -150 250 60 H V C CNN
+DEF custom_symbols_PJ-606-6A J 0 40 Y Y 1 F N
+F0 "J" 0 100 50 H V C CNN
+F1 "custom_symbols_PJ-606-6A" 0 0 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+S -400 -100 350 -500 0 0 0 N
+X Ring2 1 -500 -150 100 R 50 50 1 1 B
+X Sleeve 2 -500 -300 100 R 50 50 1 1 B
+X Tip 3 -500 -450 100 R 50 50 1 1 B
+X Tip 4 450 -450 100 L 50 50 1 1 B
+X Ring1 5 450 -300 100 L 50 50 1 1 B
+X Sleeve 6 450 -150 100 L 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
+# gnd_GND
+#
+DEF gnd_GND #PWR 0 0 Y Y 1 F P
+F0 "#PWR" 0 -250 50 H I C CNN
+F1 "gnd_GND" 0 -150 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 6 1 1 0 0 0 0 -50 50 -50 0 -100 -50 -50 0 -50 N
+X GND 1 0 0 0 R 50 50 1 1 W N
+ENDDRAW
+ENDDEF
+#
+# hole_HOLE
+#
+DEF hole_HOLE U 0 40 Y Y 1 F N
+F0 "U" 0 0 60 H V C CNN
+F1 "hole_HOLE" 0 -200 60 H V C CNN
 F2 "" 0 0 60 H V C CNN
 F3 "" 0 0 60 H V C CNN
 DRAW
-S -300 100 -350 -150 0 1 0 N
-S 300 -250 -400 200 0 1 0 N
-P 2 0 1 0 100 0 300 0 N
-P 3 0 1 0 -100 -200 300 -200 300 -200 N
-P 3 0 1 0 0 -100 -50 -50 -100 -100 N
-P 3 0 1 0 0 0 50 50 100 0 N
-P 3 0 1 0 300 150 -300 150 -300 100 N
-P 4 0 1 0 -100 -200 -150 -150 -200 -200 -200 -200 N
-P 4 0 1 0 0 -100 300 -100 300 -100 300 -100 N
-X ~ 1 450 0 150 L 50 50 1 1 P
-X ~ 2 450 -100 150 L 50 50 1 1 P
-X ~ 3 450 -200 150 L 50 50 1 1 P
-X ~ 4 450 150 150 L 50 50 1 1 P
+T 0 0 150 60 0 0 0 HOLE Normal 0 C C
+S 150 200 -150 -150 0 1 0 N
+ENDDRAW
+ENDDEF
+#
+# jumper_smd_jumper_smd
+#
+DEF jumper_smd_jumper_smd W 0 30 N N 1 F N
+F0 "W" 0 60 50 H V C CNN
+F1 "jumper_smd_jumper_smd" 0 -70 50 H V C CNN
+F2 "" 0 0 50 H V C CNN
+F3 "" 0 0 50 H V C CNN
+DRAW
+C -70 0 30 0 1 0 N
+C 70 0 30 0 1 0 N
+X 1 1 -200 0 100 R 50 50 0 1 P
+X 2 2 200 0 100 L 50 50 0 1 P
 ENDDRAW
 ENDDEF
 #
@@ -111,6 +167,35 @@ X SDA 6 -700 250 200 R 50 50 1 1 B
 X D4 7 -700 150 200 R 50 50 1 1 B
 X C6 8 -700 50 200 R 50 50 1 1 B
 X D7 9 -700 -50 200 R 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
+# pspice_DIODE
+#
+DEF pspice_DIODE D 0 40 Y N 1 F N
+F0 "D" 0 150 50 H V C CNN
+F1 "pspice_DIODE" 0 -175 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 0 1 0 75 100 75 -100 N
+P 3 0 1 0 -75 100 -75 -100 75 0 F
+X K 1 -200 0 150 R 50 50 1 1 I
+X A 2 200 0 150 L 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# vcc_VCC
+#
+DEF vcc_VCC #PWR 0 0 Y Y 1 F P
+F0 "#PWR" 0 -150 50 H I C CNN
+F1 "vcc_VCC" 0 150 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+C 0 75 25 0 1 0 N
+P 2 0 1 0 0 0 0 50 N
+X VCC 1 0 0 0 U 50 50 1 1 W N
 ENDDRAW
 ENDDEF
 #
