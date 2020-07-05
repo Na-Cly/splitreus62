@@ -1126,8 +1126,6 @@ F 3 "" H 1200 1550 60  0000 C CNN
 	1    1200 1550
 	1    0    0    -1  
 $EndComp
-Text GLabel 10600 2300 2    50   Input ~ 0
-LED
 $Comp
 L Connector:AudioJack4 J1
 U 1 1 5E5FAED1
@@ -1273,41 +1271,6 @@ F 3 "" H 9000 3300 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Connector_Generic:Conn_01x03 J2
-U 1 1 5F001DD3
-P 8800 4450
-F 0 "J2" H 8880 4492 50  0000 L CNN
-F 1 "LED" H 8880 4401 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical" H 8800 4450 50  0001 C CNN
-F 3 "~" H 8800 4450 50  0001 C CNN
-	1    8800 4450
-	1    0    0    -1  
-$EndComp
-Text GLabel 8600 4450 0    50   Input ~ 0
-LED
-$Comp
-L vcc:VCC #PWR0111
-U 1 1 5F0036F8
-P 8600 4350
-F 0 "#PWR0111" H 8600 4200 50  0001 C CNN
-F 1 "VCC" V 8618 4477 50  0000 L CNN
-F 2 "" H 8600 4350 50  0001 C CNN
-F 3 "" H 8600 4350 50  0001 C CNN
-	1    8600 4350
-	0    -1   -1   0   
-$EndComp
-$Comp
-L gnd:GND #PWR0112
-U 1 1 5F003DD7
-P 8600 4550
-F 0 "#PWR0112" H 8600 4300 50  0001 C CNN
-F 1 "GND" V 8600 4250 50  0000 L CNN
-F 2 "" H 8600 4550 50  0001 C CNN
-F 3 "" H 8600 4550 50  0001 C CNN
-	1    8600 4550
-	0    1    1    0   
-$EndComp
-$Comp
 L hole:HOLE U2
 U 1 1 5F0447E9
 P 1100 6050
@@ -1362,4 +1325,9 @@ F 3 "" H 1800 6650 60  0000 C CNN
 	1    1800 6650
 	1    0    0    -1  
 $EndComp
+NoConn ~ 10600 2000
+NoConn ~ 10600 2100
+NoConn ~ 10600 2200
+NoConn ~ 10600 2300
+NoConn ~ 10600 1500
 $EndSCHEMATC
