@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 454)
+    (drawings 451)
     (tracks 0)
     (zones 0)
     (modules 72)
@@ -257,7 +257,7 @@
   )
 
   (module keebio:Kailh-PG1350-1u-reversible-No-Clickhole (layer F.Cu) (tedit 5F02318C) (tstamp 5E474382)
-    (at 107.8 63.2 270)
+    (at 108 63 270)
     (path /5E556622)
     (fp_text reference SW30 (at 0 7.14375 90) (layer Dwgs.User)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -299,7 +299,7 @@
   )
 
   (module keebio:Kailh-PG1350-1u-reversible-No-Clickhole (layer F.Cu) (tedit 5F02318C) (tstamp 5E474814)
-    (at 90.25 71.2)
+    (at 90 71)
     (path /5E4CDEDE)
     (fp_text reference SW29 (at 0 7.14375) (layer Dwgs.User)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -341,7 +341,7 @@
   )
 
   (module keebio:Kailh-PG1350-1u-reversible-No-Clickhole (layer F.Cu) (tedit 5F02318C) (tstamp 5E47486E)
-    (at 90.25 54.15)
+    (at 90 54)
     (path /5E4CDED2)
     (fp_text reference SW28 (at 0 7.14375) (layer Dwgs.User)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -383,7 +383,7 @@
   )
 
   (module keebio:Kailh-PG1350-1u-reversible-No-Clickhole (layer F.Cu) (tedit 5F02318C) (tstamp 5E474058)
-    (at 90.25 37.1)
+    (at 90 37)
     (path /5E4CDEC6)
     (fp_text reference SW27 (at 0 7.14375) (layer Dwgs.User)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -425,7 +425,7 @@
   )
 
   (module keebio:Kailh-PG1350-1u-reversible-No-Clickhole (layer F.Cu) (tedit 5F02318C) (tstamp 5E47410C)
-    (at 90.25 20.05)
+    (at 90 20)
     (path /5E4CDEBA)
     (fp_text reference SW26 (at 0 7.14375) (layer Dwgs.User)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -467,7 +467,7 @@
   )
 
   (module keebio:Kailh-PG1350-1u-reversible-No-Clickhole (layer F.Cu) (tedit 5F02318C) (tstamp 5E474274)
-    (at 90.25 3)
+    (at 90 3)
     (path /5E4CDEAE)
     (fp_text reference SW25 (at 0 7.14375) (layer Dwgs.User)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -509,7 +509,7 @@
   )
 
   (module keebio:Kailh-PG1350-1u-reversible-No-Clickhole (layer F.Cu) (tedit 5F02318C) (tstamp 5E4740B2)
-    (at 72.2 66.2)
+    (at 72 66)
     (path /5E4CDEA2)
     (fp_text reference SW24 (at 0 7.14375) (layer Dwgs.User)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -551,7 +551,7 @@
   )
 
   (module keebio:Kailh-PG1350-1u-reversible-No-Clickhole (layer F.Cu) (tedit 5F02318C) (tstamp 5E474166)
-    (at 72.2 49.15)
+    (at 72 49)
     (path /5E4CDE96)
     (fp_text reference SW23 (at 0 7.14375) (layer Dwgs.User)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -593,7 +593,7 @@
   )
 
   (module keebio:Kailh-PG1350-1u-reversible-No-Clickhole (layer F.Cu) (tedit 5F02318C) (tstamp 5E474652)
-    (at 72.2 32.1)
+    (at 72 32)
     (path /5E4CDE8A)
     (fp_text reference SW22 (at 0 7.14375) (layer Dwgs.User)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -635,7 +635,7 @@
   )
 
   (module keebio:Kailh-PG1350-1u-reversible-No-Clickhole (layer F.Cu) (tedit 5F02318C) (tstamp 5E472E57)
-    (at 72.2 15.05)
+    (at 72 15)
     (path /5E4CDE7E)
     (fp_text reference SW21 (at 0 7.14375) (layer Dwgs.User)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -677,7 +677,7 @@
   )
 
   (module keebio:Kailh-PG1350-1u-reversible-No-Clickhole (layer F.Cu) (tedit 5F02318C) (tstamp 5E473FFE)
-    (at 72.2 -2)
+    (at 72 -2)
     (path /5E4CDE72)
     (fp_text reference SW20 (at 0 7.14375) (layer Dwgs.User)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -719,7 +719,7 @@
   )
 
   (module keebio:Kailh-PG1350-1u-reversible-No-Clickhole (layer F.Cu) (tedit 5F02318C) (tstamp 5E4745F8)
-    (at 54.15 60.2)
+    (at 54 60)
     (path /5E4C837A)
     (fp_text reference SW19 (at 0 7.14375) (layer Dwgs.User)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -761,7 +761,7 @@
   )
 
   (module keebio:Kailh-PG1350-1u-reversible-No-Clickhole (layer F.Cu) (tedit 5F02318C) (tstamp 5E4746AC)
-    (at 54.15 43.15)
+    (at 54 43)
     (path /5E4C836E)
     (fp_text reference SW18 (at 0 7.14375) (layer Dwgs.User)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -803,7 +803,7 @@
   )
 
   (module keebio:Kailh-PG1350-1u-reversible-No-Clickhole (layer F.Cu) (tedit 5F02318C) (tstamp 5E474706)
-    (at 54.15 26.1)
+    (at 54 26)
     (path /5E4C8362)
     (fp_text reference SW17 (at 0 7.14375) (layer Dwgs.User)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -845,7 +845,7 @@
   )
 
   (module keebio:Kailh-PG1350-1u-reversible-No-Clickhole (layer F.Cu) (tedit 5F02318C) (tstamp 5E47459E)
-    (at 54.15 9.05)
+    (at 54 9)
     (path /5E4C8356)
     (fp_text reference SW16 (at 0 7.14375) (layer Dwgs.User)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -887,7 +887,7 @@
   )
 
   (module keebio:Kailh-PG1350-1u-reversible-No-Clickhole (layer F.Cu) (tedit 5F02318C) (tstamp 5E473EF0)
-    (at 54.15 -8)
+    (at 54 -8)
     (path /5E4C834A)
     (fp_text reference SW15 (at 0 7.14375) (layer Dwgs.User)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -929,7 +929,7 @@
   )
 
   (module keebio:Kailh-PG1350-1u-reversible-No-Clickhole (layer F.Cu) (tedit 5F02318C) (tstamp 5E473FA4)
-    (at 36.1 65.2)
+    (at 36 65)
     (path /5E4C833E)
     (fp_text reference SW14 (at 0 7.14375) (layer Dwgs.User)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -971,7 +971,7 @@
   )
 
   (module keebio:Kailh-PG1350-1u-reversible-No-Clickhole (layer F.Cu) (tedit 5F02318C) (tstamp 5E474544)
-    (at 36.1 48.15)
+    (at 36 48)
     (path /5E4C8332)
     (fp_text reference SW13 (at 0 7.14375) (layer Dwgs.User)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -1013,7 +1013,7 @@
   )
 
   (module keebio:Kailh-PG1350-1u-reversible-No-Clickhole (layer F.Cu) (tedit 5F02318C) (tstamp 5E473F4A)
-    (at 36.1 31.1)
+    (at 36 31)
     (path /5E4C8326)
     (fp_text reference SW12 (at 0 7.14375) (layer Dwgs.User)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -1055,7 +1055,7 @@
   )
 
   (module keebio:Kailh-PG1350-1u-reversible-No-Clickhole (layer F.Cu) (tedit 5F02318C) (tstamp 5E474328)
-    (at 36.1 14.05)
+    (at 36 14.05)
     (path /5E4C831A)
     (fp_text reference SW11 (at 0 7.14375) (layer Dwgs.User)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -1097,7 +1097,7 @@
   )
 
   (module keebio:Kailh-PG1350-1u-reversible-No-Clickhole (layer F.Cu) (tedit 5F02318C) (tstamp 5E4747BA)
-    (at 36.1 -3)
+    (at 36 -3)
     (path /5E4C830E)
     (fp_text reference SW10 (at 0 7.14375) (layer Dwgs.User)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -1139,7 +1139,7 @@
   )
 
   (module keebio:Kailh-PG1350-1u-reversible-No-Clickhole (layer F.Cu) (tedit 5F02318C) (tstamp 5E4741C0)
-    (at 18.05 68.2)
+    (at 18 68)
     (path /5E47E5B9)
     (fp_text reference SW9 (at 0 7.14375) (layer Dwgs.User)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -1181,7 +1181,7 @@
   )
 
   (module keebio:Kailh-PG1350-1u-reversible-No-Clickhole (layer F.Cu) (tedit 5F02318C) (tstamp 5E4744EA)
-    (at 18.05 51.15)
+    (at 18 51)
     (path /5E47E5AD)
     (fp_text reference SW8 (at 0 7.14375) (layer Dwgs.User)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -1223,7 +1223,7 @@
   )
 
   (module keebio:Kailh-PG1350-1u-reversible-No-Clickhole (layer F.Cu) (tedit 5F02318C) (tstamp 5E474490)
-    (at 18.05 34.1)
+    (at 18 34)
     (path /5E47E5A1)
     (fp_text reference SW7 (at 0 7.14375) (layer Dwgs.User)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -1265,7 +1265,7 @@
   )
 
   (module keebio:Kailh-PG1350-1u-reversible-No-Clickhole (layer F.Cu) (tedit 5F02318C) (tstamp 5E474760)
-    (at 18 17.05)
+    (at 18 17)
     (path /5E47E595)
     (fp_text reference SW6 (at 0 7.14375) (layer Dwgs.User)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -1516,7 +1516,7 @@
     )
   )
 
-  (module Lily58-footprint:TRRS_JACK_MJ4PP9 (layer F.Cu) (tedit 5B8BE37A) (tstamp 5F036A4D)
+  (module Lily58-footprint:TRRS_JACK_MJ4PP9 locked (layer F.Cu) (tedit 5B8BE37A) (tstamp 5F036A4D)
     (at 118.6856 48.20416 270)
     (path /5E5FAED1)
     (fp_text reference J1 (at -0.1 15.1 90) (layer F.SilkS) hide
@@ -1569,7 +1569,7 @@
   )
 
   (module MountingHole:MountingHole_2.7mm_M2.5_ISO14580_Pad (layer F.Cu) (tedit 56D1B4CB) (tstamp 5F00DD16)
-    (at 81.225 57.675)
+    (at 81 57.5)
     (descr "Mounting Hole 2.7mm, M2.5, ISO14580")
     (tags "mounting hole 2.7mm m2.5 iso14580")
     (path /5F045765)
@@ -1589,7 +1589,7 @@
   )
 
   (module MountingHole:MountingHole_2.7mm_M2.5_ISO14580_Pad (layer F.Cu) (tedit 56D1B4CB) (tstamp 5F003616)
-    (at 81.225 6.525)
+    (at 81 6.5)
     (descr "Mounting Hole 2.7mm, M2.5, ISO14580")
     (tags "mounting hole 2.7mm m2.5 iso14580")
     (path /5F0464FB)
@@ -1609,7 +1609,7 @@
   )
 
   (module MountingHole:MountingHole_2.7mm_M2.5_ISO14580_Pad (layer F.Cu) (tedit 56D1B4CB) (tstamp 5F003606)
-    (at 45.125 22.575)
+    (at 45 22.5)
     (descr "Mounting Hole 2.7mm, M2.5, ISO14580")
     (tags "mounting hole 2.7mm m2.5 iso14580")
     (path /5F045005)
@@ -1629,7 +1629,7 @@
   )
 
   (module MountingHole:MountingHole_2.7mm_M2.5_ISO14580_Pad (layer F.Cu) (tedit 56D1B4CB) (tstamp 5F0035F6)
-    (at 9.025 59.675)
+    (at 9 59.5)
     (descr "Mounting Hole 2.7mm, M2.5, ISO14580")
     (tags "mounting hole 2.7mm m2.5 iso14580")
     (path /5F045DEC)
@@ -1649,7 +1649,7 @@
   )
 
   (module MountingHole:MountingHole_2.7mm_M2.5_ISO14580_Pad (layer F.Cu) (tedit 56D1B4CB) (tstamp 5F0036B5)
-    (at 9.025 8.525)
+    (at 9 8.5)
     (descr "Mounting Hole 2.7mm, M2.5, ISO14580")
     (tags "mounting hole 2.7mm m2.5 iso14580")
     (path /5F0447E9)
@@ -1669,7 +1669,7 @@
   )
 
   (module keebio:Diode-Hybrid-reversible (layer F.Cu) (tedit 5E8E2CA7) (tstamp 5F02D3BA)
-    (at 99.275 67.8 90)
+    (at 99 67.8 90)
     (path /5F037817)
     (attr smd)
     (fp_text reference D30 (at -0.0254 1.4 90) (layer B.SilkS)
@@ -1729,7 +1729,7 @@
   )
 
   (module keebio:Diode-Hybrid-reversible (layer F.Cu) (tedit 5E8E2CA7) (tstamp 5F02D397)
-    (at 99.275 57 90)
+    (at 99 57 90)
     (path /5F037819)
     (attr smd)
     (fp_text reference D29 (at -0.0254 1.4 90) (layer B.SilkS)
@@ -1789,7 +1789,7 @@
   )
 
   (module keebio:Diode-Hybrid-reversible (layer F.Cu) (tedit 5E8E2CA7) (tstamp 5F02D374)
-    (at 90.25 62.675)
+    (at 90 62.5)
     (path /5F03781B)
     (attr smd)
     (fp_text reference D28 (at -0.0254 1.4) (layer B.SilkS)
@@ -1849,7 +1849,7 @@
   )
 
   (module keebio:Diode-Hybrid-reversible (layer F.Cu) (tedit 5E8E2CA7) (tstamp 5F02D351)
-    (at 90.25 45.625)
+    (at 90 45.5)
     (path /5F03781D)
     (attr smd)
     (fp_text reference D27 (at -0.0254 1.4) (layer B.SilkS)
@@ -1909,7 +1909,7 @@
   )
 
   (module keebio:Diode-Hybrid-reversible (layer F.Cu) (tedit 5E8E2CA7) (tstamp 5F02D32E)
-    (at 90.25 28.575)
+    (at 90 28.5)
     (path /00000000)
     (attr smd)
     (fp_text reference D26 (at -0.0254 1.4) (layer B.SilkS)
@@ -1969,7 +1969,7 @@
   )
 
   (module keebio:Diode-Hybrid-reversible (layer F.Cu) (tedit 5E8E2CA7) (tstamp 5F02D30B)
-    (at 90.25 11.525)
+    (at 90 11.5)
     (path /5F03780B)
     (attr smd)
     (fp_text reference D25 (at -0.0254 1.4) (layer B.SilkS)
@@ -2029,7 +2029,7 @@
   )
 
   (module keebio:Diode-Hybrid-reversible (layer F.Cu) (tedit 5E8E2CA7) (tstamp 5F02D2E8)
-    (at 81.225 66.2 90)
+    (at 81 66.2 90)
     (path /5F037804)
     (attr smd)
     (fp_text reference D24 (at -0.0254 1.4 90) (layer B.SilkS)
@@ -2089,7 +2089,7 @@
   )
 
   (module keebio:Diode-Hybrid-reversible (layer F.Cu) (tedit 5E8E2CA7) (tstamp 5F02D2C5)
-    (at 72.2 57.675)
+    (at 72 57.5)
     (path /5F037806)
     (attr smd)
     (fp_text reference D23 (at -0.0254 1.4) (layer B.SilkS)
@@ -2149,7 +2149,7 @@
   )
 
   (module keebio:Diode-Hybrid-reversible (layer F.Cu) (tedit 5E8E2CA7) (tstamp 5F02D2A2)
-    (at 72.2 40.625)
+    (at 72 40.5)
     (path /5F037808)
     (attr smd)
     (fp_text reference D22 (at -0.0254 1.4) (layer B.SilkS)
@@ -2209,7 +2209,7 @@
   )
 
   (module keebio:Diode-Hybrid-reversible (layer F.Cu) (tedit 5E8E2CA7) (tstamp 5F02D27F)
-    (at 72.2 23.575)
+    (at 72 23.5)
     (path /5F03780A)
     (attr smd)
     (fp_text reference D21 (at -0.0254 1.4) (layer B.SilkS)
@@ -2269,7 +2269,7 @@
   )
 
   (module keebio:Diode-Hybrid-reversible (layer F.Cu) (tedit 5E8E2CA7) (tstamp 5F02D25C)
-    (at 72.2 6.525)
+    (at 72 6.5)
     (path /5F03780C)
     (attr smd)
     (fp_text reference D20 (at -0.0254 1.4) (layer B.SilkS)
@@ -2329,7 +2329,7 @@
   )
 
   (module keebio:Diode-Hybrid-reversible (layer F.Cu) (tedit 5E8E2CA7) (tstamp 5F02D239)
-    (at 63.175 63.7 90)
+    (at 63 63.7 90)
     (path /5F03780E)
     (attr smd)
     (fp_text reference D19 (at -0.0254 1.4 90) (layer B.SilkS)
@@ -2389,7 +2389,7 @@
   )
 
   (module keebio:Diode-Hybrid-reversible (layer F.Cu) (tedit 5E8E2CA7) (tstamp 5F02D216)
-    (at 54.15 51.675)
+    (at 54 51.5)
     (path /5F037810)
     (attr smd)
     (fp_text reference D18 (at -0.0254 1.4) (layer B.SilkS)
@@ -2449,7 +2449,7 @@
   )
 
   (module keebio:Diode-Hybrid-reversible (layer F.Cu) (tedit 5E8E2CA7) (tstamp 5F02D1F3)
-    (at 54.15 34.625)
+    (at 54 34.5)
     (path /5F037812)
     (attr smd)
     (fp_text reference D17 (at -0.0254 1.4) (layer B.SilkS)
@@ -2509,7 +2509,7 @@
   )
 
   (module keebio:Diode-Hybrid-reversible (layer F.Cu) (tedit 5E8E2CA7) (tstamp 5F02D1D0)
-    (at 54.15 17.575)
+    (at 54 17.5)
     (path /5F037811)
     (attr smd)
     (fp_text reference D16 (at -0.0254 1.4) (layer B.SilkS)
@@ -2569,7 +2569,7 @@
   )
 
   (module keebio:Diode-Hybrid-reversible (layer F.Cu) (tedit 5E8E2CA7) (tstamp 5F02D1AD)
-    (at 54.15 0.525)
+    (at 54 0.5)
     (path /5F03780F)
     (attr smd)
     (fp_text reference D15 (at -0.0254 1.4) (layer B.SilkS)
@@ -2629,7 +2629,7 @@
   )
 
   (module keebio:Diode-Hybrid-reversible (layer F.Cu) (tedit 5E8E2CA7) (tstamp 5F034E77)
-    (at 45.125 63.7 90)
+    (at 45 63.7 90)
     (path /5F03780D)
     (attr smd)
     (fp_text reference D14 (at -0.0254 1.4 90) (layer B.SilkS)
@@ -2929,7 +2929,7 @@
   )
 
   (module keebio:Diode-Hybrid-reversible (layer F.Cu) (tedit 5E8E2CA7) (tstamp 5F02D0DB)
-    (at 27.075 68.2 90)
+    (at 27.075 68 90)
     (path /5F037803)
     (attr smd)
     (fp_text reference D9 (at -0.0254 1.4 90) (layer B.SilkS)
@@ -2989,7 +2989,7 @@
   )
 
   (module keebio:Diode-Hybrid-reversible (layer F.Cu) (tedit 5E8E2CA7) (tstamp 5F02D0B8)
-    (at 18.05 59.675)
+    (at 18.05 59.5)
     (path /5F037813)
     (attr smd)
     (fp_text reference D8 (at -0.0254 1.4) (layer B.SilkS)
@@ -3049,7 +3049,7 @@
   )
 
   (module keebio:Diode-Hybrid-reversible (layer F.Cu) (tedit 5E8E2CA7) (tstamp 5F02D095)
-    (at 18.05 42.625)
+    (at 18.05 42.5)
     (path /5F03781E)
     (attr smd)
     (fp_text reference D7 (at -0.0254 1.4) (layer B.SilkS)
@@ -3109,7 +3109,7 @@
   )
 
   (module keebio:Diode-Hybrid-reversible (layer F.Cu) (tedit 5E8E2CA7) (tstamp 5F02D072)
-    (at 18.05 25.575)
+    (at 18.05 25.5)
     (path /5F03781C)
     (attr smd)
     (fp_text reference D6 (at -0.0254 1.4) (layer B.SilkS)
@@ -3169,7 +3169,7 @@
   )
 
   (module keebio:Diode-Hybrid-reversible (layer F.Cu) (tedit 5E8E2CA7) (tstamp 5F02D04F)
-    (at 18.05 8.525)
+    (at 18.05 8.5)
     (path /5F03781A)
     (attr smd)
     (fp_text reference D5 (at -0.0254 1.4) (layer B.SilkS)
@@ -3229,7 +3229,7 @@
   )
 
   (module keebio:Diode-Hybrid-reversible (layer F.Cu) (tedit 5E8E2CA7) (tstamp 5F03453F)
-    (at 9.025 68.2 90)
+    (at 9.025 68 90)
     (path /5F037818)
     (attr smd)
     (fp_text reference D4 (at -0.0254 1.4 90) (layer B.SilkS)
@@ -3507,7 +3507,7 @@
   )
 
   (module Lily58-footprint:TACT_SWITCH_TVBP06 (layer F.Cu) (tedit 5B8CD44F) (tstamp 5E536AB5)
-    (at 102.74456 47.10688 270)
+    (at 102.74456 47.32916 270)
     (path /5E535651)
     (fp_text reference RST1 (at 0 -1.7 90) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3732,9 +3732,10 @@
     )
   )
 
+  (gr_line (start -6.009752 74.888698) (end 25.00532 74.888698) (layer Edge.Cuts) (width 0.05))
   (gr_arc (start -6.000115 -6.099999) (end -6.000115 -7.099999) (angle -89.99336225) (layer Edge.Cuts) (width 0.05))
   (gr_line (start -7.009382 73.884216) (end -7.000115 -6.100115) (layer Edge.Cuts) (width 0.05))
-  (gr_arc (start -6.009392 73.888698) (end -7.009382 73.884216) (angle -90.23597044) (layer Edge.Cuts) (width 0.05))
+  (gr_arc (start -6.009392 73.888698) (end -7.009382 73.884216) (angle -90.23616897) (layer Edge.Cuts) (width 0.05))
   (gr_line (start -6.000115 -7.099999) (end 7 -7.1) (layer Edge.Cuts) (width 0.05))
   (gr_arc (start 96.006136 -3.1019) (end 97.006136 -3.101428) (angle -90.03541407) (layer Edge.Cuts) (width 0.05))
   (gr_line (start 83 -4.099999) (end 96.00599 -4.1019) (layer Edge.Cuts) (width 0.05))
@@ -3747,23 +3748,19 @@
   (gr_line (start 64.999999 -9.1) (end 61 -15.099999) (layer Edge.Cuts) (width 0.05))
   (gr_line (start 83 -4.099999) (end 78.999999 -9.1) (layer Edge.Cuts) (width 0.05))
   (gr_line (start 118.5 9.899999) (end 97 9.899999) (layer Edge.Cuts) (width 0.05))
-  (gr_line (start 97 -4.1) (end 97 9.899999) (layer Edge.Cuts) (width 0.05))
   (gr_line (start 115 69.9) (end 118.5 69.9) (layer Edge.Cuts) (width 0.05))
   (gr_line (start 119.5 10.899999) (end 119.5 68.9) (layer Edge.Cuts) (width 0.05))
   (gr_line (start 97 77.9) (end 100.999999 69.9) (layer Edge.Cuts) (width 0.05))
   (gr_line (start 78.999999 72.9) (end 83 77.9) (layer Edge.Cuts) (width 0.05))
   (gr_line (start 61 66.9) (end 64.999999 72.9) (layer Edge.Cuts) (width 0.05))
   (gr_line (start 42.999999 71.9) (end 47 66.9) (layer Edge.Cuts) (width 0.05))
-  (gr_line (start 28.999999 71.9) (end 25 74.9) (layer Edge.Cuts) (width 0.05))
-  (gr_line (start -6.009756 74.888698) (end 25 74.9) (layer Edge.Cuts) (width 0.05))
+  (gr_line (start 28.999999 71.9) (end 25.00532 74.888698) (layer Edge.Cuts) (width 0.05))
   (gr_line (start 115 69.9) (end 100.999999 69.9) (layer Edge.Cuts) (width 0.05))
   (gr_line (start 97 77.9) (end 83 77.9) (layer Edge.Cuts) (width 0.05))
   (gr_line (start 78.999999 72.9) (end 64.999999 72.9) (layer Edge.Cuts) (width 0.05))
   (gr_line (start 61 66.9) (end 47 66.9) (layer Edge.Cuts) (width 0.05))
   (gr_line (start 42.999999 71.9) (end 28.999999 71.9) (layer Edge.Cuts) (width 0.05))
-  (gr_line (start 25 74.9) (end 10.999999 74.9) (layer Edge.Cuts) (width 0.05))
   (gr_line (start 11 -7.1) (end 25 -7.1) (layer Edge.Cuts) (width 0.05))
-  (gr_line (start 83 -4.099999) (end 97 -4.099999) (layer Edge.Cuts) (width 0.05))
   (gr_line (start 64.999999 -9.1) (end 78.999999 -9.1) (layer Edge.Cuts) (width 0.05))
   (gr_line (start 28.999999 -10.099999) (end 42.999999 -10.099999) (layer Edge.Cuts) (width 0.05))
   (gr_line (start 47 -15.099999) (end 61 -15.099999) (layer Edge.Cuts) (width 0.05))
