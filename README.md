@@ -1,6 +1,6 @@
 # splitreus62
 
-![pretty](splitreus62.jpg)
+Spacing on this is for choc keycaps only. MX sized keycaps will not work.
 
 
 - [Atreus](https://github.com/technomancy/atreus) Phil Hagelberg
