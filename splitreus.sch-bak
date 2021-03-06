@@ -2,7 +2,7 @@ EESchema Schematic File Version 4
 LIBS:splitreus-cache
 EELAYER 30 0
 EELAYER END
-$Descr A4 11693 8268
+$Descr A3 16535 11693
 encoding utf-8
 Sheet 1 1
 Title ""
@@ -20,7 +20,7 @@ U 1 1 5E46D734
 P 1200 1250
 F 0 "SW0" H 1200 1505 50  0000 C CNN
 F 1 "SW_PUSH" H 1200 1414 50  0000 C CNN
-F 2 "keebio:Kailh-PG1350-1u-reversible-No-Clickhole" H 1200 1250 60  0001 C CNN
+F 2 "daprice_kail_mx:Kailh_socket_PG1350_reversible" H 1200 1250 60  0001 C CNN
 F 3 "" H 1200 1250 60  0000 C CNN
 	1    1200 1250
 	1    0    0    -1  
@@ -31,7 +31,7 @@ U 1 1 5E478C6D
 P 1200 2100
 F 0 "SW1" H 1200 2355 50  0000 C CNN
 F 1 "SW_PUSH" H 1200 2264 50  0000 C CNN
-F 2 "keebio:Kailh-PG1350-1u-reversible-No-Clickhole" H 1200 2100 60  0001 C CNN
+F 2 "daprice_kail_mx:Kailh_socket_PG1350_reversible" H 1200 2100 60  0001 C CNN
 F 3 "" H 1200 2100 60  0000 C CNN
 	1    1200 2100
 	1    0    0    -1  
@@ -42,7 +42,7 @@ U 1 1 5F037814
 P 1200 2400
 F 0 "D1" H 1200 2593 40  0000 C CNN
 F 1 "1N4148-F" H 1200 2517 40  0000 C CNN
-F 2 "keebio:Diode-Hybrid-reversible" H 1200 2400 60  0001 C CNN
+F 2 "Custom Footies:smd_diode_reversible" H 1200 2400 60  0001 C CNN
 F 3 "" H 1200 2400 60  0000 C CNN
 	1    1200 2400
 	1    0    0    -1  
@@ -53,7 +53,7 @@ U 1 1 5E47949F
 P 1200 3000
 F 0 "SW2" H 1200 3255 50  0000 C CNN
 F 1 "SW_PUSH" H 1200 3164 50  0000 C CNN
-F 2 "keebio:Kailh-PG1350-1u-reversible-No-Clickhole" H 1200 3000 60  0001 C CNN
+F 2 "daprice_kail_mx:Kailh_socket_PG1350_reversible" H 1200 3000 60  0001 C CNN
 F 3 "" H 1200 3000 60  0000 C CNN
 	1    1200 3000
 	1    0    0    -1  
@@ -64,7 +64,7 @@ U 1 1 5F037815
 P 1200 3300
 F 0 "D2" H 1200 3493 40  0000 C CNN
 F 1 "1N4148-F" H 1200 3417 40  0000 C CNN
-F 2 "keebio:Diode-Hybrid-reversible" H 1200 3300 60  0001 C CNN
+F 2 "Custom Footies:smd_diode_reversible" H 1200 3300 60  0001 C CNN
 F 3 "" H 1200 3300 60  0000 C CNN
 	1    1200 3300
 	1    0    0    -1  
@@ -75,7 +75,7 @@ U 1 1 5E479C59
 P 1200 3900
 F 0 "SW3" H 1200 4155 50  0000 C CNN
 F 1 "SW_PUSH" H 1200 4064 50  0000 C CNN
-F 2 "keebio:Kailh-PG1350-1u-reversible-No-Clickhole" H 1200 3900 60  0001 C CNN
+F 2 "daprice_kail_mx:Kailh_socket_PG1350_reversible" H 1200 3900 60  0001 C CNN
 F 3 "" H 1200 3900 60  0000 C CNN
 	1    1200 3900
 	1    0    0    -1  
@@ -86,7 +86,7 @@ U 1 1 5F037816
 P 1200 4200
 F 0 "D3" H 1200 4393 40  0000 C CNN
 F 1 "1N4148-F" H 1200 4317 40  0000 C CNN
-F 2 "keebio:Diode-Hybrid-reversible" H 1200 4200 60  0001 C CNN
+F 2 "Custom Footies:smd_diode_reversible" H 1200 4200 60  0001 C CNN
 F 3 "" H 1200 4200 60  0000 C CNN
 	1    1200 4200
 	1    0    0    -1  
@@ -97,7 +97,7 @@ U 1 1 5E47A67D
 P 1200 4800
 F 0 "SW4" H 1200 5055 50  0000 C CNN
 F 1 "SW_PUSH" H 1200 4964 50  0000 C CNN
-F 2 "keebio:Kailh-PG1350-1u-reversible-No-Clickhole" H 1200 4800 60  0001 C CNN
+F 2 "daprice_kail_mx:Kailh_socket_PG1350_reversible" H 1200 4800 60  0001 C CNN
 F 3 "" H 1200 4800 60  0000 C CNN
 	1    1200 4800
 	1    0    0    -1  
@@ -108,7 +108,7 @@ U 1 1 5F037818
 P 1200 5100
 F 0 "D4" H 1200 5293 40  0000 C CNN
 F 1 "1N4148-F" H 1200 5217 40  0000 C CNN
-F 2 "keebio:Diode-Hybrid-reversible" H 1200 5100 60  0001 C CNN
+F 2 "Custom Footies:smd_diode_reversible" H 1200 5100 60  0001 C CNN
 F 3 "" H 1200 5100 60  0000 C CNN
 	1    1200 5100
 	1    0    0    -1  
@@ -119,7 +119,7 @@ U 1 1 5E47E589
 P 2300 1250
 F 0 "SW5" H 2300 1505 50  0000 C CNN
 F 1 "SW_PUSH" H 2300 1414 50  0000 C CNN
-F 2 "keebio:Kailh-PG1350-1u-reversible-No-Clickhole" H 2300 1250 60  0001 C CNN
+F 2 "daprice_kail_mx:Kailh_socket_PG1350_reversible" H 2300 1250 60  0001 C CNN
 F 3 "" H 2300 1250 60  0000 C CNN
 	1    2300 1250
 	1    0    0    -1  
@@ -130,7 +130,7 @@ U 1 1 5F03781A
 P 2300 1550
 F 0 "D5" H 2300 1743 40  0000 C CNN
 F 1 "1N4148-F" H 2300 1667 40  0000 C CNN
-F 2 "keebio:Diode-Hybrid-reversible" H 2300 1550 60  0001 C CNN
+F 2 "Custom Footies:smd_diode_reversible" H 2300 1550 60  0001 C CNN
 F 3 "" H 2300 1550 60  0000 C CNN
 	1    2300 1550
 	1    0    0    -1  
@@ -141,7 +141,7 @@ U 1 1 5E47E595
 P 2300 2100
 F 0 "SW6" H 2300 2355 50  0000 C CNN
 F 1 "SW_PUSH" H 2300 2264 50  0000 C CNN
-F 2 "keebio:Kailh-PG1350-1u-reversible-No-Clickhole" H 2300 2100 60  0001 C CNN
+F 2 "daprice_kail_mx:Kailh_socket_PG1350_reversible" H 2300 2100 60  0001 C CNN
 F 3 "" H 2300 2100 60  0000 C CNN
 	1    2300 2100
 	1    0    0    -1  
@@ -152,7 +152,7 @@ U 1 1 5F03781C
 P 2300 2400
 F 0 "D6" H 2300 2593 40  0000 C CNN
 F 1 "1N4148-F" H 2300 2517 40  0000 C CNN
-F 2 "keebio:Diode-Hybrid-reversible" H 2300 2400 60  0001 C CNN
+F 2 "Custom Footies:smd_diode_reversible" H 2300 2400 60  0001 C CNN
 F 3 "" H 2300 2400 60  0000 C CNN
 	1    2300 2400
 	1    0    0    -1  
@@ -163,7 +163,7 @@ U 1 1 5E47E5A1
 P 2300 3000
 F 0 "SW7" H 2300 3255 50  0000 C CNN
 F 1 "SW_PUSH" H 2300 3164 50  0000 C CNN
-F 2 "keebio:Kailh-PG1350-1u-reversible-No-Clickhole" H 2300 3000 60  0001 C CNN
+F 2 "daprice_kail_mx:Kailh_socket_PG1350_reversible" H 2300 3000 60  0001 C CNN
 F 3 "" H 2300 3000 60  0000 C CNN
 	1    2300 3000
 	1    0    0    -1  
@@ -174,7 +174,7 @@ U 1 1 5F03781E
 P 2300 3300
 F 0 "D7" H 2300 3493 40  0000 C CNN
 F 1 "1N4148-F" H 2300 3417 40  0000 C CNN
-F 2 "keebio:Diode-Hybrid-reversible" H 2300 3300 60  0001 C CNN
+F 2 "Custom Footies:smd_diode_reversible" H 2300 3300 60  0001 C CNN
 F 3 "" H 2300 3300 60  0000 C CNN
 	1    2300 3300
 	1    0    0    -1  
@@ -185,7 +185,7 @@ U 1 1 5E47E5AD
 P 2300 3900
 F 0 "SW8" H 2300 4155 50  0000 C CNN
 F 1 "SW_PUSH" H 2300 4064 50  0000 C CNN
-F 2 "keebio:Kailh-PG1350-1u-reversible-No-Clickhole" H 2300 3900 60  0001 C CNN
+F 2 "daprice_kail_mx:Kailh_socket_PG1350_reversible" H 2300 3900 60  0001 C CNN
 F 3 "" H 2300 3900 60  0000 C CNN
 	1    2300 3900
 	1    0    0    -1  
@@ -196,7 +196,7 @@ U 1 1 5F037813
 P 2300 4200
 F 0 "D8" H 2300 4393 40  0000 C CNN
 F 1 "1N4148-F" H 2300 4317 40  0000 C CNN
-F 2 "keebio:Diode-Hybrid-reversible" H 2300 4200 60  0001 C CNN
+F 2 "Custom Footies:smd_diode_reversible" H 2300 4200 60  0001 C CNN
 F 3 "" H 2300 4200 60  0000 C CNN
 	1    2300 4200
 	1    0    0    -1  
@@ -207,7 +207,7 @@ U 1 1 5E47E5B9
 P 2300 4800
 F 0 "SW9" H 2300 5055 50  0000 C CNN
 F 1 "SW_PUSH" H 2300 4964 50  0000 C CNN
-F 2 "keebio:Kailh-PG1350-1u-reversible-No-Clickhole" H 2300 4800 60  0001 C CNN
+F 2 "daprice_kail_mx:Kailh_socket_PG1350_reversible" H 2300 4800 60  0001 C CNN
 F 3 "" H 2300 4800 60  0000 C CNN
 	1    2300 4800
 	1    0    0    -1  
@@ -218,7 +218,7 @@ U 1 1 5F037803
 P 2300 5100
 F 0 "D9" H 2300 5293 40  0000 C CNN
 F 1 "1N4148-F" H 2300 5217 40  0000 C CNN
-F 2 "keebio:Diode-Hybrid-reversible" H 2300 5100 60  0001 C CNN
+F 2 "Custom Footies:smd_diode_reversible" H 2300 5100 60  0001 C CNN
 F 3 "" H 2300 5100 60  0000 C CNN
 	1    2300 5100
 	1    0    0    -1  
@@ -263,7 +263,7 @@ U 1 1 5E4C830E
 P 3450 1250
 F 0 "SW10" H 3450 1505 50  0000 C CNN
 F 1 "SW_PUSH" H 3450 1414 50  0000 C CNN
-F 2 "keebio:Kailh-PG1350-1u-reversible-No-Clickhole" H 3450 1250 60  0001 C CNN
+F 2 "daprice_kail_mx:Kailh_socket_PG1350_reversible" H 3450 1250 60  0001 C CNN
 F 3 "" H 3450 1250 60  0000 C CNN
 	1    3450 1250
 	1    0    0    -1  
@@ -274,7 +274,7 @@ U 1 1 5F037805
 P 3450 1550
 F 0 "D10" H 3450 1743 40  0000 C CNN
 F 1 "1N4148-F" H 3450 1667 40  0000 C CNN
-F 2 "keebio:Diode-Hybrid-reversible" H 3450 1550 60  0001 C CNN
+F 2 "Custom Footies:smd_diode_reversible" H 3450 1550 60  0001 C CNN
 F 3 "" H 3450 1550 60  0000 C CNN
 	1    3450 1550
 	1    0    0    -1  
@@ -285,7 +285,7 @@ U 1 1 5E4C831A
 P 3450 2100
 F 0 "SW11" H 3450 2355 50  0000 C CNN
 F 1 "SW_PUSH" H 3450 2264 50  0000 C CNN
-F 2 "keebio:Kailh-PG1350-1u-reversible-No-Clickhole" H 3450 2100 60  0001 C CNN
+F 2 "daprice_kail_mx:Kailh_socket_PG1350_reversible" H 3450 2100 60  0001 C CNN
 F 3 "" H 3450 2100 60  0000 C CNN
 	1    3450 2100
 	1    0    0    -1  
@@ -296,7 +296,7 @@ U 1 1 5F037807
 P 3450 2400
 F 0 "D11" H 3450 2593 40  0000 C CNN
 F 1 "1N4148-F" H 3450 2517 40  0000 C CNN
-F 2 "keebio:Diode-Hybrid-reversible" H 3450 2400 60  0001 C CNN
+F 2 "Custom Footies:smd_diode_reversible" H 3450 2400 60  0001 C CNN
 F 3 "" H 3450 2400 60  0000 C CNN
 	1    3450 2400
 	1    0    0    -1  
@@ -307,7 +307,7 @@ U 1 1 5E4C8326
 P 3450 3000
 F 0 "SW12" H 3450 3255 50  0000 C CNN
 F 1 "SW_PUSH" H 3450 3164 50  0000 C CNN
-F 2 "keebio:Kailh-PG1350-1u-reversible-No-Clickhole" H 3450 3000 60  0001 C CNN
+F 2 "daprice_kail_mx:Kailh_socket_PG1350_reversible" H 3450 3000 60  0001 C CNN
 F 3 "" H 3450 3000 60  0000 C CNN
 	1    3450 3000
 	1    0    0    -1  
@@ -318,7 +318,7 @@ U 1 1 5F037809
 P 3450 3300
 F 0 "D12" H 3450 3493 40  0000 C CNN
 F 1 "1N4148-F" H 3450 3417 40  0000 C CNN
-F 2 "keebio:Diode-Hybrid-reversible" H 3450 3300 60  0001 C CNN
+F 2 "Custom Footies:smd_diode_reversible" H 3450 3300 60  0001 C CNN
 F 3 "" H 3450 3300 60  0000 C CNN
 	1    3450 3300
 	1    0    0    -1  
@@ -329,7 +329,7 @@ U 1 1 5E4C8332
 P 3450 3900
 F 0 "SW13" H 3450 4155 50  0000 C CNN
 F 1 "SW_PUSH" H 3450 4064 50  0000 C CNN
-F 2 "keebio:Kailh-PG1350-1u-reversible-No-Clickhole" H 3450 3900 60  0001 C CNN
+F 2 "daprice_kail_mx:Kailh_socket_PG1350_reversible" H 3450 3900 60  0001 C CNN
 F 3 "" H 3450 3900 60  0000 C CNN
 	1    3450 3900
 	1    0    0    -1  
@@ -340,7 +340,7 @@ U 1 1 5F037802
 P 3450 4200
 F 0 "D13" H 3450 4393 40  0000 C CNN
 F 1 "1N4148-F" H 3450 4317 40  0000 C CNN
-F 2 "keebio:Diode-Hybrid-reversible" H 3450 4200 60  0001 C CNN
+F 2 "Custom Footies:smd_diode_reversible" H 3450 4200 60  0001 C CNN
 F 3 "" H 3450 4200 60  0000 C CNN
 	1    3450 4200
 	1    0    0    -1  
@@ -351,7 +351,7 @@ U 1 1 5E4C833E
 P 3450 4800
 F 0 "SW14" H 3450 5055 50  0000 C CNN
 F 1 "SW_PUSH" H 3450 4964 50  0000 C CNN
-F 2 "keebio:Kailh-PG1350-1u-reversible-No-Clickhole" H 3450 4800 60  0001 C CNN
+F 2 "daprice_kail_mx:Kailh_socket_PG1350_reversible" H 3450 4800 60  0001 C CNN
 F 3 "" H 3450 4800 60  0000 C CNN
 	1    3450 4800
 	1    0    0    -1  
@@ -362,7 +362,7 @@ U 1 1 5F03780D
 P 3450 5100
 F 0 "D14" H 3450 5293 40  0000 C CNN
 F 1 "1N4148-F" H 3450 5217 40  0000 C CNN
-F 2 "keebio:Diode-Hybrid-reversible" H 3450 5100 60  0001 C CNN
+F 2 "Custom Footies:smd_diode_reversible" H 3450 5100 60  0001 C CNN
 F 3 "" H 3450 5100 60  0000 C CNN
 	1    3450 5100
 	1    0    0    -1  
@@ -373,7 +373,7 @@ U 1 1 5E4C834A
 P 4600 1250
 F 0 "SW15" H 4600 1505 50  0000 C CNN
 F 1 "SW_PUSH" H 4600 1414 50  0000 C CNN
-F 2 "keebio:Kailh-PG1350-1u-reversible-No-Clickhole" H 4600 1250 60  0001 C CNN
+F 2 "daprice_kail_mx:Kailh_socket_PG1350_reversible" H 4600 1250 60  0001 C CNN
 F 3 "" H 4600 1250 60  0000 C CNN
 	1    4600 1250
 	1    0    0    -1  
@@ -384,7 +384,7 @@ U 1 1 5F03780F
 P 4600 1550
 F 0 "D15" H 4600 1743 40  0000 C CNN
 F 1 "1N4148-F" H 4600 1667 40  0000 C CNN
-F 2 "keebio:Diode-Hybrid-reversible" H 4600 1550 60  0001 C CNN
+F 2 "Custom Footies:smd_diode_reversible" H 4600 1550 60  0001 C CNN
 F 3 "" H 4600 1550 60  0000 C CNN
 	1    4600 1550
 	1    0    0    -1  
@@ -395,7 +395,7 @@ U 1 1 5E4C8356
 P 4600 2100
 F 0 "SW16" H 4600 2355 50  0000 C CNN
 F 1 "SW_PUSH" H 4600 2264 50  0000 C CNN
-F 2 "keebio:Kailh-PG1350-1u-reversible-No-Clickhole" H 4600 2100 60  0001 C CNN
+F 2 "daprice_kail_mx:Kailh_socket_PG1350_reversible" H 4600 2100 60  0001 C CNN
 F 3 "" H 4600 2100 60  0000 C CNN
 	1    4600 2100
 	1    0    0    -1  
@@ -406,7 +406,7 @@ U 1 1 5F037811
 P 4600 2400
 F 0 "D16" H 4600 2593 40  0000 C CNN
 F 1 "1N4148-F" H 4600 2517 40  0000 C CNN
-F 2 "keebio:Diode-Hybrid-reversible" H 4600 2400 60  0001 C CNN
+F 2 "Custom Footies:smd_diode_reversible" H 4600 2400 60  0001 C CNN
 F 3 "" H 4600 2400 60  0000 C CNN
 	1    4600 2400
 	1    0    0    -1  
@@ -417,7 +417,7 @@ U 1 1 5E4C8362
 P 4600 3000
 F 0 "SW17" H 4600 3255 50  0000 C CNN
 F 1 "SW_PUSH" H 4600 3164 50  0000 C CNN
-F 2 "keebio:Kailh-PG1350-1u-reversible-No-Clickhole" H 4600 3000 60  0001 C CNN
+F 2 "daprice_kail_mx:Kailh_socket_PG1350_reversible" H 4600 3000 60  0001 C CNN
 F 3 "" H 4600 3000 60  0000 C CNN
 	1    4600 3000
 	1    0    0    -1  
@@ -428,7 +428,7 @@ U 1 1 5F037812
 P 4600 3300
 F 0 "D17" H 4600 3493 40  0000 C CNN
 F 1 "1N4148-F" H 4600 3417 40  0000 C CNN
-F 2 "keebio:Diode-Hybrid-reversible" H 4600 3300 60  0001 C CNN
+F 2 "Custom Footies:smd_diode_reversible" H 4600 3300 60  0001 C CNN
 F 3 "" H 4600 3300 60  0000 C CNN
 	1    4600 3300
 	1    0    0    -1  
@@ -439,7 +439,7 @@ U 1 1 5E4C836E
 P 4600 3900
 F 0 "SW18" H 4600 4155 50  0000 C CNN
 F 1 "SW_PUSH" H 4600 4064 50  0000 C CNN
-F 2 "keebio:Kailh-PG1350-1u-reversible-No-Clickhole" H 4600 3900 60  0001 C CNN
+F 2 "daprice_kail_mx:Kailh_socket_PG1350_reversible" H 4600 3900 60  0001 C CNN
 F 3 "" H 4600 3900 60  0000 C CNN
 	1    4600 3900
 	1    0    0    -1  
@@ -450,7 +450,7 @@ U 1 1 5F037810
 P 4600 4200
 F 0 "D18" H 4600 4393 40  0000 C CNN
 F 1 "1N4148-F" H 4600 4317 40  0000 C CNN
-F 2 "keebio:Diode-Hybrid-reversible" H 4600 4200 60  0001 C CNN
+F 2 "Custom Footies:smd_diode_reversible" H 4600 4200 60  0001 C CNN
 F 3 "" H 4600 4200 60  0000 C CNN
 	1    4600 4200
 	1    0    0    -1  
@@ -461,7 +461,7 @@ U 1 1 5E4C837A
 P 4600 4800
 F 0 "SW19" H 4600 5055 50  0000 C CNN
 F 1 "SW_PUSH" H 4600 4964 50  0000 C CNN
-F 2 "keebio:Kailh-PG1350-1u-reversible-No-Clickhole" H 4600 4800 60  0001 C CNN
+F 2 "daprice_kail_mx:Kailh_socket_PG1350_reversible" H 4600 4800 60  0001 C CNN
 F 3 "" H 4600 4800 60  0000 C CNN
 	1    4600 4800
 	1    0    0    -1  
@@ -472,7 +472,7 @@ U 1 1 5F03780E
 P 4600 5100
 F 0 "D19" H 4600 5293 40  0000 C CNN
 F 1 "1N4148-F" H 4600 5217 40  0000 C CNN
-F 2 "keebio:Diode-Hybrid-reversible" H 4600 5100 60  0001 C CNN
+F 2 "Custom Footies:smd_diode_reversible" H 4600 5100 60  0001 C CNN
 F 3 "" H 4600 5100 60  0000 C CNN
 	1    4600 5100
 	1    0    0    -1  
@@ -525,7 +525,7 @@ U 1 1 5E4CDE72
 P 5850 1250
 F 0 "SW20" H 5850 1505 50  0000 C CNN
 F 1 "SW_PUSH" H 5850 1414 50  0000 C CNN
-F 2 "keebio:Kailh-PG1350-1u-reversible-No-Clickhole" H 5850 1250 60  0001 C CNN
+F 2 "daprice_kail_mx:Kailh_socket_PG1350_reversible" H 5850 1250 60  0001 C CNN
 F 3 "" H 5850 1250 60  0000 C CNN
 	1    5850 1250
 	1    0    0    -1  
@@ -536,7 +536,7 @@ U 1 1 5F03780C
 P 5850 1550
 F 0 "D20" H 5850 1743 40  0000 C CNN
 F 1 "1N4148-F" H 5850 1667 40  0000 C CNN
-F 2 "keebio:Diode-Hybrid-reversible" H 5850 1550 60  0001 C CNN
+F 2 "Custom Footies:smd_diode_reversible" H 5850 1550 60  0001 C CNN
 F 3 "" H 5850 1550 60  0000 C CNN
 	1    5850 1550
 	1    0    0    -1  
@@ -547,7 +547,7 @@ U 1 1 5E4CDE7E
 P 5850 2100
 F 0 "SW21" H 5850 2355 50  0000 C CNN
 F 1 "SW_PUSH" H 5850 2264 50  0000 C CNN
-F 2 "keebio:Kailh-PG1350-1u-reversible-No-Clickhole" H 5850 2100 60  0001 C CNN
+F 2 "daprice_kail_mx:Kailh_socket_PG1350_reversible" H 5850 2100 60  0001 C CNN
 F 3 "" H 5850 2100 60  0000 C CNN
 	1    5850 2100
 	1    0    0    -1  
@@ -558,7 +558,7 @@ U 1 1 5F03780A
 P 5850 2400
 F 0 "D21" H 5850 2593 40  0000 C CNN
 F 1 "1N4148-F" H 5850 2517 40  0000 C CNN
-F 2 "keebio:Diode-Hybrid-reversible" H 5850 2400 60  0001 C CNN
+F 2 "Custom Footies:smd_diode_reversible" H 5850 2400 60  0001 C CNN
 F 3 "" H 5850 2400 60  0000 C CNN
 	1    5850 2400
 	1    0    0    -1  
@@ -569,7 +569,7 @@ U 1 1 5E4CDE8A
 P 5850 3000
 F 0 "SW22" H 5850 3255 50  0000 C CNN
 F 1 "SW_PUSH" H 5850 3164 50  0000 C CNN
-F 2 "keebio:Kailh-PG1350-1u-reversible-No-Clickhole" H 5850 3000 60  0001 C CNN
+F 2 "daprice_kail_mx:Kailh_socket_PG1350_reversible" H 5850 3000 60  0001 C CNN
 F 3 "" H 5850 3000 60  0000 C CNN
 	1    5850 3000
 	1    0    0    -1  
@@ -580,7 +580,7 @@ U 1 1 5F037808
 P 5850 3300
 F 0 "D22" H 5850 3493 40  0000 C CNN
 F 1 "1N4148-F" H 5850 3417 40  0000 C CNN
-F 2 "keebio:Diode-Hybrid-reversible" H 5850 3300 60  0001 C CNN
+F 2 "Custom Footies:smd_diode_reversible" H 5850 3300 60  0001 C CNN
 F 3 "" H 5850 3300 60  0000 C CNN
 	1    5850 3300
 	1    0    0    -1  
@@ -591,7 +591,7 @@ U 1 1 5E4CDE96
 P 5850 3900
 F 0 "SW23" H 5850 4155 50  0000 C CNN
 F 1 "SW_PUSH" H 5850 4064 50  0000 C CNN
-F 2 "keebio:Kailh-PG1350-1u-reversible-No-Clickhole" H 5850 3900 60  0001 C CNN
+F 2 "daprice_kail_mx:Kailh_socket_PG1350_reversible" H 5850 3900 60  0001 C CNN
 F 3 "" H 5850 3900 60  0000 C CNN
 	1    5850 3900
 	1    0    0    -1  
@@ -602,7 +602,7 @@ U 1 1 5F037806
 P 5850 4200
 F 0 "D23" H 5850 4393 40  0000 C CNN
 F 1 "1N4148-F" H 5850 4317 40  0000 C CNN
-F 2 "keebio:Diode-Hybrid-reversible" H 5850 4200 60  0001 C CNN
+F 2 "Custom Footies:smd_diode_reversible" H 5850 4200 60  0001 C CNN
 F 3 "" H 5850 4200 60  0000 C CNN
 	1    5850 4200
 	1    0    0    -1  
@@ -613,7 +613,7 @@ U 1 1 5E4CDEA2
 P 5850 4800
 F 0 "SW24" H 5850 5055 50  0000 C CNN
 F 1 "SW_PUSH" H 5850 4964 50  0000 C CNN
-F 2 "keebio:Kailh-PG1350-1u-reversible-No-Clickhole" H 5850 4800 60  0001 C CNN
+F 2 "daprice_kail_mx:Kailh_socket_PG1350_reversible" H 5850 4800 60  0001 C CNN
 F 3 "" H 5850 4800 60  0000 C CNN
 	1    5850 4800
 	1    0    0    -1  
@@ -624,7 +624,7 @@ U 1 1 5F037804
 P 5850 5100
 F 0 "D24" H 5850 5293 40  0000 C CNN
 F 1 "1N4148-F" H 5850 5217 40  0000 C CNN
-F 2 "keebio:Diode-Hybrid-reversible" H 5850 5100 60  0001 C CNN
+F 2 "Custom Footies:smd_diode_reversible" H 5850 5100 60  0001 C CNN
 F 3 "" H 5850 5100 60  0000 C CNN
 	1    5850 5100
 	1    0    0    -1  
@@ -635,7 +635,7 @@ U 1 1 5E4CDEAE
 P 7100 1250
 F 0 "SW25" H 7100 1505 50  0000 C CNN
 F 1 "SW_PUSH" H 7100 1414 50  0000 C CNN
-F 2 "keebio:Kailh-PG1350-1u-reversible-No-Clickhole" H 7100 1250 60  0001 C CNN
+F 2 "daprice_kail_mx:Kailh_socket_PG1350_reversible" H 7100 1250 60  0001 C CNN
 F 3 "" H 7100 1250 60  0000 C CNN
 	1    7100 1250
 	1    0    0    -1  
@@ -646,7 +646,7 @@ U 1 1 5F03780B
 P 7100 1550
 F 0 "D25" H 7100 1743 40  0000 C CNN
 F 1 "1N4148-F" H 7100 1667 40  0000 C CNN
-F 2 "keebio:Diode-Hybrid-reversible" H 7100 1550 60  0001 C CNN
+F 2 "Custom Footies:smd_diode_reversible" H 7100 1550 60  0001 C CNN
 F 3 "" H 7100 1550 60  0000 C CNN
 	1    7100 1550
 	1    0    0    -1  
@@ -657,7 +657,7 @@ U 1 1 5E4CDEBA
 P 7100 2100
 F 0 "SW26" H 7100 2355 50  0000 C CNN
 F 1 "SW_PUSH" H 7100 2264 50  0000 C CNN
-F 2 "keebio:Kailh-PG1350-1u-reversible-No-Clickhole" H 7100 2100 60  0001 C CNN
+F 2 "daprice_kail_mx:Kailh_socket_PG1350_reversible" H 7100 2100 60  0001 C CNN
 F 3 "" H 7100 2100 60  0000 C CNN
 	1    7100 2100
 	1    0    0    -1  
@@ -668,7 +668,7 @@ U 1 1 00000000
 P 7100 2400
 F 0 "D26" H 7100 2593 40  0000 C CNN
 F 1 "1N4148-F" H 7100 2517 40  0000 C CNN
-F 2 "keebio:Diode-Hybrid-reversible" H 7100 2400 60  0001 C CNN
+F 2 "Custom Footies:smd_diode_reversible" H 7100 2400 60  0001 C CNN
 F 3 "" H 7100 2400 60  0000 C CNN
 	1    7100 2400
 	1    0    0    -1  
@@ -679,7 +679,7 @@ U 1 1 5E4CDEC6
 P 7100 3000
 F 0 "SW27" H 7100 3255 50  0000 C CNN
 F 1 "SW_PUSH" H 7100 3164 50  0000 C CNN
-F 2 "keebio:Kailh-PG1350-1u-reversible-No-Clickhole" H 7100 3000 60  0001 C CNN
+F 2 "daprice_kail_mx:Kailh_socket_PG1350_reversible" H 7100 3000 60  0001 C CNN
 F 3 "" H 7100 3000 60  0000 C CNN
 	1    7100 3000
 	1    0    0    -1  
@@ -690,7 +690,7 @@ U 1 1 5F03781D
 P 7100 3300
 F 0 "D27" H 7100 3493 40  0000 C CNN
 F 1 "1N4148-F" H 7100 3417 40  0000 C CNN
-F 2 "keebio:Diode-Hybrid-reversible" H 7100 3300 60  0001 C CNN
+F 2 "Custom Footies:smd_diode_reversible" H 7100 3300 60  0001 C CNN
 F 3 "" H 7100 3300 60  0000 C CNN
 	1    7100 3300
 	1    0    0    -1  
@@ -701,7 +701,7 @@ U 1 1 5E4CDED2
 P 7100 3900
 F 0 "SW28" H 7100 4155 50  0000 C CNN
 F 1 "SW_PUSH" H 7100 4064 50  0000 C CNN
-F 2 "keebio:Kailh-PG1350-1u-reversible-No-Clickhole" H 7100 3900 60  0001 C CNN
+F 2 "daprice_kail_mx:Kailh_socket_PG1350_reversible" H 7100 3900 60  0001 C CNN
 F 3 "" H 7100 3900 60  0000 C CNN
 	1    7100 3900
 	1    0    0    -1  
@@ -712,7 +712,7 @@ U 1 1 5F03781B
 P 7100 4200
 F 0 "D28" H 7100 4393 40  0000 C CNN
 F 1 "1N4148-F" H 7100 4317 40  0000 C CNN
-F 2 "keebio:Diode-Hybrid-reversible" H 7100 4200 60  0001 C CNN
+F 2 "Custom Footies:smd_diode_reversible" H 7100 4200 60  0001 C CNN
 F 3 "" H 7100 4200 60  0000 C CNN
 	1    7100 4200
 	1    0    0    -1  
@@ -723,7 +723,7 @@ U 1 1 5E4CDEDE
 P 7100 4800
 F 0 "SW29" H 7100 5055 50  0000 C CNN
 F 1 "SW_PUSH" H 7100 4964 50  0000 C CNN
-F 2 "keebio:Kailh-PG1350-1u-reversible-No-Clickhole" H 7100 4800 60  0001 C CNN
+F 2 "daprice_kail_mx:Kailh_socket_PG1350_reversible" H 7100 4800 60  0001 C CNN
 F 3 "" H 7100 4800 60  0000 C CNN
 	1    7100 4800
 	1    0    0    -1  
@@ -734,7 +734,7 @@ U 1 1 5F037819
 P 7100 5100
 F 0 "D29" H 7100 5293 40  0000 C CNN
 F 1 "1N4148-F" H 7100 5217 40  0000 C CNN
-F 2 "keebio:Diode-Hybrid-reversible" H 7100 5100 60  0001 C CNN
+F 2 "Custom Footies:smd_diode_reversible" H 7100 5100 60  0001 C CNN
 F 3 "" H 7100 5100 60  0000 C CNN
 	1    7100 5100
 	1    0    0    -1  
@@ -967,7 +967,7 @@ U 1 1 5E556622
 P 7100 5700
 F 0 "SW30" H 7100 5955 50  0000 C CNN
 F 1 "SW_PUSH" H 7100 5864 50  0000 C CNN
-F 2 "keebio:Kailh-PG1350-1u-reversible-No-Clickhole" H 7100 5700 60  0001 C CNN
+F 2 "daprice_kail_mx:Kailh_socket_PG1350_reversible" H 7100 5700 60  0001 C CNN
 F 3 "" H 7100 5700 60  0000 C CNN
 	1    7100 5700
 	1    0    0    -1  
@@ -978,7 +978,7 @@ U 1 1 5F037817
 P 7100 6000
 F 0 "D30" H 7100 6193 40  0000 C CNN
 F 1 "1N4148-F" H 7100 6117 40  0000 C CNN
-F 2 "keebio:Diode-Hybrid-reversible" H 7100 6000 60  0001 C CNN
+F 2 "Custom Footies:smd_diode_reversible" H 7100 6000 60  0001 C CNN
 F 3 "" H 7100 6000 60  0000 C CNN
 	1    7100 6000
 	1    0    0    -1  
@@ -1098,15 +1098,13 @@ U 1 1 5E46BADA
 P 9900 2250
 F 0 "U1" H 9900 3287 60  0000 C CNN
 F 1 "ProMicro" H 9900 3181 60  0000 C CNN
-F 2 "Lily58-footprint:ProMicro_rev2" H 10000 1200 60  0001 C CNN
+F 2 "Custom Footies:nice_nano" H 10000 1200 60  0001 C CNN
 F 3 "" H 10000 1200 60  0000 C CNN
 	1    9900 2250
 	1    0    0    -1  
 $EndComp
 Text GLabel 10600 2600 2    50   Input ~ 0
 COL3
-Text GLabel 9000 3550 2    50   Input ~ 0
-SERIAL
 Wire Wire Line
 	1650 2400 1400 2400
 Connection ~ 1650 3300
@@ -1121,20 +1119,9 @@ U 1 1 5E477FD1
 P 1200 1550
 F 0 "D0" H 1200 1743 40  0000 C CNN
 F 1 "1N4148-F" H 1200 1667 40  0000 C CNN
-F 2 "keebio:Diode-Hybrid-reversible" H 1200 1550 60  0001 C CNN
+F 2 "Custom Footies:smd_diode_reversible" H 1200 1550 60  0001 C CNN
 F 3 "" H 1200 1550 60  0000 C CNN
 	1    1200 1550
-	1    0    0    -1  
-$EndComp
-$Comp
-L lily58-cache_mj-4pp-9:Lily58-cache_MJ-4PP-9 J1
-U 1 1 5E5FAED1
-P 8550 3450
-F 0 "J1" H 8500 3500 50  0000 C CNN
-F 1 "TRRS" H 8500 3400 50  0000 C CNN
-F 2 "Lily58-footprint:TRRS_JACK_MJ4PP9" H 8550 3450 50  0001 C CNN
-F 3 "~" H 8550 3450 50  0001 C CNN
-	1    8550 3450
 	1    0    0    -1  
 $EndComp
 Text GLabel 10600 1700 2    50   Input ~ 0
@@ -1154,55 +1141,7 @@ F 3 "~" H 10400 3700 50  0001 C CNN
 	1    10400 3500
 	-1   0    0    1   
 $EndComp
-$Comp
-L jumper_smd:jumper_smd W1
-U 1 1 5F01D935
-P 10300 4250
-F 0 "W1" H 10300 4445 50  0000 C CNN
-F 1 "Left" H 10300 4354 50  0000 C CNN
-F 2 "Lily58-footprint:jumper_smd_2dub" H 10300 4250 50  0001 C CNN
-F 3 "" H 10300 4250 50  0000 C CNN
-	1    10300 4250
-	1    0    0    -1  
-$EndComp
-$Comp
-L vcc:VCC #PWR0101
-U 1 1 5F01E7F3
-P 10500 4250
-F 0 "#PWR0101" H 10500 4100 50  0001 C CNN
-F 1 "VCC" V 10517 4378 50  0000 L CNN
-F 2 "" H 10500 4250 50  0001 C CNN
-F 3 "" H 10500 4250 50  0001 C CNN
-	1    10500 4250
-	0    1    1    0   
-$EndComp
 Text GLabel 10600 1900 2    50   Input ~ 0
-F4
-Text GLabel 10100 4250 0    50   Input ~ 0
-F4
-$Comp
-L jumper_smd:jumper_smd W2
-U 1 1 5F02012E
-P 10300 4800
-F 0 "W2" H 10300 4995 50  0000 C CNN
-F 1 "Right" H 10300 4904 50  0000 C CNN
-F 2 "Lily58-footprint:jumper_smd_2dub" H 10300 4800 50  0001 C CNN
-F 3 "" H 10300 4800 50  0000 C CNN
-	1    10300 4800
-	1    0    0    -1  
-$EndComp
-$Comp
-L gnd:GND #PWR0102
-U 1 1 5F021CB1
-P 10500 4800
-F 0 "#PWR0102" H 10500 4550 50  0001 C CNN
-F 1 "GND" V 10500 4500 50  0000 L CNN
-F 2 "" H 10500 4800 50  0001 C CNN
-F 3 "" H 10500 4800 50  0001 C CNN
-	1    10500 4800
-	0    -1   -1   0   
-$EndComp
-Text GLabel 10100 4800 0    50   Input ~ 0
 F4
 $Comp
 L vcc:VCC #PWR0103
@@ -1249,34 +1188,12 @@ F 3 "" H 10600 1600 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L gnd:GND #PWR0107
-U 1 1 5EFFED18
-P 9000 3450
-F 0 "#PWR0107" H 9000 3200 50  0001 C CNN
-F 1 "GND" V 9000 3150 50  0000 L CNN
-F 2 "" H 9000 3450 50  0001 C CNN
-F 3 "" H 9000 3450 50  0001 C CNN
-	1    9000 3450
-	0    -1   -1   0   
-$EndComp
-$Comp
-L vcc:VCC #PWR0110
-U 1 1 5F000057
-P 9000 3300
-F 0 "#PWR0110" H 9000 3150 50  0001 C CNN
-F 1 "VCC" V 9017 3428 50  0000 L CNN
-F 2 "" H 9000 3300 50  0001 C CNN
-F 3 "" H 9000 3300 50  0001 C CNN
-	1    9000 3300
-	0    1    1    0   
-$EndComp
-$Comp
 L hole:HOLE U2
 U 1 1 5F0447E9
 P 1100 6050
 F 0 "U2" H 1278 6128 60  0000 L CNN
 F 1 "HOLE" H 1278 6022 60  0000 L CNN
-F 2 "MountingHole:MountingHole_2.7mm_M2.5_ISO14580_Pad" H 1100 6050 60  0001 C CNN
+F 2 "MountingHole:MountingHole_2.5mm" H 1100 6050 60  0001 C CNN
 F 3 "" H 1100 6050 60  0000 C CNN
 	1    1100 6050
 	1    0    0    -1  
@@ -1287,7 +1204,7 @@ U 1 1 5F045005
 P 1800 6050
 F 0 "U4" H 1978 6128 60  0000 L CNN
 F 1 "HOLE" H 1978 6022 60  0000 L CNN
-F 2 "MountingHole:MountingHole_2.7mm_M2.5_ISO14580_Pad" H 1800 6050 60  0001 C CNN
+F 2 "MountingHole:MountingHole_2.5mm" H 1800 6050 60  0001 C CNN
 F 3 "" H 1800 6050 60  0000 C CNN
 	1    1800 6050
 	1    0    0    -1  
@@ -1298,7 +1215,7 @@ U 1 1 5F045765
 P 2650 6050
 F 0 "U6" H 2828 6128 60  0000 L CNN
 F 1 "HOLE" H 2828 6022 60  0000 L CNN
-F 2 "MountingHole:MountingHole_2.7mm_M2.5_ISO14580_Pad" H 2650 6050 60  0001 C CNN
+F 2 "MountingHole:MountingHole_2.5mm" H 2650 6050 60  0001 C CNN
 F 3 "" H 2650 6050 60  0000 C CNN
 	1    2650 6050
 	1    0    0    -1  
@@ -1309,7 +1226,7 @@ U 1 1 5F045DEC
 P 1100 6650
 F 0 "U3" H 1278 6728 60  0000 L CNN
 F 1 "HOLE" H 1278 6622 60  0000 L CNN
-F 2 "MountingHole:MountingHole_2.7mm_M2.5_ISO14580_Pad" H 1100 6650 60  0001 C CNN
+F 2 "MountingHole:MountingHole_2.5mm" H 1100 6650 60  0001 C CNN
 F 3 "" H 1100 6650 60  0000 C CNN
 	1    1100 6650
 	1    0    0    -1  
@@ -1320,7 +1237,7 @@ U 1 1 5F0464FB
 P 1800 6650
 F 0 "U5" H 1978 6728 60  0000 L CNN
 F 1 "HOLE" H 1978 6622 60  0000 L CNN
-F 2 "MountingHole:MountingHole_2.7mm_M2.5_ISO14580_Pad" H 1800 6650 60  0001 C CNN
+F 2 "MountingHole:MountingHole_2.5mm" H 1800 6650 60  0001 C CNN
 F 3 "" H 1800 6650 60  0000 C CNN
 	1    1800 6650
 	1    0    0    -1  
@@ -1330,4 +1247,257 @@ NoConn ~ 10600 2100
 NoConn ~ 10600 2200
 NoConn ~ 10600 2300
 NoConn ~ 10600 1500
+$Comp
+L hole:HOLE U7
+U 1 1 604E5667
+P 8700 6600
+F 0 "U7" H 8878 6678 60  0000 L CNN
+F 1 "HOLE" H 8878 6572 60  0000 L CNN
+F 2 "" H 8700 6600 60  0000 C CNN
+F 3 "" H 8700 6600 60  0000 C CNN
+	1    8700 6600
+	1    0    0    -1  
+$EndComp
+$Comp
+L hole:HOLE U8
+U 1 1 604E6284
+P 9700 6550
+F 0 "U8" H 9878 6628 60  0000 L CNN
+F 1 "HOLE" H 9878 6522 60  0000 L CNN
+F 2 "" H 9700 6550 60  0000 C CNN
+F 3 "" H 9700 6550 60  0000 C CNN
+	1    9700 6550
+	1    0    0    -1  
+$EndComp
+$Comp
+L hole:HOLE U9
+U 1 1 604E6841
+P 10700 6650
+F 0 "U9" H 10878 6728 60  0000 L CNN
+F 1 "HOLE" H 10878 6622 60  0000 L CNN
+F 2 "" H 10700 6650 60  0000 C CNN
+F 3 "" H 10700 6650 60  0000 C CNN
+	1    10700 6650
+	1    0    0    -1  
+$EndComp
+$Comp
+L hole:HOLE U10
+U 1 1 604E6E05
+P 11500 6550
+F 0 "U10" H 11678 6628 60  0000 L CNN
+F 1 "HOLE" H 11678 6522 60  0000 L CNN
+F 2 "" H 11500 6550 60  0000 C CNN
+F 3 "" H 11500 6550 60  0000 C CNN
+	1    11500 6550
+	1    0    0    -1  
+$EndComp
+$Comp
+L hole:HOLE U11
+U 1 1 604E761B
+P 12250 6600
+F 0 "U11" H 12428 6678 60  0000 L CNN
+F 1 "HOLE" H 12428 6572 60  0000 L CNN
+F 2 "" H 12250 6600 60  0000 C CNN
+F 3 "" H 12250 6600 60  0000 C CNN
+	1    12250 6600
+	1    0    0    -1  
+$EndComp
+$Comp
+L hole:HOLE U12
+U 1 1 604E82B1
+P 12800 6600
+F 0 "U12" H 12978 6678 60  0000 L CNN
+F 1 "HOLE" H 12978 6572 60  0000 L CNN
+F 2 "" H 12800 6600 60  0000 C CNN
+F 3 "" H 12800 6600 60  0000 C CNN
+	1    12800 6600
+	1    0    0    -1  
+$EndComp
+$Comp
+L hole:HOLE U13
+U 1 1 604E848B
+P 13450 6650
+F 0 "U13" H 13628 6728 60  0000 L CNN
+F 1 "HOLE" H 13628 6622 60  0000 L CNN
+F 2 "" H 13450 6650 60  0000 C CNN
+F 3 "" H 13450 6650 60  0000 C CNN
+	1    13450 6650
+	1    0    0    -1  
+$EndComp
+$Comp
+L hole:HOLE U14
+U 1 1 604E8BE7
+P 8750 7350
+F 0 "U14" H 8928 7428 60  0000 L CNN
+F 1 "HOLE" H 8928 7322 60  0000 L CNN
+F 2 "" H 8750 7350 60  0000 C CNN
+F 3 "" H 8750 7350 60  0000 C CNN
+	1    8750 7350
+	1    0    0    -1  
+$EndComp
+$Comp
+L hole:HOLE U15
+U 1 1 604E9F17
+P 9500 7350
+F 0 "U15" H 9678 7428 60  0000 L CNN
+F 1 "HOLE" H 9678 7322 60  0000 L CNN
+F 2 "" H 9500 7350 60  0000 C CNN
+F 3 "" H 9500 7350 60  0000 C CNN
+	1    9500 7350
+	1    0    0    -1  
+$EndComp
+$Comp
+L hole:HOLE U16
+U 1 1 604EA7D1
+P 10250 7300
+F 0 "U16" H 10428 7378 60  0000 L CNN
+F 1 "HOLE" H 10428 7272 60  0000 L CNN
+F 2 "" H 10250 7300 60  0000 C CNN
+F 3 "" H 10250 7300 60  0000 C CNN
+	1    10250 7300
+	1    0    0    -1  
+$EndComp
+$Comp
+L hole:HOLE U17
+U 1 1 604EA9A5
+P 10950 7350
+F 0 "U17" H 11128 7428 60  0000 L CNN
+F 1 "HOLE" H 11128 7322 60  0000 L CNN
+F 2 "" H 10950 7350 60  0000 C CNN
+F 3 "" H 10950 7350 60  0000 C CNN
+	1    10950 7350
+	1    0    0    -1  
+$EndComp
+$Comp
+L hole:HOLE U18
+U 1 1 604EB280
+P 11600 7350
+F 0 "U18" H 11778 7428 60  0000 L CNN
+F 1 "HOLE" H 11778 7322 60  0000 L CNN
+F 2 "" H 11600 7350 60  0000 C CNN
+F 3 "" H 11600 7350 60  0000 C CNN
+	1    11600 7350
+	1    0    0    -1  
+$EndComp
+$Comp
+L hole:HOLE U19
+U 1 1 604EBCBA
+P 12350 7350
+F 0 "U19" H 12528 7428 60  0000 L CNN
+F 1 "HOLE" H 12528 7322 60  0000 L CNN
+F 2 "" H 12350 7350 60  0000 C CNN
+F 3 "" H 12350 7350 60  0000 C CNN
+	1    12350 7350
+	1    0    0    -1  
+$EndComp
+$Comp
+L hole:HOLE U20
+U 1 1 604ECBBF
+P 12900 7350
+F 0 "U20" H 13078 7428 60  0000 L CNN
+F 1 "HOLE" H 13078 7322 60  0000 L CNN
+F 2 "" H 12900 7350 60  0000 C CNN
+F 3 "" H 12900 7350 60  0000 C CNN
+	1    12900 7350
+	1    0    0    -1  
+$EndComp
+$Comp
+L hole:HOLE U21
+U 1 1 604ECD72
+P 13500 7350
+F 0 "U21" H 13678 7428 60  0000 L CNN
+F 1 "HOLE" H 13678 7322 60  0000 L CNN
+F 2 "" H 13500 7350 60  0000 C CNN
+F 3 "" H 13500 7350 60  0000 C CNN
+	1    13500 7350
+	1    0    0    -1  
+$EndComp
+$Comp
+L hole:HOLE U22
+U 1 1 604ED4F6
+P 8700 7900
+F 0 "U22" H 8878 7978 60  0000 L CNN
+F 1 "HOLE" H 8878 7872 60  0000 L CNN
+F 2 "" H 8700 7900 60  0000 C CNN
+F 3 "" H 8700 7900 60  0000 C CNN
+	1    8700 7900
+	1    0    0    -1  
+$EndComp
+$Comp
+L hole:HOLE U23
+U 1 1 604EE787
+P 9500 7900
+F 0 "U23" H 9678 7978 60  0000 L CNN
+F 1 "HOLE" H 9678 7872 60  0000 L CNN
+F 2 "" H 9500 7900 60  0000 C CNN
+F 3 "" H 9500 7900 60  0000 C CNN
+	1    9500 7900
+	1    0    0    -1  
+$EndComp
+$Comp
+L hole:HOLE U24
+U 1 1 604EECE9
+P 10250 7850
+F 0 "U24" H 10428 7928 60  0000 L CNN
+F 1 "HOLE" H 10428 7822 60  0000 L CNN
+F 2 "" H 10250 7850 60  0000 C CNN
+F 3 "" H 10250 7850 60  0000 C CNN
+	1    10250 7850
+	1    0    0    -1  
+$EndComp
+$Comp
+L hole:HOLE U25
+U 1 1 604EF632
+P 10950 7850
+F 0 "U25" H 11128 7928 60  0000 L CNN
+F 1 "HOLE" H 11128 7822 60  0000 L CNN
+F 2 "" H 10950 7850 60  0000 C CNN
+F 3 "" H 10950 7850 60  0000 C CNN
+	1    10950 7850
+	1    0    0    -1  
+$EndComp
+$Comp
+L hole:HOLE U26
+U 1 1 604F04D3
+P 11600 7800
+F 0 "U26" H 11778 7878 60  0000 L CNN
+F 1 "HOLE" H 11778 7772 60  0000 L CNN
+F 2 "" H 11600 7800 60  0000 C CNN
+F 3 "" H 11600 7800 60  0000 C CNN
+	1    11600 7800
+	1    0    0    -1  
+$EndComp
+$Comp
+L hole:HOLE U27
+U 1 1 604F0C43
+P 12350 7850
+F 0 "U27" H 12528 7928 60  0000 L CNN
+F 1 "HOLE" H 12528 7822 60  0000 L CNN
+F 2 "" H 12350 7850 60  0000 C CNN
+F 3 "" H 12350 7850 60  0000 C CNN
+	1    12350 7850
+	1    0    0    -1  
+$EndComp
+$Comp
+L hole:HOLE U28
+U 1 1 604F0D7B
+P 12950 7800
+F 0 "U28" H 13128 7878 60  0000 L CNN
+F 1 "HOLE" H 13128 7772 60  0000 L CNN
+F 2 "" H 12950 7800 60  0000 C CNN
+F 3 "" H 12950 7800 60  0000 C CNN
+	1    12950 7800
+	1    0    0    -1  
+$EndComp
+$Comp
+L hole:HOLE U29
+U 1 1 604F151E
+P 13550 7850
+F 0 "U29" H 13728 7928 60  0000 L CNN
+F 1 "HOLE" H 13728 7822 60  0000 L CNN
+F 2 "" H 13550 7850 60  0000 C CNN
+F 3 "" H 13550 7850 60  0000 C CNN
+	1    13550 7850
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
