@@ -1056,23 +1056,23 @@ Text GLabel 7400 4800 1    50   Input ~ 0
 ROW4
 Text GLabel 7400 5700 1    50   Input ~ 0
 ROW5
-Text GLabel 9200 1500 0    50   Input ~ 0
-ROW0
 Text GLabel 9200 1600 0    50   Input ~ 0
-ROW1
-Text GLabel 9200 1900 0    50   Input ~ 0
-ROW2
+ROW0
 Text GLabel 9200 2100 0    50   Input ~ 0
-ROW3
+ROW1
 Text GLabel 9200 2200 0    50   Input ~ 0
-ROW4
+ROW2
 Text GLabel 9200 2300 0    50   Input ~ 0
-ROW5
+ROW3
 Text GLabel 9200 2400 0    50   Input ~ 0
-COL0
+ROW4
 Text GLabel 9200 2500 0    50   Input ~ 0
-COL1
+ROW5
 Text GLabel 9200 2600 0    50   Input ~ 0
+COL0
+Text GLabel 10600 2600 2    50   Input ~ 0
+COL1
+Text GLabel 10600 2500 2    50   Input ~ 0
 COL2
 Text GLabel 1650 5100 3    50   Input ~ 0
 COL0
@@ -1086,13 +1086,13 @@ Text GLabel 6300 5100 3    50   Input ~ 0
 COL4
 Text GLabel 7550 6000 3    50   Input ~ 0
 COL5
-Text GLabel 10600 2500 2    50   Input ~ 0
+Text GLabel 10600 2300 2    50   Input ~ 0
 COL4
-Text GLabel 10600 2400 2    50   Input ~ 0
+Text GLabel 10600 2200 2    50   Input ~ 0
 COL5
-Text GLabel 9200 2000 0    50   Input ~ 0
+Text GLabel 9200 1500 0    50   Input ~ 0
 SERIAL
-Text GLabel 10600 2600 2    50   Input ~ 0
+Text GLabel 10600 2400 2    50   Input ~ 0
 COL3
 Wire Wire Line
 	1650 2400 1400 2400
@@ -1232,9 +1232,6 @@ F 3 "" H 1800 6650 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 NoConn ~ 10600 2000
-NoConn ~ 10600 2100
-NoConn ~ 10600 2200
-NoConn ~ 10600 2300
 NoConn ~ 10600 1500
 $Comp
 L hole:HOLE U7
@@ -1490,17 +1487,6 @@ F 3 "" H 13550 7850 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L promicro:nice_nano U1
-U 1 1 5E46BADA
-P 9900 2250
-F 0 "U1" H 9900 3287 60  0000 C CNN
-F 1 "nice_nano" H 9900 3200 60  0000 C CNN
-F 2 "Custom Footies:nice_nano" H 10000 1200 60  0001 C CNN
-F 3 "" H 10000 1200 60  0000 C CNN
-	1    9900 2250
-	1    0    0    -1  
-$EndComp
-$Comp
 L Connector_Generic:Conn_01x02 JB1
 U 1 1 604F9775
 P 9850 850
@@ -1521,4 +1507,22 @@ Wire Wire Line
 	9950 1050 10750 1050
 Wire Wire Line
 	10750 1400 10500 1400
+Wire Wire Line
+	10750 1050 10750 1400
+$Comp
+L promicro:nice_nano U1
+U 1 1 5E46BADA
+P 9900 2250
+F 0 "U1" H 9900 3287 60  0000 C CNN
+F 1 "nice_nano" H 9900 3200 60  0000 C CNN
+F 2 "Custom Footies:nice_nano" H 10000 1200 60  0001 C CNN
+F 3 "" H 10000 1200 60  0000 C CNN
+	1    9900 2250
+	1    0    0    -1  
+$EndComp
+NoConn ~ 10600 2100
+Text GLabel 9200 1900 0    50   Input ~ 0
+SCL
+Text GLabel 9200 2000 0    50   Input ~ 0
+SDA
 $EndSCHEMATC
