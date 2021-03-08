@@ -1521,4 +1521,8 @@ F 3 "" H 10000 1200 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 NoConn ~ 10600 2100
+Text GLabel 9200 1900 0    50   Input ~ 0
+SCL
+Text GLabel 9200 2000 0    50   Input ~ 0
+SDA
 $EndSCHEMATC
