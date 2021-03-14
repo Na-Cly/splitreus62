@@ -1,6 +1,26 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
+# Connector_Conn_01x02_Male
+#
+DEF Connector_Conn_01x02_Male J 0 40 Y N 1 F N
+F0 "J" 0 100 50 H V C CNN
+F1 "Connector_Conn_01x02_Male" 0 -200 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ Connector*:*_1x??_*
+$ENDFPLIST
+DRAW
+S 34 -95 0 -105 1 1 6 F
+S 34 5 0 -5 1 1 6 F
+P 2 1 1 6 50 -100 34 -100 N
+P 2 1 1 6 50 0 34 0 N
+X Pin_1 1 200 0 150 L 50 50 1 1 P
+X Pin_2 2 200 -100 150 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
 # Keyboard_Parts_SW_PUSH
 #
 DEF Keyboard_Parts_SW_PUSH SW 0 40 N N 1 F N
@@ -70,15 +90,15 @@ X ~ 4 450 150 150 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# promicro_ProMicro
+# promicro_nice_nano
 #
-DEF promicro_ProMicro U 0 40 Y Y 1 F N
+DEF promicro_nice_nano U 0 40 Y Y 1 F N
 F0 "U" 0 950 60 H V C CNN
-F1 "promicro_ProMicro" 0 -550 60 H V C CNN
+F1 "promicro_nice_nano" 0 -550 60 H V C CNN
 F2 "" 100 -1050 60 H V C CNN
 F3 "" 100 -1050 60 H V C CNN
 DRAW
-S -500 850 500 -450 0 1 0 N
+S -500 900 500 -400 0 1 0 N
 X TX 1 -700 750 200 R 50 50 1 1 B
 X E6 10 -700 -150 200 R 50 50 1 1 B
 X B4 11 -700 -250 200 R 50 50 1 1 B
@@ -103,6 +123,8 @@ X SDA 6 -700 250 200 R 50 50 1 1 B
 X D4 7 -700 150 200 R 50 50 1 1 B
 X C6 8 -700 50 200 R 50 50 1 1 B
 X D7 9 -700 -50 200 R 50 50 1 1 B
+X B+ B+ 600 850 100 L 50 50 1 1 w
+X B- B- -600 850 100 R 50 50 1 1 W
 ENDDRAW
 ENDDEF
 #
