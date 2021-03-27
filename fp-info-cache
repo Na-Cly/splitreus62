@@ -1,4 +1,4 @@
-17110342317071228
+17120069011026955
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -42840,6 +42840,13 @@ Custom Footies
 1
 1
 Custom Footies
+02x02_con
+
+
+0
+4
+4
+Custom Footies
 C_0603_1608Metric_better_silk
 Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
 capacitor
@@ -42857,6 +42864,13 @@ Custom Footies
 KailhSocket1u
 Cherry MX switch footprint. Size: 1.00u, Mount type: Plate, Using Kailh Socket: yes, Stabilizer: n/a, Lighting: none
 CherryMX 1.00u KailhSocket
+0
+2
+2
+Custom Footies
+Kailh_socket_MX
+MX-style keyswitch with reversible Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
 0
 2
 2
@@ -42952,6 +42966,13 @@ connectors_vertical
 4
 4
 Custom Footies
+dactyl_thumbs
+
+
+0
+0
+0
+Custom Footies
 data_out_1_pin
 
 
@@ -42972,6 +42993,27 @@ mouse_bites_derek
 0
 2
 1
+Custom Footies
+nacly_thumbs_50
+
+
+0
+0
+0
+Custom Footies
+nacly_thumbs_85
+
+
+0
+0
+0
+Custom Footies
+nacly_thumbs_95
+
+
+0
+0
+0
 Custom Footies
 nice_nano
 
