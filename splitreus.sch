@@ -1091,10 +1091,10 @@ COL4
 Text GLabel 10600 2300 2    50   Input ~ 0
 COL5
 $Comp
-L promicro:nice_nano U1
+L promicro:nice_nano U0
 U 1 1 5E46BADA
 P 9900 2250
-F 0 "U1" H 9900 3287 60  0000 C CNN
+F 0 "U0" H 9900 3287 60  0000 C CNN
 F 1 "ProMicro" H 9900 3181 60  0000 C CNN
 F 2 "Custom Footies:nice_nano" H 10000 1200 60  0001 C CNN
 F 3 "" H 10000 1200 60  0000 C CNN
@@ -1792,44 +1792,82 @@ Wire Wire Line
 Connection ~ 7950 10250
 Text GLabel 1250 9900 3    50   Input ~ 0
 LED
-Wire Wire Line
-	1250 6900 1900 6900
-Wire Wire Line
-	1900 6900 1900 9900
-Wire Wire Line
-	1900 9900 2500 9900
-Wire Wire Line
-	2500 6900 3150 6900
-Wire Wire Line
-	3150 6900 3150 9900
-Wire Wire Line
-	3150 9900 3800 9900
-Wire Wire Line
-	3800 6900 4450 6900
-Wire Wire Line
-	4450 6900 4450 9900
-Wire Wire Line
-	4450 9900 5050 9900
-Wire Wire Line
-	5050 6900 5750 6900
-Wire Wire Line
-	5750 6900 5750 9900
-Wire Wire Line
-	5750 9900 6350 9900
-Wire Wire Line
-	6350 6900 7000 6900
-Wire Wire Line
-	7000 6900 7000 9900
-Wire Wire Line
-	7000 9900 7650 9900
-Wire Wire Line
-	7650 6900 8350 6900
-Wire Wire Line
-	8350 6900 8350 9900
-Wire Wire Line
-	8350 9900 8900 9900
 Text GLabel 8900 9300 1    50   Input ~ 0
 to_right
 Text GLabel 9250 3400 2    50   Input ~ 0
 to_right
+Wire Wire Line
+	3150 9900 3800 9900
+Wire Wire Line
+	4450 9900 5050 9900
+Wire Wire Line
+	5750 9900 6350 9900
+Wire Wire Line
+	7000 9900 7650 9900
+Wire Wire Line
+	7000 6900 7000 9900
+Wire Wire Line
+	6350 6900 7000 6900
+Wire Wire Line
+	5750 6900 5750 9900
+Wire Wire Line
+	4450 6900 4450 9900
+Wire Wire Line
+	5050 6900 5750 6900
+Wire Wire Line
+	3800 6900 4450 6900
+Wire Wire Line
+	3150 6900 3150 9900
+Wire Wire Line
+	2500 6900 3150 6900
+Wire Wire Line
+	1250 6900 1900 6900
+Wire Wire Line
+	1900 9900 2500 9900
+Wire Wire Line
+	1900 6900 1900 9900
+$Comp
+L hole:HOLE U1
+U 1 1 60668F3F
+P 11150 6550
+F 0 "U1" H 11328 6628 60  0000 L CNN
+F 1 "HOLE" H 11328 6522 60  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad" H 11150 6550 60  0001 C CNN
+F 3 "" H 11150 6550 60  0000 C CNN
+	1    11150 6550
+	1    0    0    -1  
+$EndComp
+$Comp
+L hole:HOLE U2
+U 1 1 60669CFE
+P 12150 6550
+F 0 "U2" H 12328 6628 60  0000 L CNN
+F 1 "HOLE" H 12328 6522 60  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad" H 12150 6550 60  0001 C CNN
+F 3 "" H 12150 6550 60  0000 C CNN
+	1    12150 6550
+	1    0    0    -1  
+$EndComp
+$Comp
+L hole:HOLE U3
+U 1 1 6066A776
+P 11150 7200
+F 0 "U3" H 11328 7278 60  0000 L CNN
+F 1 "HOLE" H 11328 7172 60  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad" H 11150 7200 60  0001 C CNN
+F 3 "" H 11150 7200 60  0000 C CNN
+	1    11150 7200
+	1    0    0    -1  
+$EndComp
+$Comp
+L hole:HOLE U4
+U 1 1 6066B2B8
+P 12200 7200
+F 0 "U4" H 12378 7278 60  0000 L CNN
+F 1 "HOLE" H 12378 7172 60  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad" H 12200 7200 60  0001 C CNN
+F 3 "" H 12200 7200 60  0000 C CNN
+	1    12200 7200
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
