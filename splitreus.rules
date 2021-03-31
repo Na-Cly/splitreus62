@@ -11,16 +11,16 @@
     (via_costs 50)
     (plane_via_costs 5)
     (start_ripup_costs 100)
-    (start_pass_no 361)
+    (start_pass_no 2277)
     (layer_rule F.Cu
       (active on)
-      (preferred_direction horizontal)
+      (preferred_direction vertical)
       (preferred_direction_trace_costs 1.0)
       (against_preferred_direction_trace_costs 2.3)
     )
     (layer_rule B.Cu
       (active on)
-      (preferred_direction vertical)
+      (preferred_direction horizontal)
       (preferred_direction_trace_costs 1.0)
       (against_preferred_direction_trace_costs 1.8)
     )
@@ -67,9 +67,13 @@
     "Net-(D8-Pad1)" "Net-(D9-Pad1)" "Net-(D10-Pad1)" "Net-(D11-Pad1)" "Net-(D12-Pad1)" "Net-(D13-Pad1)" "Net-(D14-Pad1)" "Net-(D15-Pad1)"
     "Net-(D16-Pad1)" "Net-(D17-Pad1)" "Net-(D18-Pad1)" "Net-(D19-Pad1)" "Net-(D21-Pad1)" "Net-(D22-Pad1)" "Net-(D23-Pad1)" "Net-(D24-Pad1)"
     "Net-(D25-Pad1)" "Net-(D26-Pad1)" "Net-(D27-Pad1)" "Net-(D28-Pad1)" "Net-(D29-Pad1)" "Net-(D30-Pad1)" ROW0 ROW1
-    ROW2 ROW3 ROW4 ROW5 COL0 "Net-(U1-Pad18)" SERIAL GND
-    COL4 "Net-(U1-Pad3)" COL2 "Net-(U1-Pad19)" "Net-(U1-Pad23)" VCC COL5 "Net-(U1-Pad17)"
-    COL3 COL1 "Net-(U1-Pad24)" "Net-(D20-Pad1)" LED "Net-(J1-Pad1)" RST
+    ROW2 ROW3 ROW4 ROW5 COL0 SERIAL GND COL4
+    COL2 VCC COL5 COL3 COL1 "Net-(D20-Pad1)" RST "B-"
+    B+ "Net-(D90-Pad1)" "Net-(D90-Pad3)" "Net-(D91-Pad3)" "Net-(D92-Pad3)" "Net-(D93-Pad3)" LED "Net-(D914-Pad3)"
+    "Net-(D95-Pad3)" "Net-(D96-Pad3)" "Net-(D97-Pad3)" "Net-(D98-Pad3)" "Net-(D910-Pad1)" "Net-(D910-Pad3)" "Net-(D911-Pad3)" "Net-(D912-Pad3)"
+    "Net-(D913-Pad3)" "Net-(D915-Pad1)" "Net-(D915-Pad3)" "Net-(D916-Pad3)" "Net-(D917-Pad3)" "Net-(D918-Pad3)" "Net-(D920-Pad1)" "Net-(D920-Pad3)"
+    "Net-(D921-Pad3)" "Net-(D922-Pad3)" "Net-(D923-Pad3)" "Net-(D925-Pad1)" "Net-(D925-Pad3)" "Net-(D926-Pad3)" "Net-(D927-Pad3)" "Net-(D928-Pad3)"
+    "to_right" "Net-(D930-Pad3)"
     (clearance_class "kicad_default")
     (via_rule kicad_default)
     (rule
