@@ -1,4 +1,4 @@
-17107081493225314
+17150798989368899
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -42840,6 +42840,13 @@ Custom Footies
 1
 1
 Custom Footies
+02x02_con
+
+
+0
+4
+4
+Custom Footies
 C_0603_1608Metric_better_silk
 Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
 capacitor
@@ -42847,11 +42854,32 @@ capacitor
 2
 2
 Custom Footies
+Diode-Hybrid-reversible
+
+
+0
+10
+2
+Custom Footies
 KailhSocket1u
 Cherry MX switch footprint. Size: 1.00u, Mount type: Plate, Using Kailh Socket: yes, Stabilizer: n/a, Lighting: none
 CherryMX 1.00u KailhSocket
 0
 2
+2
+Custom Footies
+Kailh_socket_MX
+MX-style keyswitch with reversible Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
+0
+2
+2
+Custom Footies
+Kailh_socket_MX_reversible_fix
+MX-style keyswitch with reversible Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
+0
+4
 2
 Custom Footies
 MX-Alps-Choc-1U-No-reversible-fixed
@@ -42938,12 +42966,26 @@ connectors_vertical
 4
 4
 Custom Footies
+dactyl_thumbs
+
+
+0
+0
+0
+Custom Footies
 data_out_1_pin
 
 
 0
 2
 1
+Custom Footies
+ddd
+
+
+0
+0
+0
 Custom Footies
 juliet_7e4
 
@@ -42959,12 +43001,33 @@ mouse_bites_derek
 2
 1
 Custom Footies
+nacly_thumbs_50
+
+
+0
+0
+0
+Custom Footies
+nacly_thumbs_85
+
+
+0
+0
+0
+Custom Footies
+nacly_thumbs_95
+
+
+0
+0
+0
+Custom Footies
 nice_nano
 
 
 0
-26
-26
+24
+24
 Custom Footies
 pgnm
 
@@ -42979,6 +43042,13 @@ pgnmh
 0
 0
 0
+Custom Footies
+reversible_power
+
+
+0
+14
+3
 Custom Footies
 salt8_5x11_9
 
@@ -43014,6 +43084,20 @@ smd_diode_reversible
 0
 4
 2
+Custom Footies
+sp62
+
+
+0
+0
+0
+Custom Footies
+sp_gplv3
+
+
+0
+0
+0
 Custom Footies
 splitreusqr
 
@@ -76474,3 +76558,108 @@ trs
 0
 7
 7
+nrfmicro
+E73-2G4M04S-52832
+
+
+0
+44
+44
+nrfmicro
+E73-2G4M08S1C
+
+
+0
+43
+43
+nrfmicro
+E73-2G4M08S1C-52840
+
+
+0
+43
+43
+nrfmicro
+E73-2G4M08S1C-52840-NO_THT
+
+
+0
+43
+43
+nrfmicro
+HHKB_PRO2_ZH13
+http://www.jst-mfg.com/product/pdf/eng/eZH.pdf
+HHKB pro2, JST, ZH
+0
+15
+15
+nrfmicro
+HRO-TYPE-C-31-M-12
+
+
+0
+16
+13
+nrfmicro
+battery_holder_bs-7
+http://www.memoryprotectiondevices.com/datasheets/BS-7-datasheet.pdf
+
+0
+2
+2
+nrfmicro
+connector_swd
+
+
+0
+2
+2
+nrfmicro
+jumper
+
+
+0
+2
+2
+nrfmicro
+mechcult_hor
+
+
+0
+0
+0
+nrfmicro
+mechcult_vert
+
+
+0
+0
+0
+nrfmicro
+pro_micro
+
+
+0
+24
+24
+nrfmicro
+switch_MSK-12C02_smd
+
+
+0
+7
+3
+nrfmicro
+usb_micro
+USB Micro-B receptacle, http://www.mouser.com/ds/2/445/629105150521-469306.pdf
+usb micro receptacle
+0
+9
+6
+nrfmicro
+usb_type_c
+
+
+0
+20
+17

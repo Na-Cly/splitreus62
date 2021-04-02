@@ -1184,17 +1184,6 @@ F 3 "" H 1800 6050 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L hole:HOLE U6
-U 1 1 5F045765
-P 2650 6050
-F 0 "U6" H 2828 6128 60  0000 L CNN
-F 1 "HOLE" H 2828 6022 60  0000 L CNN
-F 2 "MountingHole:MountingHole_2.5mm" H 2650 6050 60  0001 C CNN
-F 3 "" H 2650 6050 60  0000 C CNN
-	1    2650 6050
-	1    0    0    -1  
-$EndComp
-$Comp
 L hole:HOLE U3
 U 1 1 5F045DEC
 P 1100 6650
