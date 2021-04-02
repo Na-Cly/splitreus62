@@ -1196,24 +1196,20 @@ NoConn ~ 9200 2000
 NoConn ~ 9200 1900
 Text GLabel 9200 1500 0    50   Input ~ 0
 SERIAL
-Text GLabel 10500 1400 2    50   Input ~ 0
-B+
 Text GLabel 9300 1400 0    50   Input ~ 0
 B-
 $Comp
 L Connector:Conn_01x02_Male J2
 U 1 1 60595BC7
-P 9100 4300
-F 0 "J2" H 9208 4481 50  0000 C CNN
-F 1 "battery" H 9208 4390 50  0000 C CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical" H 9100 4300 50  0001 C CNN
-F 3 "~" H 9100 4300 50  0001 C CNN
-	1    9100 4300
+P 11850 1650
+F 0 "J2" H 11958 1831 50  0000 C CNN
+F 1 "battery" H 11958 1740 50  0000 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical" H 11850 1650 50  0001 C CNN
+F 3 "~" H 11850 1650 50  0001 C CNN
+	1    11850 1650
 	1    0    0    -1  
 $EndComp
-Text GLabel 9300 4300 2    50   Input ~ 0
-B+
-Text GLabel 9300 4400 2    50   Input ~ 0
+Text GLabel 12050 1750 2    50   Input ~ 0
 B-
 $Comp
 L LED:SK6812MINI D94
@@ -1870,4 +1866,23 @@ F 3 "" H 12200 7200 60  0000 C CNN
 	1    12200 7200
 	1    0    0    -1  
 $EndComp
+Text GLabel 12250 1200 2    50   Input ~ 0
+B+
+$Comp
+L Switch:SW_SPDT SW91
+U 1 1 60684D01
+P 12050 1200
+F 0 "SW91" H 12050 875 50  0000 C CNN
+F 1 "SW_SPDT" H 12050 966 50  0000 C CNN
+F 2 "Custom Footies:reversible_power" H 12050 1200 50  0001 C CNN
+F 3 "~" H 12050 1200 50  0001 C CNN
+	1    12050 1200
+	-1   0    0    1   
+$EndComp
+Text GLabel 12050 1650 2    50   Input ~ 0
+B+
+Text GLabel 11850 1300 0    50   Input ~ 0
+V+
+Text GLabel 10500 1400 2    50   Input ~ 0
+V+
 $EndSCHEMATC
