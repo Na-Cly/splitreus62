@@ -24,7 +24,7 @@
     (34 B.Paste user)
     (35 F.Paste user)
     (36 B.SilkS user)
-    (37 F.SilkS user hide)
+    (37 F.SilkS user)
     (38 B.Mask user)
     (39 F.Mask user)
     (40 Dwgs.User user)
@@ -278,7 +278,7 @@
   )
 
   (module "Custom Footies:sp62" (layer F.Cu) (tedit 0) (tstamp 6068E45F)
-    (at 51.488 24.828)
+    (at 52.498 25.248)
     (fp_text reference G*** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.524 1.524) (thickness 0.3)))
     )
@@ -7309,7 +7309,6 @@
   (gr_line (start -7.75 82.4) (end -7.75 69.6) (layer Cmts.User) (width 0.1))
   (gr_line (start 7.75 82.4) (end -7.75 82.4) (layer Cmts.User) (width 0.1))
 
-  (via (at 112.228 14.608) (size 0.8) (drill 0.4) (layers F.Cu B.Cu) (net 83))
   (segment (start -2.45 9.5) (end -3.9 9.5) (width 0.25) (layer B.Cu) (net 1))
   (segment (start -1.4 9.5) (end -2.45 9.5) (width 0.25) (layer B.Cu) (net 1))
   (segment (start -2.5 9.5) (end -3.9 9.5) (width 0.25) (layer F.Cu) (net 1))
@@ -8966,7 +8965,6 @@
   (segment (start 116.338 17.048) (end 113.908 14.618) (width 0.25) (layer F.Cu) (net 49))
   (segment (start 113.738 14.618) (end 113.738 14.618) (width 0.25) (layer F.Cu) (net 49) (tstamp 6068A57D))
   (via (at 113.738 14.618) (size 0.8) (drill 0.4) (layers F.Cu B.Cu) (net 49))
-  (segment (start 122.608 16.048) (end 123.038 15.618) (width 0.25) (layer F.Cu) (net 84))
   (segment (start 3 5.55) (end 4.5753 5.55) (width 0.25) (layer B.Cu) (net 50))
   (segment (start 4.5753 5.55) (end 6.6581 7.6328) (width 0.25) (layer B.Cu) (net 50))
   (segment (start 6.6581 7.6328) (end 10.4784 7.6328) (width 0.25) (layer B.Cu) (net 50))
@@ -9685,6 +9683,8 @@
   (segment (start 110.058 68.208) (end 110.05 68.2) (width 0.25) (layer F.Cu) (net 82))
   (segment (start 110.05 68.2) (end 110.05 68) (width 0.25) (layer F.Cu) (net 82))
   (via (at 110.058 68.208) (size 0.8) (layers F.Cu B.Cu) (net 82))
+  (via (at 112.228 14.608) (size 0.8) (drill 0.4) (layers F.Cu B.Cu) (net 83))
+  (segment (start 122.608 16.048) (end 123.038 15.618) (width 0.25) (layer F.Cu) (net 84))
   (segment (start 121.798725 15.618) (end 123.038 15.618) (width 0.25) (layer F.Cu) (net 84))
   (segment (start 116.888 15.618) (end 121.798725 15.618) (width 0.25) (layer F.Cu) (net 84))
   (segment (start 116.638 14.618) (end 116.638 14.618) (width 0.25) (layer F.Cu) (net 84))

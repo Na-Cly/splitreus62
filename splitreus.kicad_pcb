@@ -9692,7 +9692,7 @@
   (segment (start 116.638 14.618) (end 116.638 15.368) (width 0.25) (layer F.Cu) (net 84) (tstamp 6068A57B))
   (via (at 116.638 14.618) (size 0.8) (drill 0.4) (layers F.Cu B.Cu) (net 84))
 
-  (zone (net 0) (net_name "") (layer F.Cu) (tstamp 6068EFF3) (hatch edge 0.508)
+  (zone (net 0) (net_name "") (layer F.Cu) (tstamp 606B0695) (hatch edge 0.508)
     (connect_pads (clearance 0.508))
     (min_thickness 0.254)
     (fill yes (arc_segments 32) (thermal_gap 0.508) (thermal_bridge_width 0.508))
@@ -13319,7 +13319,7 @@
       )
     )
   )
-  (zone (net 0) (net_name "") (layer B.Cu) (tstamp 6068EFF0) (hatch edge 0.508)
+  (zone (net 0) (net_name "") (layer B.Cu) (tstamp 606B0692) (hatch edge 0.508)
     (connect_pads (clearance 0.508))
     (min_thickness 0.254)
     (fill yes (arc_segments 32) (thermal_gap 0.508) (thermal_bridge_width 0.508))
