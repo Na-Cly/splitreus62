@@ -1184,17 +1184,6 @@ F 3 "" H 1800 6050 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L hole:HOLE U6
-U 1 1 5F045765
-P 2650 6050
-F 0 "U6" H 2828 6128 60  0000 L CNN
-F 1 "HOLE" H 2828 6022 60  0000 L CNN
-F 2 "MountingHole:MountingHole_2.5mm" H 2650 6050 60  0001 C CNN
-F 3 "" H 2650 6050 60  0000 C CNN
-	1    2650 6050
-	1    0    0    -1  
-$EndComp
-$Comp
 L hole:HOLE U3
 U 1 1 5F045DEC
 P 1100 6650
@@ -1218,29 +1207,35 @@ F 3 "" H 1800 6650 60  0000 C CNN
 $EndComp
 NoConn ~ 10600 2000
 NoConn ~ 10600 1500
+NoConn ~ 10600 2100
+Text GLabel 9200 1900 0    50   Input ~ 0
+SCL
+Text GLabel 9200 2000 0    50   Input ~ 0
+SDA
 $Comp
-L Connector_Generic:Conn_01x02 JB1
-U 1 1 604F9775
-P 9850 850
-F 0 "JB1" V 9814 662 50  0000 R CNN
-F 1 "Conn_01x02" V 9723 662 50  0000 R CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical" H 9850 850 50  0001 C CNN
-F 3 "~" H 9850 850 50  0001 C CNN
-	1    9850 850 
+L Keyboard_Parts:SW_PUSH SW91
+U 1 1 606AC6AA
+P 11750 1700
+F 0 "SW91" H 11750 1955 50  0000 C CNN
+F 1 "SW_PUSH" H 11750 1864 50  0000 C CNN
+F 2 "" H 11750 1700 60  0000 C CNN
+F 3 "" H 11750 1700 60  0000 C CNN
+	1    11750 1700
+	1    0    0    -1  
+$EndComp
+Text GLabel 11450 1700 0    50   Input ~ 0
+RST
+$Comp
+L gnd:GND #PWR0101
+U 1 1 606AE7FD
+P 12050 1700
+F 0 "#PWR0101" H 12050 1450 50  0001 C CNN
+F 1 "GND" V 12050 1400 50  0000 L CNN
+F 2 "" H 12050 1700 50  0001 C CNN
+F 3 "" H 12050 1700 50  0001 C CNN
+	1    12050 1700
 	0    -1   -1   0   
 $EndComp
-Wire Wire Line
-	9300 1400 9000 1400
-Wire Wire Line
-	9000 1400 9000 1050
-Wire Wire Line
-	9000 1050 9850 1050
-Wire Wire Line
-	9950 1050 10750 1050
-Wire Wire Line
-	10750 1400 10500 1400
-Wire Wire Line
-	10750 1050 10750 1400
 $Comp
 L promicro:nice_nano U1
 U 1 1 5E46BADA
@@ -1252,9 +1247,4 @@ F 3 "" H 10000 1200 60  0000 C CNN
 	1    9900 2250
 	1    0    0    -1  
 $EndComp
-NoConn ~ 10600 2100
-Text GLabel 9200 1900 0    50   Input ~ 0
-SCL
-Text GLabel 9200 2000 0    50   Input ~ 0
-SDA
 $EndSCHEMATC
