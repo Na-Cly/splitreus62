@@ -15,127 +15,6 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L Keyboard_Parts:SW_PUSH SW0
-U 1 1 5E46D734
-P 1200 1250
-F 0 "SW0" H 1200 1505 50  0000 C CNN
-F 1 "SW_PUSH" H 1200 1414 50  0000 C CNN
-F 2 "daprice_kail_mx:Kailh_socket_PG1350_reversible" H 1200 1250 60  0001 C CNN
-F 3 "" H 1200 1250 60  0000 C CNN
-	1    1200 1250
-	1    0    0    -1  
-$EndComp
-$Comp
-L Keyboard_Parts:SW_PUSH SW1
-U 1 1 5E478C6D
-P 1200 2100
-F 0 "SW1" H 1200 2355 50  0000 C CNN
-F 1 "SW_PUSH" H 1200 2264 50  0000 C CNN
-F 2 "daprice_kail_mx:Kailh_socket_PG1350_reversible" H 1200 2100 60  0001 C CNN
-F 3 "" H 1200 2100 60  0000 C CNN
-	1    1200 2100
-	1    0    0    -1  
-$EndComp
-$Comp
-L pspice:DIODE D1
-U 1 1 5F037814
-P 1200 2400
-F 0 "D1" H 1200 2593 40  0000 C CNN
-F 1 "1N4148-F" H 1200 2517 40  0000 C CNN
-F 2 "Custom Footies:smd_diode_reversible" H 1200 2400 60  0001 C CNN
-F 3 "" H 1200 2400 60  0000 C CNN
-	1    1200 2400
-	1    0    0    -1  
-$EndComp
-$Comp
-L Keyboard_Parts:SW_PUSH SW2
-U 1 1 5E47949F
-P 1200 3000
-F 0 "SW2" H 1200 3255 50  0000 C CNN
-F 1 "SW_PUSH" H 1200 3164 50  0000 C CNN
-F 2 "daprice_kail_mx:Kailh_socket_PG1350_reversible" H 1200 3000 60  0001 C CNN
-F 3 "" H 1200 3000 60  0000 C CNN
-	1    1200 3000
-	1    0    0    -1  
-$EndComp
-$Comp
-L pspice:DIODE D2
-U 1 1 5F037815
-P 1200 3300
-F 0 "D2" H 1200 3493 40  0000 C CNN
-F 1 "1N4148-F" H 1200 3417 40  0000 C CNN
-F 2 "Custom Footies:smd_diode_reversible" H 1200 3300 60  0001 C CNN
-F 3 "" H 1200 3300 60  0000 C CNN
-	1    1200 3300
-	1    0    0    -1  
-$EndComp
-$Comp
-L Keyboard_Parts:SW_PUSH SW3
-U 1 1 5E479C59
-P 1200 3900
-F 0 "SW3" H 1200 4155 50  0000 C CNN
-F 1 "SW_PUSH" H 1200 4064 50  0000 C CNN
-F 2 "daprice_kail_mx:Kailh_socket_PG1350_reversible" H 1200 3900 60  0001 C CNN
-F 3 "" H 1200 3900 60  0000 C CNN
-	1    1200 3900
-	1    0    0    -1  
-$EndComp
-$Comp
-L pspice:DIODE D3
-U 1 1 5F037816
-P 1200 4200
-F 0 "D3" H 1200 4393 40  0000 C CNN
-F 1 "1N4148-F" H 1200 4317 40  0000 C CNN
-F 2 "Custom Footies:smd_diode_reversible" H 1200 4200 60  0001 C CNN
-F 3 "" H 1200 4200 60  0000 C CNN
-	1    1200 4200
-	1    0    0    -1  
-$EndComp
-$Comp
-L Keyboard_Parts:SW_PUSH SW4
-U 1 1 5E47A67D
-P 1200 4800
-F 0 "SW4" H 1200 5055 50  0000 C CNN
-F 1 "SW_PUSH" H 1200 4964 50  0000 C CNN
-F 2 "daprice_kail_mx:Kailh_socket_PG1350_reversible" H 1200 4800 60  0001 C CNN
-F 3 "" H 1200 4800 60  0000 C CNN
-	1    1200 4800
-	1    0    0    -1  
-$EndComp
-$Comp
-L pspice:DIODE D4
-U 1 1 5F037818
-P 1200 5100
-F 0 "D4" H 1200 5293 40  0000 C CNN
-F 1 "1N4148-F" H 1200 5217 40  0000 C CNN
-F 2 "Custom Footies:smd_diode_reversible" H 1200 5100 60  0001 C CNN
-F 3 "" H 1200 5100 60  0000 C CNN
-	1    1200 5100
-	1    0    0    -1  
-$EndComp
-$Comp
-L Keyboard_Parts:SW_PUSH SW5
-U 1 1 5E47E589
-P 2300 1250
-F 0 "SW5" H 2300 1505 50  0000 C CNN
-F 1 "SW_PUSH" H 2300 1414 50  0000 C CNN
-F 2 "daprice_kail_mx:Kailh_socket_PG1350_reversible" H 2300 1250 60  0001 C CNN
-F 3 "" H 2300 1250 60  0000 C CNN
-	1    2300 1250
-	1    0    0    -1  
-$EndComp
-$Comp
-L pspice:DIODE D5
-U 1 1 5F03781A
-P 2300 1550
-F 0 "D5" H 2300 1743 40  0000 C CNN
-F 1 "1N4148-F" H 2300 1667 40  0000 C CNN
-F 2 "Custom Footies:smd_diode_reversible" H 2300 1550 60  0001 C CNN
-F 3 "" H 2300 1550 60  0000 C CNN
-	1    2300 1550
-	1    0    0    -1  
-$EndComp
-$Comp
 L Keyboard_Parts:SW_PUSH SW6
 U 1 1 5E47E595
 P 2300 2100
@@ -224,29 +103,11 @@ F 3 "" H 2300 5100 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	1400 1550 1650 1550
-Wire Wire Line
-	1650 3300 1400 3300
-Wire Wire Line
-	1650 3300 1650 4200
-Wire Wire Line
-	1650 4200 1400 4200
-Wire Wire Line
-	1650 4200 1650 5100
-Wire Wire Line
-	1650 5100 1400 5100
-Connection ~ 1650 4200
-Wire Wire Line
-	2500 1550 2750 1550
-Wire Wire Line
-	2750 1550 2750 2400
-Wire Wire Line
 	2750 2400 2500 2400
 Wire Wire Line
 	2750 2400 2750 3300
 Wire Wire Line
 	2750 3300 2500 3300
-Connection ~ 2750 2400
 Wire Wire Line
 	2750 3300 2750 4200
 Wire Wire Line
@@ -257,28 +118,6 @@ Wire Wire Line
 Wire Wire Line
 	2750 5100 2500 5100
 Connection ~ 2750 4200
-$Comp
-L Keyboard_Parts:SW_PUSH SW10
-U 1 1 5E4C830E
-P 3450 1250
-F 0 "SW10" H 3450 1505 50  0000 C CNN
-F 1 "SW_PUSH" H 3450 1414 50  0000 C CNN
-F 2 "daprice_kail_mx:Kailh_socket_PG1350_reversible" H 3450 1250 60  0001 C CNN
-F 3 "" H 3450 1250 60  0000 C CNN
-	1    3450 1250
-	1    0    0    -1  
-$EndComp
-$Comp
-L pspice:DIODE D10
-U 1 1 5F037805
-P 3450 1550
-F 0 "D10" H 3450 1743 40  0000 C CNN
-F 1 "1N4148-F" H 3450 1667 40  0000 C CNN
-F 2 "Custom Footies:smd_diode_reversible" H 3450 1550 60  0001 C CNN
-F 3 "" H 3450 1550 60  0000 C CNN
-	1    3450 1550
-	1    0    0    -1  
-$EndComp
 $Comp
 L Keyboard_Parts:SW_PUSH SW11
 U 1 1 5E4C831A
@@ -365,28 +204,6 @@ F 1 "1N4148-F" H 3450 5217 40  0000 C CNN
 F 2 "Custom Footies:smd_diode_reversible" H 3450 5100 60  0001 C CNN
 F 3 "" H 3450 5100 60  0000 C CNN
 	1    3450 5100
-	1    0    0    -1  
-$EndComp
-$Comp
-L Keyboard_Parts:SW_PUSH SW15
-U 1 1 5E4C834A
-P 4600 1250
-F 0 "SW15" H 4600 1505 50  0000 C CNN
-F 1 "SW_PUSH" H 4600 1414 50  0000 C CNN
-F 2 "daprice_kail_mx:Kailh_socket_PG1350_reversible" H 4600 1250 60  0001 C CNN
-F 3 "" H 4600 1250 60  0000 C CNN
-	1    4600 1250
-	1    0    0    -1  
-$EndComp
-$Comp
-L pspice:DIODE D15
-U 1 1 5F03780F
-P 4600 1550
-F 0 "D15" H 4600 1743 40  0000 C CNN
-F 1 "1N4148-F" H 4600 1667 40  0000 C CNN
-F 2 "Custom Footies:smd_diode_reversible" H 4600 1550 60  0001 C CNN
-F 3 "" H 4600 1550 60  0000 C CNN
-	1    4600 1550
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -478,16 +295,11 @@ F 3 "" H 4600 5100 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	3650 1550 3900 1550
-Wire Wire Line
-	3900 1550 3900 2400
-Wire Wire Line
 	3900 2400 3650 2400
 Wire Wire Line
 	3900 2400 3900 3300
 Wire Wire Line
 	3900 3300 3650 3300
-Connection ~ 3900 2400
 Wire Wire Line
 	3900 3300 3900 4200
 Wire Wire Line
@@ -499,16 +311,11 @@ Wire Wire Line
 	3900 5100 3650 5100
 Connection ~ 3900 4200
 Wire Wire Line
-	4800 1550 5050 1550
-Wire Wire Line
-	5050 1550 5050 2400
-Wire Wire Line
 	5050 2400 4800 2400
 Wire Wire Line
 	5050 2400 5050 3300
 Wire Wire Line
 	5050 3300 4800 3300
-Connection ~ 5050 2400
 Wire Wire Line
 	5050 3300 5050 4200
 Wire Wire Line
@@ -519,28 +326,6 @@ Wire Wire Line
 Wire Wire Line
 	5050 5100 4800 5100
 Connection ~ 5050 4200
-$Comp
-L Keyboard_Parts:SW_PUSH SW20
-U 1 1 5E4CDE72
-P 5850 1250
-F 0 "SW20" H 5850 1505 50  0000 C CNN
-F 1 "SW_PUSH" H 5850 1414 50  0000 C CNN
-F 2 "daprice_kail_mx:Kailh_socket_PG1350_reversible" H 5850 1250 60  0001 C CNN
-F 3 "" H 5850 1250 60  0000 C CNN
-	1    5850 1250
-	1    0    0    -1  
-$EndComp
-$Comp
-L pspice:DIODE D20
-U 1 1 5F03780C
-P 5850 1550
-F 0 "D20" H 5850 1743 40  0000 C CNN
-F 1 "1N4148-F" H 5850 1667 40  0000 C CNN
-F 2 "Custom Footies:smd_diode_reversible" H 5850 1550 60  0001 C CNN
-F 3 "" H 5850 1550 60  0000 C CNN
-	1    5850 1550
-	1    0    0    -1  
-$EndComp
 $Comp
 L Keyboard_Parts:SW_PUSH SW21
 U 1 1 5E4CDE7E
@@ -627,28 +412,6 @@ F 1 "1N4148-F" H 5850 5217 40  0000 C CNN
 F 2 "Custom Footies:smd_diode_reversible" H 5850 5100 60  0001 C CNN
 F 3 "" H 5850 5100 60  0000 C CNN
 	1    5850 5100
-	1    0    0    -1  
-$EndComp
-$Comp
-L Keyboard_Parts:SW_PUSH SW25
-U 1 1 5E4CDEAE
-P 7100 1250
-F 0 "SW25" H 7100 1505 50  0000 C CNN
-F 1 "SW_PUSH" H 7100 1414 50  0000 C CNN
-F 2 "daprice_kail_mx:Kailh_socket_PG1350_reversible" H 7100 1250 60  0001 C CNN
-F 3 "" H 7100 1250 60  0000 C CNN
-	1    7100 1250
-	1    0    0    -1  
-$EndComp
-$Comp
-L pspice:DIODE D25
-U 1 1 5F03780B
-P 7100 1550
-F 0 "D25" H 7100 1743 40  0000 C CNN
-F 1 "1N4148-F" H 7100 1667 40  0000 C CNN
-F 2 "Custom Footies:smd_diode_reversible" H 7100 1550 60  0001 C CNN
-F 3 "" H 7100 1550 60  0000 C CNN
-	1    7100 1550
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -740,16 +503,11 @@ F 3 "" H 7100 5100 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	6050 1550 6300 1550
-Wire Wire Line
-	6300 1550 6300 2400
-Wire Wire Line
 	6300 2400 6050 2400
 Wire Wire Line
 	6300 2400 6300 3300
 Wire Wire Line
 	6300 3300 6050 3300
-Connection ~ 6300 2400
 Wire Wire Line
 	6300 3300 6300 4200
 Wire Wire Line
@@ -761,16 +519,11 @@ Wire Wire Line
 	6300 5100 6050 5100
 Connection ~ 6300 4200
 Wire Wire Line
-	7300 1550 7550 1550
-Wire Wire Line
-	7550 1550 7550 2400
-Wire Wire Line
 	7550 2400 7300 2400
 Wire Wire Line
 	7550 2400 7550 3300
 Wire Wire Line
 	7550 3300 7300 3300
-Connection ~ 7550 2400
 Wire Wire Line
 	7550 3300 7550 4200
 Wire Wire Line
@@ -781,42 +534,6 @@ Wire Wire Line
 Wire Wire Line
 	7550 5100 7300 5100
 Connection ~ 7550 4200
-Wire Wire Line
-	900  1250 750  1250
-Wire Wire Line
-	750  1250 750  1550
-Wire Wire Line
-	750  1550 1000 1550
-Wire Wire Line
-	900  2100 750  2100
-Wire Wire Line
-	750  2100 750  2400
-Wire Wire Line
-	750  2400 1000 2400
-Wire Wire Line
-	900  3000 750  3000
-Wire Wire Line
-	750  3000 750  3300
-Wire Wire Line
-	750  3300 1000 3300
-Wire Wire Line
-	900  3900 750  3900
-Wire Wire Line
-	750  3900 750  4200
-Wire Wire Line
-	750  4200 1000 4200
-Wire Wire Line
-	900  4800 750  4800
-Wire Wire Line
-	750  4800 750  5100
-Wire Wire Line
-	750  5100 1000 5100
-Wire Wire Line
-	2000 1250 1900 1250
-Wire Wire Line
-	1900 1250 1900 1550
-Wire Wire Line
-	1900 1550 2100 1550
 Wire Wire Line
 	2000 2100 1900 2100
 Wire Wire Line
@@ -842,12 +559,6 @@ Wire Wire Line
 Wire Wire Line
 	1900 5100 2100 5100
 Wire Wire Line
-	3150 1250 3000 1250
-Wire Wire Line
-	3000 1250 3000 1550
-Wire Wire Line
-	3000 1550 3250 1550
-Wire Wire Line
 	3150 2100 3000 2100
 Wire Wire Line
 	3000 2100 3000 2400
@@ -871,12 +582,6 @@ Wire Wire Line
 	2950 4800 2950 5100
 Wire Wire Line
 	2950 5100 3250 5100
-Wire Wire Line
-	4300 1250 4150 1250
-Wire Wire Line
-	4150 1250 4150 1550
-Wire Wire Line
-	4150 1550 4400 1550
 Wire Wire Line
 	4300 2100 4150 2100
 Wire Wire Line
@@ -902,12 +607,6 @@ Wire Wire Line
 Wire Wire Line
 	4150 5100 4400 5100
 Wire Wire Line
-	5550 1250 5400 1250
-Wire Wire Line
-	5400 1250 5400 1550
-Wire Wire Line
-	5400 1550 5650 1550
-Wire Wire Line
 	5550 2100 5400 2100
 Wire Wire Line
 	5400 2100 5400 2400
@@ -931,12 +630,6 @@ Wire Wire Line
 	5400 4800 5400 5100
 Wire Wire Line
 	5400 5100 5650 5100
-Wire Wire Line
-	6800 1250 6600 1250
-Wire Wire Line
-	6600 1250 6600 1550
-Wire Wire Line
-	6600 1550 6900 1550
 Wire Wire Line
 	6800 2100 6650 2100
 Wire Wire Line
@@ -994,32 +687,6 @@ Wire Wire Line
 Wire Wire Line
 	7550 6000 7550 5100
 Connection ~ 7550 5100
-Text GLabel 1500 1250 2    50   Input ~ 0
-ROW0
-Text GLabel 2600 1250 2    50   Input ~ 0
-ROW0
-Text GLabel 3750 1250 2    50   Input ~ 0
-ROW0
-Text GLabel 4900 1250 2    50   Input ~ 0
-ROW0
-Text GLabel 6150 1250 2    50   Input ~ 0
-ROW0
-Text GLabel 7400 1250 2    50   Input ~ 0
-ROW0
-Text GLabel 1500 2100 1    50   Input ~ 0
-ROW1
-Text GLabel 2600 2100 1    50   Input ~ 0
-ROW1
-Text GLabel 3750 2100 1    50   Input ~ 0
-ROW1
-Text GLabel 4900 2100 1    50   Input ~ 0
-ROW1
-Text GLabel 6150 2100 1    50   Input ~ 0
-ROW1
-Text GLabel 7400 2100 1    50   Input ~ 0
-ROW1
-Text GLabel 1500 3000 1    50   Input ~ 0
-ROW2
 Text GLabel 2600 3000 1    50   Input ~ 0
 ROW2
 Text GLabel 3750 3000 1    50   Input ~ 0
@@ -1030,8 +697,6 @@ Text GLabel 6150 3000 1    50   Input ~ 0
 ROW2
 Text GLabel 7400 3000 1    50   Input ~ 0
 ROW2
-Text GLabel 1500 3900 1    50   Input ~ 0
-ROW3
 Text GLabel 2600 3900 1    50   Input ~ 0
 ROW3
 Text GLabel 3750 3900 1    50   Input ~ 0
@@ -1042,8 +707,6 @@ Text GLabel 6150 3900 1    50   Input ~ 0
 ROW3
 Text GLabel 7400 3900 1    50   Input ~ 0
 ROW3
-Text GLabel 1500 4800 1    50   Input ~ 0
-ROW4
 Text GLabel 2600 4800 1    50   Input ~ 0
 ROW4
 Text GLabel 3750 4800 1    50   Input ~ 0
@@ -1070,12 +733,10 @@ Text GLabel 9200 2500 0    50   Input ~ 0
 ROW5
 Text GLabel 9200 2600 0    50   Input ~ 0
 COL0
-Text GLabel 10600 2600 2    50   Input ~ 0
+Text GLabel 10500 2600 2    50   Input ~ 0
 COL1
-Text GLabel 10600 2500 2    50   Input ~ 0
+Text GLabel 10500 2500 2    50   Input ~ 0
 COL2
-Text GLabel 1650 5100 3    50   Input ~ 0
-COL0
 Text GLabel 2750 5100 3    50   Input ~ 0
 COL1
 Text GLabel 3900 5100 3    50   Input ~ 0
@@ -1086,46 +747,27 @@ Text GLabel 6300 5100 3    50   Input ~ 0
 COL4
 Text GLabel 7550 6000 3    50   Input ~ 0
 COL5
-Text GLabel 10600 2300 2    50   Input ~ 0
+Text GLabel 10500 2300 2    50   Input ~ 0
 COL4
-Text GLabel 10600 2200 2    50   Input ~ 0
+Text GLabel 10500 2200 2    50   Input ~ 0
 COL5
 Text GLabel 9200 1500 0    50   Input ~ 0
 SERIAL
-Text GLabel 10600 2400 2    50   Input ~ 0
+Text GLabel 10500 2400 2    50   Input ~ 0
 COL3
-Wire Wire Line
-	1650 2400 1400 2400
-Connection ~ 1650 3300
-Wire Wire Line
-	1650 2400 1650 3300
-Connection ~ 1650 2400
-Wire Wire Line
-	1650 1550 1650 2400
-$Comp
-L pspice:DIODE D0
-U 1 1 5E477FD1
-P 1200 1550
-F 0 "D0" H 1200 1743 40  0000 C CNN
-F 1 "1N4148-F" H 1200 1667 40  0000 C CNN
-F 2 "Custom Footies:smd_diode_reversible" H 1200 1550 60  0001 C CNN
-F 3 "" H 1200 1550 60  0000 C CNN
-	1    1200 1550
-	1    0    0    -1  
-$EndComp
-Text GLabel 10600 1700 2    50   Input ~ 0
+Text GLabel 10500 1700 2    50   Input ~ 0
 RST
-Text GLabel 10600 1900 2    50   Input ~ 0
+Text GLabel 10500 1900 2    50   Input ~ 0
 F4
 $Comp
 L vcc:VCC #PWR0103
 U 1 1 5EFFC693
-P 10600 1800
-F 0 "#PWR0103" H 10600 1650 50  0001 C CNN
-F 1 "VCC" V 10617 1928 50  0000 L CNN
-F 2 "" H 10600 1800 50  0001 C CNN
-F 3 "" H 10600 1800 50  0001 C CNN
-	1    10600 1800
+P 10500 1800
+F 0 "#PWR0103" H 10500 1650 50  0001 C CNN
+F 1 "VCC" V 10517 1928 50  0000 L CNN
+F 2 "" H 10500 1800 50  0001 C CNN
+F 3 "" H 10500 1800 50  0001 C CNN
+	1    10500 1800
 	0    1    1    0   
 $EndComp
 $Comp
@@ -1153,12 +795,12 @@ $EndComp
 $Comp
 L gnd:GND #PWR0106
 U 1 1 5EFFDB40
-P 10600 1600
-F 0 "#PWR0106" H 10600 1350 50  0001 C CNN
-F 1 "GND" V 10600 1300 50  0000 L CNN
-F 2 "" H 10600 1600 50  0001 C CNN
-F 3 "" H 10600 1600 50  0001 C CNN
-	1    10600 1600
+P 10500 1600
+F 0 "#PWR0106" H 10500 1350 50  0001 C CNN
+F 1 "GND" V 10500 1300 50  0000 L CNN
+F 2 "" H 10500 1600 50  0001 C CNN
+F 3 "" H 10500 1600 50  0001 C CNN
+	1    10500 1600
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -1205,9 +847,9 @@ F 3 "" H 1800 6650 60  0000 C CNN
 	1    1800 6650
 	1    0    0    -1  
 $EndComp
-NoConn ~ 10600 2000
-NoConn ~ 10600 1500
-NoConn ~ 10600 2100
+NoConn ~ 10500 2000
+NoConn ~ 10500 1500
+NoConn ~ 10500 2100
 Text GLabel 9200 1900 0    50   Input ~ 0
 SCL
 Text GLabel 9200 2000 0    50   Input ~ 0
@@ -1237,14 +879,61 @@ F 3 "" H 12050 1700 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L promicro:nice_nano U1
+L Keyboard_Parts:Pro_Micro U1
 U 1 1 5E46BADA
-P 9900 2250
-F 0 "U1" H 9900 3287 60  0000 C CNN
-F 1 "nice_nano" H 9900 3200 60  0000 C CNN
-F 2 "Custom Footies:nice_nano" H 10000 1200 60  0001 C CNN
-F 3 "" H 10000 1200 60  0000 C CNN
-	1    9900 2250
+P 9850 2050
+F 0 "U1" H 9850 3087 60  0000 C CNN
+F 1 "nice_nano" H 9850 3000 60  0000 C CNN
+F 2 "Custom Footies:nice_nano" H 9950 1000 60  0001 C CNN
+F 3 "" H 9950 1000 60  0000 C CNN
+	1    9850 2050
 	1    0    0    -1  
 $EndComp
+Text GLabel 10250 3500 0    50   Input ~ 0
+SCL
+$Comp
+L gnd:GND #PWR0102
+U 1 1 60C28C17
+P 10250 3800
+F 0 "#PWR0102" H 10250 3550 50  0001 C CNN
+F 1 "GND" H 10250 3650 50  0000 C CNN
+F 2 "" H 10250 3800 50  0001 C CNN
+F 3 "" H 10250 3800 50  0001 C CNN
+	1    10250 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L vcc:VCC #PWR0107
+U 1 1 60C29E2D
+P 10250 3700
+F 0 "#PWR0107" H 10250 3550 50  0001 C CNN
+F 1 "VCC" V 10200 3850 50  0000 L CNN
+F 2 "" H 10250 3700 50  0001 C CNN
+F 3 "" H 10250 3700 50  0001 C CNN
+	1    10250 3700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x04 J3
+U 1 1 60C3C374
+P 10450 3600
+F 0 "J3" H 10530 3592 50  0000 L CNN
+F 1 "Conn_01x04" H 10530 3501 50  0000 L CNN
+F 2 "Lily58-footprint:TRRS_JACK_MJ4PP9" H 10450 3600 50  0001 C CNN
+F 3 "~" H 10450 3600 50  0001 C CNN
+	1    10450 3600
+	1    0    0    -1  
+$EndComp
+Text GLabel 10250 3600 0    50   Input ~ 0
+SDA
+Text GLabel 7400 2100 1    50   Input ~ 0
+ROW1
+Text GLabel 6150 2100 1    50   Input ~ 0
+ROW1
+Text GLabel 4900 2100 1    50   Input ~ 0
+ROW1
+Text GLabel 3750 2100 1    50   Input ~ 0
+ROW1
+Text GLabel 2600 2100 1    50   Input ~ 0
+ROW1
 $EndSCHEMATC
