@@ -1,4 +1,4 @@
-17150798989368899
+17157322091911024
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -42889,6 +42889,13 @@ MX-Alps-Choc-1U-No-reversible-fixed
 11
 2
 Custom Footies
+MountingHole_2.7mm_M2.5
+Mounting Hole 2.7mm, no annular, M2.5
+mounting hole 2.7mm no annular m2.5
+0
+0
+0
+Custom Footies
 PJ-606-6A
 
 
@@ -42951,6 +42958,27 @@ breakaway-mousebites_half
 0
 0
 0
+Custom Footies
+bsides_front_silk
+
+
+0
+0
+0
+Custom Footies
+bsides_solder_mask
+
+
+0
+0
+0
+Custom Footies
+choc_hs_reversible
+Kailh "Choc" PG1350 keyswitch reversible socket mount
+kailh,choc
+0
+4
+2
 Custom Footies
 connectors
 

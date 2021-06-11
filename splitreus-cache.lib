@@ -42,15 +42,15 @@ S 150 200 -150 -150 0 1 0 N
 ENDDRAW
 ENDDEF
 #
-# promicro_nice_nano
+# promicro_ProMicro
 #
-DEF promicro_nice_nano U 0 40 Y Y 1 F N
+DEF promicro_ProMicro U 0 40 Y Y 1 F N
 F0 "U" 0 950 60 H V C CNN
-F1 "promicro_nice_nano" 0 -550 60 H V C CNN
+F1 "promicro_ProMicro" 0 -550 60 H V C CNN
 F2 "" 100 -1050 60 H V C CNN
 F3 "" 100 -1050 60 H V C CNN
 DRAW
-S -500 900 500 -400 0 1 0 N
+S -500 850 500 -450 0 1 0 N
 X TX 1 -700 750 200 R 50 50 1 1 B
 X E6 10 -700 -150 200 R 50 50 1 1 B
 X B4 11 -700 -250 200 R 50 50 1 1 B
@@ -75,8 +75,6 @@ X SDA 6 -700 250 200 R 50 50 1 1 B
 X D4 7 -700 150 200 R 50 50 1 1 B
 X C6 8 -700 50 200 R 50 50 1 1 B
 X D7 9 -700 -50 200 R 50 50 1 1 B
-X B+ B+ 600 850 100 L 50 50 1 1 w
-X B- B- -600 850 100 R 50 50 1 1 W
 ENDDRAW
 ENDDEF
 #
