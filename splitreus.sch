@@ -20,7 +20,7 @@ U 1 1 5E47E595
 P 2300 2100
 F 0 "SW6" H 2300 2355 50  0000 C CNN
 F 1 "SW_PUSH" H 2300 2264 50  0000 C CNN
-F 2 "daprice_kail_mx:Kailh_socket_PG1350_reversible" H 2300 2100 60  0001 C CNN
+F 2 "Custom Footies:choc_hs_reversible" H 2300 2100 60  0001 C CNN
 F 3 "" H 2300 2100 60  0000 C CNN
 	1    2300 2100
 	1    0    0    -1  
@@ -42,7 +42,7 @@ U 1 1 5E47E5A1
 P 2300 3000
 F 0 "SW7" H 2300 3255 50  0000 C CNN
 F 1 "SW_PUSH" H 2300 3164 50  0000 C CNN
-F 2 "daprice_kail_mx:Kailh_socket_PG1350_reversible" H 2300 3000 60  0001 C CNN
+F 2 "Custom Footies:choc_hs_reversible" H 2300 3000 60  0001 C CNN
 F 3 "" H 2300 3000 60  0000 C CNN
 	1    2300 3000
 	1    0    0    -1  
@@ -64,7 +64,7 @@ U 1 1 5E47E5AD
 P 2300 3900
 F 0 "SW8" H 2300 4155 50  0000 C CNN
 F 1 "SW_PUSH" H 2300 4064 50  0000 C CNN
-F 2 "daprice_kail_mx:Kailh_socket_PG1350_reversible" H 2300 3900 60  0001 C CNN
+F 2 "Custom Footies:choc_hs_reversible" H 2300 3900 60  0001 C CNN
 F 3 "" H 2300 3900 60  0000 C CNN
 	1    2300 3900
 	1    0    0    -1  
@@ -86,7 +86,7 @@ U 1 1 5E47E5B9
 P 2300 4800
 F 0 "SW9" H 2300 5055 50  0000 C CNN
 F 1 "SW_PUSH" H 2300 4964 50  0000 C CNN
-F 2 "daprice_kail_mx:Kailh_socket_PG1350_reversible" H 2300 4800 60  0001 C CNN
+F 2 "Custom Footies:choc_hs_reversible" H 2300 4800 60  0001 C CNN
 F 3 "" H 2300 4800 60  0000 C CNN
 	1    2300 4800
 	1    0    0    -1  
@@ -124,7 +124,7 @@ U 1 1 5E4C831A
 P 3450 2100
 F 0 "SW11" H 3450 2355 50  0000 C CNN
 F 1 "SW_PUSH" H 3450 2264 50  0000 C CNN
-F 2 "daprice_kail_mx:Kailh_socket_PG1350_reversible" H 3450 2100 60  0001 C CNN
+F 2 "Custom Footies:choc_hs_reversible" H 3450 2100 60  0001 C CNN
 F 3 "" H 3450 2100 60  0000 C CNN
 	1    3450 2100
 	1    0    0    -1  
@@ -146,7 +146,7 @@ U 1 1 5E4C8326
 P 3450 3000
 F 0 "SW12" H 3450 3255 50  0000 C CNN
 F 1 "SW_PUSH" H 3450 3164 50  0000 C CNN
-F 2 "daprice_kail_mx:Kailh_socket_PG1350_reversible" H 3450 3000 60  0001 C CNN
+F 2 "Custom Footies:choc_hs_reversible" H 3450 3000 60  0001 C CNN
 F 3 "" H 3450 3000 60  0000 C CNN
 	1    3450 3000
 	1    0    0    -1  
@@ -168,7 +168,7 @@ U 1 1 5E4C8332
 P 3450 3900
 F 0 "SW13" H 3450 4155 50  0000 C CNN
 F 1 "SW_PUSH" H 3450 4064 50  0000 C CNN
-F 2 "daprice_kail_mx:Kailh_socket_PG1350_reversible" H 3450 3900 60  0001 C CNN
+F 2 "Custom Footies:choc_hs_reversible" H 3450 3900 60  0001 C CNN
 F 3 "" H 3450 3900 60  0000 C CNN
 	1    3450 3900
 	1    0    0    -1  
@@ -190,7 +190,7 @@ U 1 1 5E4C833E
 P 3450 4800
 F 0 "SW14" H 3450 5055 50  0000 C CNN
 F 1 "SW_PUSH" H 3450 4964 50  0000 C CNN
-F 2 "daprice_kail_mx:Kailh_socket_PG1350_reversible" H 3450 4800 60  0001 C CNN
+F 2 "Custom Footies:choc_hs_reversible" H 3450 4800 60  0001 C CNN
 F 3 "" H 3450 4800 60  0000 C CNN
 	1    3450 4800
 	1    0    0    -1  
@@ -212,7 +212,7 @@ U 1 1 5E4C8356
 P 4600 2100
 F 0 "SW16" H 4600 2355 50  0000 C CNN
 F 1 "SW_PUSH" H 4600 2264 50  0000 C CNN
-F 2 "daprice_kail_mx:Kailh_socket_PG1350_reversible" H 4600 2100 60  0001 C CNN
+F 2 "Custom Footies:choc_hs_reversible" H 4600 2100 60  0001 C CNN
 F 3 "" H 4600 2100 60  0000 C CNN
 	1    4600 2100
 	1    0    0    -1  
@@ -234,7 +234,7 @@ U 1 1 5E4C8362
 P 4600 3000
 F 0 "SW17" H 4600 3255 50  0000 C CNN
 F 1 "SW_PUSH" H 4600 3164 50  0000 C CNN
-F 2 "daprice_kail_mx:Kailh_socket_PG1350_reversible" H 4600 3000 60  0001 C CNN
+F 2 "Custom Footies:choc_hs_reversible" H 4600 3000 60  0001 C CNN
 F 3 "" H 4600 3000 60  0000 C CNN
 	1    4600 3000
 	1    0    0    -1  
@@ -256,7 +256,7 @@ U 1 1 5E4C836E
 P 4600 3900
 F 0 "SW18" H 4600 4155 50  0000 C CNN
 F 1 "SW_PUSH" H 4600 4064 50  0000 C CNN
-F 2 "daprice_kail_mx:Kailh_socket_PG1350_reversible" H 4600 3900 60  0001 C CNN
+F 2 "Custom Footies:choc_hs_reversible" H 4600 3900 60  0001 C CNN
 F 3 "" H 4600 3900 60  0000 C CNN
 	1    4600 3900
 	1    0    0    -1  
@@ -278,7 +278,7 @@ U 1 1 5E4C837A
 P 4600 4800
 F 0 "SW19" H 4600 5055 50  0000 C CNN
 F 1 "SW_PUSH" H 4600 4964 50  0000 C CNN
-F 2 "daprice_kail_mx:Kailh_socket_PG1350_reversible" H 4600 4800 60  0001 C CNN
+F 2 "Custom Footies:choc_hs_reversible" H 4600 4800 60  0001 C CNN
 F 3 "" H 4600 4800 60  0000 C CNN
 	1    4600 4800
 	1    0    0    -1  
@@ -332,7 +332,7 @@ U 1 1 5E4CDE7E
 P 5850 2100
 F 0 "SW21" H 5850 2355 50  0000 C CNN
 F 1 "SW_PUSH" H 5850 2264 50  0000 C CNN
-F 2 "daprice_kail_mx:Kailh_socket_PG1350_reversible" H 5850 2100 60  0001 C CNN
+F 2 "Custom Footies:choc_hs_reversible" H 5850 2100 60  0001 C CNN
 F 3 "" H 5850 2100 60  0000 C CNN
 	1    5850 2100
 	1    0    0    -1  
@@ -354,7 +354,7 @@ U 1 1 5E4CDE8A
 P 5850 3000
 F 0 "SW22" H 5850 3255 50  0000 C CNN
 F 1 "SW_PUSH" H 5850 3164 50  0000 C CNN
-F 2 "daprice_kail_mx:Kailh_socket_PG1350_reversible" H 5850 3000 60  0001 C CNN
+F 2 "Custom Footies:choc_hs_reversible" H 5850 3000 60  0001 C CNN
 F 3 "" H 5850 3000 60  0000 C CNN
 	1    5850 3000
 	1    0    0    -1  
@@ -376,7 +376,7 @@ U 1 1 5E4CDE96
 P 5850 3900
 F 0 "SW23" H 5850 4155 50  0000 C CNN
 F 1 "SW_PUSH" H 5850 4064 50  0000 C CNN
-F 2 "daprice_kail_mx:Kailh_socket_PG1350_reversible" H 5850 3900 60  0001 C CNN
+F 2 "Custom Footies:choc_hs_reversible" H 5850 3900 60  0001 C CNN
 F 3 "" H 5850 3900 60  0000 C CNN
 	1    5850 3900
 	1    0    0    -1  
@@ -398,7 +398,7 @@ U 1 1 5E4CDEA2
 P 5850 4800
 F 0 "SW24" H 5850 5055 50  0000 C CNN
 F 1 "SW_PUSH" H 5850 4964 50  0000 C CNN
-F 2 "daprice_kail_mx:Kailh_socket_PG1350_reversible" H 5850 4800 60  0001 C CNN
+F 2 "Custom Footies:choc_hs_reversible" H 5850 4800 60  0001 C CNN
 F 3 "" H 5850 4800 60  0000 C CNN
 	1    5850 4800
 	1    0    0    -1  
@@ -420,7 +420,7 @@ U 1 1 5E4CDEBA
 P 7100 2100
 F 0 "SW26" H 7100 2355 50  0000 C CNN
 F 1 "SW_PUSH" H 7100 2264 50  0000 C CNN
-F 2 "daprice_kail_mx:Kailh_socket_PG1350_reversible" H 7100 2100 60  0001 C CNN
+F 2 "Custom Footies:choc_hs_reversible" H 7100 2100 60  0001 C CNN
 F 3 "" H 7100 2100 60  0000 C CNN
 	1    7100 2100
 	1    0    0    -1  
@@ -442,7 +442,7 @@ U 1 1 5E4CDEC6
 P 7100 3000
 F 0 "SW27" H 7100 3255 50  0000 C CNN
 F 1 "SW_PUSH" H 7100 3164 50  0000 C CNN
-F 2 "daprice_kail_mx:Kailh_socket_PG1350_reversible" H 7100 3000 60  0001 C CNN
+F 2 "Custom Footies:choc_hs_reversible" H 7100 3000 60  0001 C CNN
 F 3 "" H 7100 3000 60  0000 C CNN
 	1    7100 3000
 	1    0    0    -1  
@@ -464,7 +464,7 @@ U 1 1 5E4CDED2
 P 7100 3900
 F 0 "SW28" H 7100 4155 50  0000 C CNN
 F 1 "SW_PUSH" H 7100 4064 50  0000 C CNN
-F 2 "daprice_kail_mx:Kailh_socket_PG1350_reversible" H 7100 3900 60  0001 C CNN
+F 2 "Custom Footies:choc_hs_reversible" H 7100 3900 60  0001 C CNN
 F 3 "" H 7100 3900 60  0000 C CNN
 	1    7100 3900
 	1    0    0    -1  
@@ -486,7 +486,7 @@ U 1 1 5E4CDEDE
 P 7100 4800
 F 0 "SW29" H 7100 5055 50  0000 C CNN
 F 1 "SW_PUSH" H 7100 4964 50  0000 C CNN
-F 2 "daprice_kail_mx:Kailh_socket_PG1350_reversible" H 7100 4800 60  0001 C CNN
+F 2 "Custom Footies:choc_hs_reversible" H 7100 4800 60  0001 C CNN
 F 3 "" H 7100 4800 60  0000 C CNN
 	1    7100 4800
 	1    0    0    -1  
@@ -660,7 +660,7 @@ U 1 1 5E556622
 P 7100 5700
 F 0 "SW30" H 7100 5955 50  0000 C CNN
 F 1 "SW_PUSH" H 7100 5864 50  0000 C CNN
-F 2 "daprice_kail_mx:Kailh_socket_PG1350_reversible" H 7100 5700 60  0001 C CNN
+F 2 "Custom Footies:choc_hs_reversible" H 7100 5700 60  0001 C CNN
 F 3 "" H 7100 5700 60  0000 C CNN
 	1    7100 5700
 	1    0    0    -1  
@@ -809,7 +809,7 @@ U 1 1 5F0447E9
 P 1100 6050
 F 0 "U2" H 1278 6128 60  0000 L CNN
 F 1 "HOLE" H 1278 6022 60  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2" H 1100 6050 60  0001 C CNN
+F 2 "Custom Footies:MountingHole_2.2mm_M2" H 1100 6050 60  0001 C CNN
 F 3 "" H 1100 6050 60  0000 C CNN
 	1    1100 6050
 	1    0    0    -1  
@@ -820,7 +820,7 @@ U 1 1 5F045005
 P 1800 6050
 F 0 "U4" H 1978 6128 60  0000 L CNN
 F 1 "HOLE" H 1978 6022 60  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2" H 1800 6050 60  0001 C CNN
+F 2 "Custom Footies:MountingHole_2.2mm_M2" H 1800 6050 60  0001 C CNN
 F 3 "" H 1800 6050 60  0000 C CNN
 	1    1800 6050
 	1    0    0    -1  
@@ -831,7 +831,7 @@ U 1 1 5F045DEC
 P 1100 6650
 F 0 "U3" H 1278 6728 60  0000 L CNN
 F 1 "HOLE" H 1278 6622 60  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2" H 1100 6650 60  0001 C CNN
+F 2 "Custom Footies:MountingHole_2.2mm_M2" H 1100 6650 60  0001 C CNN
 F 3 "" H 1100 6650 60  0000 C CNN
 	1    1100 6650
 	1    0    0    -1  
@@ -842,7 +842,7 @@ U 1 1 5F0464FB
 P 1800 6650
 F 0 "U5" H 1978 6728 60  0000 L CNN
 F 1 "HOLE" H 1978 6622 60  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2" H 1800 6650 60  0001 C CNN
+F 2 "Custom Footies:MountingHole_2.2mm_M2" H 1800 6650 60  0001 C CNN
 F 3 "" H 1800 6650 60  0000 C CNN
 	1    1800 6650
 	1    0    0    -1  
@@ -889,43 +889,6 @@ F 3 "" H 9950 1000 60  0000 C CNN
 	1    9850 2050
 	1    0    0    -1  
 $EndComp
-Text GLabel 10250 3500 0    50   Input ~ 0
-SCL
-$Comp
-L gnd:GND #PWR0102
-U 1 1 60C28C17
-P 10250 3800
-F 0 "#PWR0102" H 10250 3550 50  0001 C CNN
-F 1 "GND" H 10250 3650 50  0000 C CNN
-F 2 "" H 10250 3800 50  0001 C CNN
-F 3 "" H 10250 3800 50  0001 C CNN
-	1    10250 3800
-	1    0    0    -1  
-$EndComp
-$Comp
-L vcc:VCC #PWR0107
-U 1 1 60C29E2D
-P 10250 3700
-F 0 "#PWR0107" H 10250 3550 50  0001 C CNN
-F 1 "VCC" V 10200 3850 50  0000 L CNN
-F 2 "" H 10250 3700 50  0001 C CNN
-F 3 "" H 10250 3700 50  0001 C CNN
-	1    10250 3700
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Connector_Generic:Conn_01x04 J3
-U 1 1 60C3C374
-P 10450 3600
-F 0 "J3" H 10530 3592 50  0000 L CNN
-F 1 "Conn_01x04" H 10530 3501 50  0000 L CNN
-F 2 "Connector:FanPinHeader_1x04_P2.54mm_Vertical" H 10450 3600 50  0001 C CNN
-F 3 "~" H 10450 3600 50  0001 C CNN
-	1    10450 3600
-	1    0    0    -1  
-$EndComp
-Text GLabel 10250 3600 0    50   Input ~ 0
-SDA
 Text GLabel 7400 2100 1    50   Input ~ 0
 ROW1
 Text GLabel 6150 2100 1    50   Input ~ 0
@@ -942,7 +905,7 @@ U 1 1 60C66EBC
 P 2550 6050
 F 0 "U6" H 2728 6128 60  0000 L CNN
 F 1 "HOLE" H 2728 6022 60  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2" H 2550 6050 60  0001 C CNN
+F 2 "Custom Footies:MountingHole_2.2mm_M2" H 2550 6050 60  0001 C CNN
 F 3 "" H 2550 6050 60  0000 C CNN
 	1    2550 6050
 	1    0    0    -1  
@@ -953,20 +916,9 @@ U 1 1 60C66EC2
 P 3250 6050
 F 0 "U8" H 3428 6128 60  0000 L CNN
 F 1 "HOLE" H 3428 6022 60  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2" H 3250 6050 60  0001 C CNN
+F 2 "Custom Footies:MountingHole_2.2mm_M2" H 3250 6050 60  0001 C CNN
 F 3 "" H 3250 6050 60  0000 C CNN
 	1    3250 6050
-	1    0    0    -1  
-$EndComp
-$Comp
-L hole:HOLE U7
-U 1 1 60C66EC8
-P 2550 6650
-F 0 "U7" H 2728 6728 60  0000 L CNN
-F 1 "HOLE" H 2728 6622 60  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2" H 2550 6650 60  0001 C CNN
-F 3 "" H 2550 6650 60  0000 C CNN
-	1    2550 6650
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -975,7 +927,7 @@ U 1 1 60C66ECE
 P 3250 6650
 F 0 "U9" H 3428 6728 60  0000 L CNN
 F 1 "HOLE" H 3428 6622 60  0000 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2" H 3250 6650 60  0001 C CNN
+F 2 "Custom Footies:MountingHole_2.2mm_M2" H 3250 6650 60  0001 C CNN
 F 3 "" H 3250 6650 60  0000 C CNN
 	1    3250 6650
 	1    0    0    -1  
