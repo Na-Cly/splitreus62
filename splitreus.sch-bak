@@ -42,7 +42,7 @@ U 1 1 5F037814
 P 1200 2400
 F 0 "D1" H 1200 2593 40  0000 C CNN
 F 1 "1N4148-F" H 1200 2517 40  0000 C CNN
-F 2 "keebio:Diode-Hybrid-reversible" H 1200 2400 60  0001 C CNN
+F 2 "Custom Footies:Diode-Hybrid-reversible" H 1200 2400 60  0001 C CNN
 F 3 "" H 1200 2400 60  0000 C CNN
 	1    1200 2400
 	1    0    0    -1  
@@ -64,7 +64,7 @@ U 1 1 5F037815
 P 1200 3300
 F 0 "D2" H 1200 3493 40  0000 C CNN
 F 1 "1N4148-F" H 1200 3417 40  0000 C CNN
-F 2 "keebio:Diode-Hybrid-reversible" H 1200 3300 60  0001 C CNN
+F 2 "Custom Footies:Diode-Hybrid-reversible" H 1200 3300 60  0001 C CNN
 F 3 "" H 1200 3300 60  0000 C CNN
 	1    1200 3300
 	1    0    0    -1  
@@ -86,7 +86,7 @@ U 1 1 5F037816
 P 1200 4200
 F 0 "D3" H 1200 4393 40  0000 C CNN
 F 1 "1N4148-F" H 1200 4317 40  0000 C CNN
-F 2 "keebio:Diode-Hybrid-reversible" H 1200 4200 60  0001 C CNN
+F 2 "Custom Footies:Diode-Hybrid-reversible" H 1200 4200 60  0001 C CNN
 F 3 "" H 1200 4200 60  0000 C CNN
 	1    1200 4200
 	1    0    0    -1  
@@ -108,7 +108,7 @@ U 1 1 5F037818
 P 1200 5100
 F 0 "D4" H 1200 5293 40  0000 C CNN
 F 1 "1N4148-F" H 1200 5217 40  0000 C CNN
-F 2 "keebio:Diode-Hybrid-reversible" H 1200 5100 60  0001 C CNN
+F 2 "Custom Footies:Diode-Hybrid-reversible" H 1200 5100 60  0001 C CNN
 F 3 "" H 1200 5100 60  0000 C CNN
 	1    1200 5100
 	1    0    0    -1  
@@ -130,7 +130,7 @@ U 1 1 5F03781A
 P 2300 1550
 F 0 "D5" H 2300 1743 40  0000 C CNN
 F 1 "1N4148-F" H 2300 1667 40  0000 C CNN
-F 2 "keebio:Diode-Hybrid-reversible" H 2300 1550 60  0001 C CNN
+F 2 "Custom Footies:Diode-Hybrid-reversible" H 2300 1550 60  0001 C CNN
 F 3 "" H 2300 1550 60  0000 C CNN
 	1    2300 1550
 	1    0    0    -1  
@@ -152,7 +152,7 @@ U 1 1 5F03781C
 P 2300 2400
 F 0 "D6" H 2300 2593 40  0000 C CNN
 F 1 "1N4148-F" H 2300 2517 40  0000 C CNN
-F 2 "keebio:Diode-Hybrid-reversible" H 2300 2400 60  0001 C CNN
+F 2 "Custom Footies:Diode-Hybrid-reversible" H 2300 2400 60  0001 C CNN
 F 3 "" H 2300 2400 60  0000 C CNN
 	1    2300 2400
 	1    0    0    -1  
@@ -174,7 +174,7 @@ U 1 1 5F03781E
 P 2300 3300
 F 0 "D7" H 2300 3493 40  0000 C CNN
 F 1 "1N4148-F" H 2300 3417 40  0000 C CNN
-F 2 "keebio:Diode-Hybrid-reversible" H 2300 3300 60  0001 C CNN
+F 2 "Custom Footies:Diode-Hybrid-reversible" H 2300 3300 60  0001 C CNN
 F 3 "" H 2300 3300 60  0000 C CNN
 	1    2300 3300
 	1    0    0    -1  
@@ -196,7 +196,7 @@ U 1 1 5F037813
 P 2300 4200
 F 0 "D8" H 2300 4393 40  0000 C CNN
 F 1 "1N4148-F" H 2300 4317 40  0000 C CNN
-F 2 "keebio:Diode-Hybrid-reversible" H 2300 4200 60  0001 C CNN
+F 2 "Custom Footies:Diode-Hybrid-reversible" H 2300 4200 60  0001 C CNN
 F 3 "" H 2300 4200 60  0000 C CNN
 	1    2300 4200
 	1    0    0    -1  
@@ -218,7 +218,7 @@ U 1 1 5F037803
 P 2300 5100
 F 0 "D9" H 2300 5293 40  0000 C CNN
 F 1 "1N4148-F" H 2300 5217 40  0000 C CNN
-F 2 "keebio:Diode-Hybrid-reversible" H 2300 5100 60  0001 C CNN
+F 2 "Custom Footies:Diode-Hybrid-reversible" H 2300 5100 60  0001 C CNN
 F 3 "" H 2300 5100 60  0000 C CNN
 	1    2300 5100
 	1    0    0    -1  
@@ -274,7 +274,7 @@ U 1 1 5F037805
 P 3450 1550
 F 0 "D10" H 3450 1743 40  0000 C CNN
 F 1 "1N4148-F" H 3450 1667 40  0000 C CNN
-F 2 "keebio:Diode-Hybrid-reversible" H 3450 1550 60  0001 C CNN
+F 2 "Custom Footies:Diode-Hybrid-reversible" H 3450 1550 60  0001 C CNN
 F 3 "" H 3450 1550 60  0000 C CNN
 	1    3450 1550
 	1    0    0    -1  
@@ -296,7 +296,7 @@ U 1 1 5F037807
 P 3450 2400
 F 0 "D11" H 3450 2593 40  0000 C CNN
 F 1 "1N4148-F" H 3450 2517 40  0000 C CNN
-F 2 "keebio:Diode-Hybrid-reversible" H 3450 2400 60  0001 C CNN
+F 2 "Custom Footies:Diode-Hybrid-reversible" H 3450 2400 60  0001 C CNN
 F 3 "" H 3450 2400 60  0000 C CNN
 	1    3450 2400
 	1    0    0    -1  
@@ -318,7 +318,7 @@ U 1 1 5F037809
 P 3450 3300
 F 0 "D12" H 3450 3493 40  0000 C CNN
 F 1 "1N4148-F" H 3450 3417 40  0000 C CNN
-F 2 "keebio:Diode-Hybrid-reversible" H 3450 3300 60  0001 C CNN
+F 2 "Custom Footies:Diode-Hybrid-reversible" H 3450 3300 60  0001 C CNN
 F 3 "" H 3450 3300 60  0000 C CNN
 	1    3450 3300
 	1    0    0    -1  
@@ -340,7 +340,7 @@ U 1 1 5F037802
 P 3450 4200
 F 0 "D13" H 3450 4393 40  0000 C CNN
 F 1 "1N4148-F" H 3450 4317 40  0000 C CNN
-F 2 "keebio:Diode-Hybrid-reversible" H 3450 4200 60  0001 C CNN
+F 2 "Custom Footies:Diode-Hybrid-reversible" H 3450 4200 60  0001 C CNN
 F 3 "" H 3450 4200 60  0000 C CNN
 	1    3450 4200
 	1    0    0    -1  
@@ -362,7 +362,7 @@ U 1 1 5F03780D
 P 3450 5100
 F 0 "D14" H 3450 5293 40  0000 C CNN
 F 1 "1N4148-F" H 3450 5217 40  0000 C CNN
-F 2 "keebio:Diode-Hybrid-reversible" H 3450 5100 60  0001 C CNN
+F 2 "Custom Footies:Diode-Hybrid-reversible" H 3450 5100 60  0001 C CNN
 F 3 "" H 3450 5100 60  0000 C CNN
 	1    3450 5100
 	1    0    0    -1  
@@ -384,7 +384,7 @@ U 1 1 5F03780F
 P 4600 1550
 F 0 "D15" H 4600 1743 40  0000 C CNN
 F 1 "1N4148-F" H 4600 1667 40  0000 C CNN
-F 2 "keebio:Diode-Hybrid-reversible" H 4600 1550 60  0001 C CNN
+F 2 "Custom Footies:Diode-Hybrid-reversible" H 4600 1550 60  0001 C CNN
 F 3 "" H 4600 1550 60  0000 C CNN
 	1    4600 1550
 	1    0    0    -1  
@@ -406,7 +406,7 @@ U 1 1 5F037811
 P 4600 2400
 F 0 "D16" H 4600 2593 40  0000 C CNN
 F 1 "1N4148-F" H 4600 2517 40  0000 C CNN
-F 2 "keebio:Diode-Hybrid-reversible" H 4600 2400 60  0001 C CNN
+F 2 "Custom Footies:Diode-Hybrid-reversible" H 4600 2400 60  0001 C CNN
 F 3 "" H 4600 2400 60  0000 C CNN
 	1    4600 2400
 	1    0    0    -1  
@@ -428,7 +428,7 @@ U 1 1 5F037812
 P 4600 3300
 F 0 "D17" H 4600 3493 40  0000 C CNN
 F 1 "1N4148-F" H 4600 3417 40  0000 C CNN
-F 2 "keebio:Diode-Hybrid-reversible" H 4600 3300 60  0001 C CNN
+F 2 "Custom Footies:Diode-Hybrid-reversible" H 4600 3300 60  0001 C CNN
 F 3 "" H 4600 3300 60  0000 C CNN
 	1    4600 3300
 	1    0    0    -1  
@@ -450,7 +450,7 @@ U 1 1 5F037810
 P 4600 4200
 F 0 "D18" H 4600 4393 40  0000 C CNN
 F 1 "1N4148-F" H 4600 4317 40  0000 C CNN
-F 2 "keebio:Diode-Hybrid-reversible" H 4600 4200 60  0001 C CNN
+F 2 "Custom Footies:Diode-Hybrid-reversible" H 4600 4200 60  0001 C CNN
 F 3 "" H 4600 4200 60  0000 C CNN
 	1    4600 4200
 	1    0    0    -1  
@@ -472,7 +472,7 @@ U 1 1 5F03780E
 P 4600 5100
 F 0 "D19" H 4600 5293 40  0000 C CNN
 F 1 "1N4148-F" H 4600 5217 40  0000 C CNN
-F 2 "keebio:Diode-Hybrid-reversible" H 4600 5100 60  0001 C CNN
+F 2 "Custom Footies:Diode-Hybrid-reversible" H 4600 5100 60  0001 C CNN
 F 3 "" H 4600 5100 60  0000 C CNN
 	1    4600 5100
 	1    0    0    -1  
@@ -536,7 +536,7 @@ U 1 1 5F03780C
 P 5850 1550
 F 0 "D20" H 5850 1743 40  0000 C CNN
 F 1 "1N4148-F" H 5850 1667 40  0000 C CNN
-F 2 "keebio:Diode-Hybrid-reversible" H 5850 1550 60  0001 C CNN
+F 2 "Custom Footies:Diode-Hybrid-reversible" H 5850 1550 60  0001 C CNN
 F 3 "" H 5850 1550 60  0000 C CNN
 	1    5850 1550
 	1    0    0    -1  
@@ -558,7 +558,7 @@ U 1 1 5F03780A
 P 5850 2400
 F 0 "D21" H 5850 2593 40  0000 C CNN
 F 1 "1N4148-F" H 5850 2517 40  0000 C CNN
-F 2 "keebio:Diode-Hybrid-reversible" H 5850 2400 60  0001 C CNN
+F 2 "Custom Footies:Diode-Hybrid-reversible" H 5850 2400 60  0001 C CNN
 F 3 "" H 5850 2400 60  0000 C CNN
 	1    5850 2400
 	1    0    0    -1  
@@ -580,7 +580,7 @@ U 1 1 5F037808
 P 5850 3300
 F 0 "D22" H 5850 3493 40  0000 C CNN
 F 1 "1N4148-F" H 5850 3417 40  0000 C CNN
-F 2 "keebio:Diode-Hybrid-reversible" H 5850 3300 60  0001 C CNN
+F 2 "Custom Footies:Diode-Hybrid-reversible" H 5850 3300 60  0001 C CNN
 F 3 "" H 5850 3300 60  0000 C CNN
 	1    5850 3300
 	1    0    0    -1  
@@ -602,7 +602,7 @@ U 1 1 5F037806
 P 5850 4200
 F 0 "D23" H 5850 4393 40  0000 C CNN
 F 1 "1N4148-F" H 5850 4317 40  0000 C CNN
-F 2 "keebio:Diode-Hybrid-reversible" H 5850 4200 60  0001 C CNN
+F 2 "Custom Footies:Diode-Hybrid-reversible" H 5850 4200 60  0001 C CNN
 F 3 "" H 5850 4200 60  0000 C CNN
 	1    5850 4200
 	1    0    0    -1  
@@ -624,7 +624,7 @@ U 1 1 5F037804
 P 5850 5100
 F 0 "D24" H 5850 5293 40  0000 C CNN
 F 1 "1N4148-F" H 5850 5217 40  0000 C CNN
-F 2 "keebio:Diode-Hybrid-reversible" H 5850 5100 60  0001 C CNN
+F 2 "Custom Footies:Diode-Hybrid-reversible" H 5850 5100 60  0001 C CNN
 F 3 "" H 5850 5100 60  0000 C CNN
 	1    5850 5100
 	1    0    0    -1  
@@ -646,7 +646,7 @@ U 1 1 5F03780B
 P 7100 1550
 F 0 "D25" H 7100 1743 40  0000 C CNN
 F 1 "1N4148-F" H 7100 1667 40  0000 C CNN
-F 2 "keebio:Diode-Hybrid-reversible" H 7100 1550 60  0001 C CNN
+F 2 "Custom Footies:Diode-Hybrid-reversible" H 7100 1550 60  0001 C CNN
 F 3 "" H 7100 1550 60  0000 C CNN
 	1    7100 1550
 	1    0    0    -1  
@@ -668,7 +668,7 @@ U 1 1 00000000
 P 7100 2400
 F 0 "D26" H 7100 2593 40  0000 C CNN
 F 1 "1N4148-F" H 7100 2517 40  0000 C CNN
-F 2 "keebio:Diode-Hybrid-reversible" H 7100 2400 60  0001 C CNN
+F 2 "Custom Footies:Diode-Hybrid-reversible" H 7100 2400 60  0001 C CNN
 F 3 "" H 7100 2400 60  0000 C CNN
 	1    7100 2400
 	1    0    0    -1  
@@ -690,7 +690,7 @@ U 1 1 5F03781D
 P 7100 3300
 F 0 "D27" H 7100 3493 40  0000 C CNN
 F 1 "1N4148-F" H 7100 3417 40  0000 C CNN
-F 2 "keebio:Diode-Hybrid-reversible" H 7100 3300 60  0001 C CNN
+F 2 "Custom Footies:Diode-Hybrid-reversible" H 7100 3300 60  0001 C CNN
 F 3 "" H 7100 3300 60  0000 C CNN
 	1    7100 3300
 	1    0    0    -1  
@@ -712,7 +712,7 @@ U 1 1 5F03781B
 P 7100 4200
 F 0 "D28" H 7100 4393 40  0000 C CNN
 F 1 "1N4148-F" H 7100 4317 40  0000 C CNN
-F 2 "keebio:Diode-Hybrid-reversible" H 7100 4200 60  0001 C CNN
+F 2 "Custom Footies:Diode-Hybrid-reversible" H 7100 4200 60  0001 C CNN
 F 3 "" H 7100 4200 60  0000 C CNN
 	1    7100 4200
 	1    0    0    -1  
@@ -734,7 +734,7 @@ U 1 1 5F037819
 P 7100 5100
 F 0 "D29" H 7100 5293 40  0000 C CNN
 F 1 "1N4148-F" H 7100 5217 40  0000 C CNN
-F 2 "keebio:Diode-Hybrid-reversible" H 7100 5100 60  0001 C CNN
+F 2 "Custom Footies:Diode-Hybrid-reversible" H 7100 5100 60  0001 C CNN
 F 3 "" H 7100 5100 60  0000 C CNN
 	1    7100 5100
 	1    0    0    -1  
@@ -978,7 +978,7 @@ U 1 1 5F037817
 P 7100 6000
 F 0 "D30" H 7100 6193 40  0000 C CNN
 F 1 "1N4148-F" H 7100 6117 40  0000 C CNN
-F 2 "keebio:Diode-Hybrid-reversible" H 7100 6000 60  0001 C CNN
+F 2 "Custom Footies:Diode-Hybrid-reversible" H 7100 6000 60  0001 C CNN
 F 3 "" H 7100 6000 60  0000 C CNN
 	1    7100 6000
 	1    0    0    -1  
@@ -1056,23 +1056,23 @@ Text GLabel 7400 4800 1    50   Input ~ 0
 ROW4
 Text GLabel 7400 5700 1    50   Input ~ 0
 ROW5
-Text GLabel 9200 1500 0    50   Input ~ 0
-ROW0
-Text GLabel 9200 1600 0    50   Input ~ 0
-ROW1
-Text GLabel 9200 1900 0    50   Input ~ 0
-ROW2
 Text GLabel 9200 2100 0    50   Input ~ 0
-ROW3
-Text GLabel 9200 2200 0    50   Input ~ 0
-ROW4
+ROW0
 Text GLabel 9200 2300 0    50   Input ~ 0
-ROW5
-Text GLabel 9200 2400 0    50   Input ~ 0
-COL0
+ROW1
 Text GLabel 9200 2500 0    50   Input ~ 0
+ROW2
+Text GLabel 10600 2600 2    50   Input ~ 0
+ROW3
+Text GLabel 10600 2400 2    50   Input ~ 0
+ROW4
+Text GLabel 10600 2200 2    50   Input ~ 0
+ROW5
+Text GLabel 9200 1600 0    50   Input ~ 0
+COL0
+Text GLabel 9200 2200 0    50   Input ~ 0
 COL1
-Text GLabel 9200 2600 0    50   Input ~ 0
+Text GLabel 9200 2400 0    50   Input ~ 0
 COL2
 Text GLabel 1650 5100 3    50   Input ~ 0
 COL0
@@ -1088,9 +1088,9 @@ Text GLabel 7550 6000 3    50   Input ~ 0
 COL5
 Text GLabel 10600 2500 2    50   Input ~ 0
 COL4
-Text GLabel 10600 2400 2    50   Input ~ 0
+Text GLabel 10600 2300 2    50   Input ~ 0
 COL5
-Text GLabel 9200 2000 0    50   Input ~ 0
+Text GLabel 9200 1500 0    50   Input ~ 0
 SERIAL
 $Comp
 L promicro:ProMicro U1
@@ -1098,12 +1098,12 @@ U 1 1 5E46BADA
 P 9900 2250
 F 0 "U1" H 9900 3287 60  0000 C CNN
 F 1 "ProMicro" H 9900 3181 60  0000 C CNN
-F 2 "Lily58-footprint:ProMicro_rev2" H 10000 1200 60  0001 C CNN
+F 2 "Custom Footies:nice_nano" H 10000 1200 60  0001 C CNN
 F 3 "" H 10000 1200 60  0000 C CNN
 	1    9900 2250
 	1    0    0    -1  
 $EndComp
-Text GLabel 10600 2600 2    50   Input ~ 0
+Text GLabel 9200 2600 0    50   Input ~ 0
 COL3
 Text GLabel 9000 3550 2    50   Input ~ 0
 SERIAL
@@ -1121,7 +1121,7 @@ U 1 1 5E477FD1
 P 1200 1550
 F 0 "D0" H 1200 1743 40  0000 C CNN
 F 1 "1N4148-F" H 1200 1667 40  0000 C CNN
-F 2 "keebio:Diode-Hybrid-reversible" H 1200 1550 60  0001 C CNN
+F 2 "Custom Footies:Diode-Hybrid-reversible" H 1200 1550 60  0001 C CNN
 F 3 "" H 1200 1550 60  0000 C CNN
 	1    1200 1550
 	1    0    0    -1  
@@ -1154,56 +1154,6 @@ F 3 "~" H 10400 3700 50  0001 C CNN
 	1    10400 3500
 	-1   0    0    1   
 $EndComp
-$Comp
-L jumper_smd:jumper_smd W1
-U 1 1 5F01D935
-P 10300 4250
-F 0 "W1" H 10300 4445 50  0000 C CNN
-F 1 "Left" H 10300 4354 50  0000 C CNN
-F 2 "Lily58-footprint:jumper_smd_2dub" H 10300 4250 50  0001 C CNN
-F 3 "" H 10300 4250 50  0000 C CNN
-	1    10300 4250
-	1    0    0    -1  
-$EndComp
-$Comp
-L vcc:VCC #PWR0101
-U 1 1 5F01E7F3
-P 10500 4250
-F 0 "#PWR0101" H 10500 4100 50  0001 C CNN
-F 1 "VCC" V 10517 4378 50  0000 L CNN
-F 2 "" H 10500 4250 50  0001 C CNN
-F 3 "" H 10500 4250 50  0001 C CNN
-	1    10500 4250
-	0    1    1    0   
-$EndComp
-Text GLabel 10600 1900 2    50   Input ~ 0
-F4
-Text GLabel 10100 4250 0    50   Input ~ 0
-F4
-$Comp
-L jumper_smd:jumper_smd W2
-U 1 1 5F02012E
-P 10300 4800
-F 0 "W2" H 10300 4995 50  0000 C CNN
-F 1 "Right" H 10300 4904 50  0000 C CNN
-F 2 "Lily58-footprint:jumper_smd_2dub" H 10300 4800 50  0001 C CNN
-F 3 "" H 10300 4800 50  0000 C CNN
-	1    10300 4800
-	1    0    0    -1  
-$EndComp
-$Comp
-L gnd:GND #PWR0102
-U 1 1 5F021CB1
-P 10500 4800
-F 0 "#PWR0102" H 10500 4550 50  0001 C CNN
-F 1 "GND" V 10500 4500 50  0000 L CNN
-F 2 "" H 10500 4800 50  0001 C CNN
-F 3 "" H 10500 4800 50  0001 C CNN
-	1    10500 4800
-	0    -1   -1   0   
-$EndComp
-Text GLabel 10100 4800 0    50   Input ~ 0
-F4
 $Comp
 L vcc:VCC #PWR0103
 U 1 1 5EFFC693
@@ -1251,12 +1201,12 @@ $EndComp
 $Comp
 L gnd:GND #PWR0107
 U 1 1 5EFFED18
-P 9000 3450
-F 0 "#PWR0107" H 9000 3200 50  0001 C CNN
-F 1 "GND" V 9000 3150 50  0000 L CNN
-F 2 "" H 9000 3450 50  0001 C CNN
-F 3 "" H 9000 3450 50  0001 C CNN
-	1    9000 3450
+P 9000 3650
+F 0 "#PWR0107" H 9000 3400 50  0001 C CNN
+F 1 "GND" V 9000 3350 50  0000 L CNN
+F 2 "" H 9000 3650 50  0001 C CNN
+F 3 "" H 9000 3650 50  0001 C CNN
+	1    9000 3650
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -1276,7 +1226,7 @@ U 1 1 5F0447E9
 P 1100 6050
 F 0 "U2" H 1278 6128 60  0000 L CNN
 F 1 "HOLE" H 1278 6022 60  0000 L CNN
-F 2 "MountingHole:MountingHole_2.7mm_M2.5_ISO14580_Pad" H 1100 6050 60  0001 C CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 1100 6050 60  0001 C CNN
 F 3 "" H 1100 6050 60  0000 C CNN
 	1    1100 6050
 	1    0    0    -1  
@@ -1287,7 +1237,7 @@ U 1 1 5F045005
 P 1800 6050
 F 0 "U4" H 1978 6128 60  0000 L CNN
 F 1 "HOLE" H 1978 6022 60  0000 L CNN
-F 2 "MountingHole:MountingHole_2.7mm_M2.5_ISO14580_Pad" H 1800 6050 60  0001 C CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 1800 6050 60  0001 C CNN
 F 3 "" H 1800 6050 60  0000 C CNN
 	1    1800 6050
 	1    0    0    -1  
@@ -1298,7 +1248,7 @@ U 1 1 5F045765
 P 2650 6050
 F 0 "U6" H 2828 6128 60  0000 L CNN
 F 1 "HOLE" H 2828 6022 60  0000 L CNN
-F 2 "MountingHole:MountingHole_2.7mm_M2.5_ISO14580_Pad" H 2650 6050 60  0001 C CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 2650 6050 60  0001 C CNN
 F 3 "" H 2650 6050 60  0000 C CNN
 	1    2650 6050
 	1    0    0    -1  
@@ -1309,7 +1259,7 @@ U 1 1 5F045DEC
 P 1100 6650
 F 0 "U3" H 1278 6728 60  0000 L CNN
 F 1 "HOLE" H 1278 6622 60  0000 L CNN
-F 2 "MountingHole:MountingHole_2.7mm_M2.5_ISO14580_Pad" H 1100 6650 60  0001 C CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 1100 6650 60  0001 C CNN
 F 3 "" H 1100 6650 60  0000 C CNN
 	1    1100 6650
 	1    0    0    -1  
@@ -1320,14 +1270,26 @@ U 1 1 5F0464FB
 P 1800 6650
 F 0 "U5" H 1978 6728 60  0000 L CNN
 F 1 "HOLE" H 1978 6622 60  0000 L CNN
-F 2 "MountingHole:MountingHole_2.7mm_M2.5_ISO14580_Pad" H 1800 6650 60  0001 C CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 1800 6650 60  0001 C CNN
 F 3 "" H 1800 6650 60  0000 C CNN
 	1    1800 6650
 	1    0    0    -1  
 $EndComp
 NoConn ~ 10600 2000
 NoConn ~ 10600 2100
-NoConn ~ 10600 2200
-NoConn ~ 10600 2300
 NoConn ~ 10600 1500
+NoConn ~ 9200 1900
+NoConn ~ 9200 2000
+NoConn ~ 10600 1900
+$Comp
+L hole:HOLE U7
+U 1 1 60D79C79
+P 2650 6600
+F 0 "U7" H 2828 6678 60  0000 L CNN
+F 1 "HOLE" H 2828 6572 60  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 2650 6600 60  0001 C CNN
+F 3 "" H 2650 6600 60  0000 C CNN
+	1    2650 6600
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
