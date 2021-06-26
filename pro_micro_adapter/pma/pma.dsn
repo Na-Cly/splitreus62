@@ -1,0 +1,241 @@
+(pcb C:\Users\Derek\Documents\GitHub\splitreus62\pro_micro_adapter\pma\pma.dsn
+  (parser
+    (string_quote ")
+    (space_in_quoted_tokens on)
+    (host_cad "KiCad's Pcbnew")
+    (host_version "(5.1.4)-1")
+  )
+  (resolution um 10)
+  (unit um)
+  (structure
+    (layer F.Cu
+      (type signal)
+      (property
+        (index 0)
+      )
+    )
+    (layer B.Cu
+      (type signal)
+      (property
+        (index 1)
+      )
+    )
+    (boundary
+      (path pcb 0  5181.21 17618.6  5512.88 17562.3  5836.15 17469.1  6146.97 17340.4
+            6441.41 17177.7  6715.79 16983  6966.64 16758.8  7190.81 16508
+            7385.49 16233.6  7548.23 15939.1  7676.97 15628.3  7770.1 15305.1
+            7826.45 14973.4  7845.32 14637.5  7845.32 -17362.5  7826.45 -17698.4
+            7770.1 -18030.1  7676.97 -18353.3  7548.23 -18664.2  7385.49 -18958.6
+            7190.81 -19233  6966.64 -19483.8  6715.79 -19708  6441.41 -19902.7
+            6146.97 -20065.4  5836.15 -20194.2  5512.88 -20287.3  5181.21 -20343.6
+            4845.32 -20362.5  -5154.68 -20362.5  -5490.57 -20343.6  -5822.24 -20287.3
+            -6145.52 -20194.2  -6456.33 -20065.4  -6750.78 -19902.7  -7025.15 -19708
+            -7276 -19483.8  -7500.18 -19233  -7694.85 -18958.6  -7857.59 -18664.2
+            -7986.33 -18353.3  -8079.47 -18030.1  -8135.82 -17698.4  -8154.68 -17362.5
+            -8154.68 14637.5  -8135.82 14973.4  -8079.47 15305.1  -7986.33 15628.3
+            -7857.59 15939.1  -7694.85 16233.6  -7500.18 16508  -7276 16758.8
+            -7025.15 16983  -6750.78 17177.7  -6456.33 17340.4  -6145.52 17469.1
+            -5822.24 17562.3  -5490.57 17618.6  -5154.68 17637.5  4845.32 17637.5
+            5181.21 17618.6)
+    )
+    (via "Via[0-1]_800:400_um")
+    (rule
+      (width 250)
+      (clearance 200.1)
+      (clearance 200.1 (type default_smd))
+      (clearance 50 (type smd_smd))
+    )
+  )
+  (placement
+    (component "Custom Footies:nice_nano"
+      (place U1 -250 0 front 270 (PN ProMicro))
+    )
+    (component "Custom Footies:PinHeader_1x04_P2.54mm_REVERSIBLE"
+      (place J2 4940 -19460 front 270 (PN 4PIN))
+    )
+    (component "Lily58-footprint:MJ-4PP-9"
+      (place J1 8400 1660 front 270 (PN "Lily58-cache_MJ-4PP-9"))
+    )
+  )
+  (library
+    (image "Custom Footies:nice_nano"
+      (outline (path signal 381  -15240 -6350  -15240 -8890))
+      (outline (path signal 381  -15240 -6350  -15240 -8890))
+      (outline (path signal 200  -19304 3556  -14224 3556))
+      (outline (path signal 200  -19304 -3810  -19304 3556))
+      (outline (path signal 200  -14224 -3810  -19304 -3810))
+      (outline (path signal 200  -14224 3556  -14224 -3810))
+      (outline (path signal 381  -17780 -8890  -15240 -8890))
+      (outline (path signal 381  -17780 8890  -17780 -8890))
+      (outline (path signal 381  -15240 8890  -17780 8890))
+      (outline (path signal 381  -17780 8890  -17780 -8890))
+      (outline (path signal 381  -17780 -8890  15240 -8890))
+      (outline (path signal 381  15240 -8890  15240 8890))
+      (outline (path signal 381  15240 8890  -17780 8890))
+      (outline (path signal 381  -12700 -6350  -12700 -8890))
+      (outline (path signal 381  -15240 -6350  -12700 -6350))
+      (outline (path signal 381  15240 8890  -15240 8890))
+      (outline (path signal 381  15240 -8890  15240 8890))
+      (outline (path signal 381  -15240 -8890  15240 -8890))
+      (outline (path signal 381  -15240 -6350  -12700 -6350))
+      (outline (path signal 381  -12700 -6350  -12700 -8890))
+      (pin Round[A]Pad_1752.6_um 24 -13970 7620)
+      (pin Round[A]Pad_1752.6_um 12 13970 -7620)
+      (pin Round[A]Pad_1752.6_um 23 -11430 7620)
+      (pin Round[A]Pad_1752.6_um 22 -8890 7620)
+      (pin Round[A]Pad_1752.6_um 21 -6350 7620)
+      (pin Round[A]Pad_1752.6_um 18 1270 7620)
+      (pin Round[A]Pad_1752.6_um 17 3810 7620)
+      (pin Round[A]Pad_1752.6_um 16 6350 7620)
+      (pin Round[A]Pad_1752.6_um 15 8890 7620)
+      (pin Round[A]Pad_1752.6_um 14 11430 7620)
+      (pin Round[A]Pad_1752.6_um 13 13970 7620)
+      (pin Round[A]Pad_1752.6_um 11 11430 -7620)
+      (pin Round[A]Pad_1752.6_um 10 8890 -7620)
+      (pin Round[A]Pad_1752.6_um 9 6350 -7620)
+      (pin Round[A]Pad_1752.6_um 8 3810 -7620)
+      (pin Round[A]Pad_1752.6_um 7 1270 -7620)
+      (pin Round[A]Pad_1752.6_um 6 -1270 -7620)
+      (pin Round[A]Pad_1752.6_um 5 -3810 -7620)
+      (pin Round[A]Pad_1752.6_um 4 -6350 -7620)
+      (pin Round[A]Pad_1752.6_um 3 -8890 -7620)
+      (pin Round[A]Pad_1752.6_um 2 -11430 -7620)
+      (pin Rect[A]Pad_1752.6x1752.6_um 1 -13970 -7620)
+    )
+    (image "Custom Footies:PinHeader_1x04_P2.54mm_REVERSIBLE"
+      (outline (path signal 100  -320 -9705  -955 -10340))
+      (outline (path signal 100  -2860 -180  -320 -180))
+      (outline (path signal 100  -2860 -10340  -2860 -180))
+      (outline (path signal 100  -955 -10340  -2860 -10340))
+      (outline (path signal 120  -590 -9070  -590 -10400))
+      (outline (path signal 50  -3390 -10870  210 -10870))
+      (outline (path signal 50  210 -10870  210 330))
+      (outline (path signal 120  -590 -10400  -1920 -10400))
+      (outline (path signal 120  -590 -7800  -590 -120))
+      (outline (path signal 100  -320 -180  -320 -9705))
+      (outline (path signal 50  -3390 330  -3390 -10870))
+      (outline (path signal 50  210 330  -3390 330))
+      (outline (path signal 120  -590 -7800  -3250 -7800))
+      (outline (path signal 120  -3250 -7800  -3250 -120))
+      (outline (path signal 120  -590 -120  -3250 -120))
+      (outline (path signal 100  -635 1270  1270 1270))
+      (outline (path signal 100  1270 1270  1270 -8890))
+      (outline (path signal 100  1270 -8890  -1270 -8890))
+      (outline (path signal 100  -1270 -8890  -1270 635))
+      (outline (path signal 100  -1270 635  -635 1270))
+      (outline (path signal 120  -1330 -8950  1330 -8950))
+      (outline (path signal 120  -1330 -1270  -1330 -8950))
+      (outline (path signal 120  1330 -1270  1330 -8950))
+      (outline (path signal 120  -1330 -1270  1330 -1270))
+      (outline (path signal 120  -1330 0  -1330 1330))
+      (outline (path signal 120  -1330 1330  0 1330))
+      (outline (path signal 50  -1800 1800  -1800 -9400))
+      (outline (path signal 50  -1800 -9400  1800 -9400))
+      (outline (path signal 50  1800 -9400  1800 1800))
+      (outline (path signal 50  1800 1800  -1800 1800))
+      (pin Oval[A]Pad_1700x1700_um (rotate 180) 3 -1920 -3990)
+      (pin Oval[A]Pad_1700x1700_um (rotate 180) 4 -1920 -1450)
+      (pin Oval[A]Pad_1700x1700_um (rotate 180) 2 -1920 -6530)
+      (pin Rect[A]Pad_1700x1700_um (rotate 180) 1 -1920 -9070)
+      (pin Rect[A]Pad_1700x1700_um 1@1 0 0)
+      (pin Oval[A]Pad_1700x1700_um 2@1 0 -2540)
+      (pin Oval[A]Pad_1700x1700_um 3@1 0 -5080)
+      (pin Oval[A]Pad_1700x1700_um 4@1 0 -7620)
+    )
+    (image "Lily58-footprint:MJ-4PP-9"
+      (outline (path signal 150  -3000 -12000  -3000 0))
+      (outline (path signal 150  3000 -12000  -3000 -12000))
+      (outline (path signal 150  3000 0  3000 -12000))
+      (outline (path signal 150  -3000 0  -2500 0))
+      (outline (path signal 150  -4750 0  -4250 0))
+      (outline (path signal 150  1250 0  1250 -12000))
+      (outline (path signal 150  1250 -12000  -4750 -12000))
+      (outline (path signal 150  -4750 -12000  -4750 0))
+      (outline (path signal 150  2500 0  2500 1900))
+      (outline (path signal 150  -2500 0  -2500 1900))
+      (outline (path signal 150  3000 0  2500 0))
+      (outline (path signal 150  -2500 1900  2500 1900))
+      (outline (path signal 150  -4250 0  -4250 1900))
+      (outline (path signal 150  -4200 1900  750 1900))
+      (outline (path signal 150  1250 0  750 0))
+      (outline (path signal 150  750 0  750 1900))
+      (pin Rect[A]Pad_1000x2100_um 4 -2100 -11800)
+      (pin Rect[A]Pad_1000x2100_um 1 2100 -10300)
+      (pin Rect[A]Pad_1000x2100_um 2 2100 -6300)
+      (pin Rect[A]Pad_1000x2100_um 3 2100 -3300)
+      (pin Rect[A]Pad_1000x2100_um 2@1 -3850 -6300)
+      (pin Rect[A]Pad_1000x2100_um 3@1 -3850 -3300)
+      (pin Rect[A]Pad_1000x2100_um 4@1 350 -11800)
+      (pin Rect[A]Pad_1000x2100_um 1@1 -3850 -10300)
+      (keepout "" (circle F.Cu 1200 0 -8500))
+      (keepout "" (circle B.Cu 1200 0 -8500))
+      (keepout "" (circle F.Cu 1200 0 -1500))
+      (keepout "" (circle B.Cu 1200 0 -1500))
+      (keepout "" (circle F.Cu 1200 -1750 -1500))
+      (keepout "" (circle B.Cu 1200 -1750 -1500))
+      (keepout "" (circle F.Cu 1200 -1750 -8500))
+      (keepout "" (circle B.Cu 1200 -1750 -8500))
+    )
+    (padstack Round[A]Pad_1752.6_um
+      (shape (circle F.Cu 1752.6))
+      (shape (circle B.Cu 1752.6))
+      (attach off)
+    )
+    (padstack Oval[A]Pad_1700x1700_um
+      (shape (path F.Cu 1700  0 0  0 0))
+      (shape (path B.Cu 1700  0 0  0 0))
+      (attach off)
+    )
+    (padstack Rect[A]Pad_1000x2100_um
+      (shape (rect F.Cu -500 -1050 500 1050))
+      (shape (rect B.Cu -500 -1050 500 1050))
+      (attach off)
+    )
+    (padstack Rect[A]Pad_1700x1700_um
+      (shape (rect F.Cu -850 -850 850 850))
+      (shape (rect B.Cu -850 -850 850 850))
+      (attach off)
+    )
+    (padstack Rect[A]Pad_1752.6x1752.6_um
+      (shape (rect F.Cu -876.3 -876.3 876.3 876.3))
+      (shape (rect B.Cu -876.3 -876.3 876.3 876.3))
+      (attach off)
+    )
+    (padstack "Via[0-1]_800:400_um"
+      (shape (circle F.Cu 800))
+      (shape (circle B.Cu 800))
+      (attach off)
+    )
+  )
+  (network
+    (net GND
+      (pins U1-23 U1-4 U1-3 J2-1 J2-1@1 J1-3 J1-3@1)
+    )
+    (net VCC
+      (pins U1-21 J2-2 J2-2@1 J1-4 J1-4@1)
+    )
+    (net SCL
+      (pins U1-5 J2-3 J2-3@1)
+    )
+    (net SDA
+      (pins U1-6 J2-4 J2-4@1)
+    )
+    (net SERIAL
+      (pins U1-1 J1-2 J1-2@1)
+    )
+    (net "Net-(J1-Pad1)"
+      (pins J1-1 J1-1@1)
+    )
+    (class kicad_default "" GND "Net-(J1-Pad1)" SCL SDA SERIAL VCC
+      (circuit
+        (use_via Via[0-1]_800:400_um)
+      )
+      (rule
+        (width 250)
+        (clearance 200.1)
+      )
+    )
+  )
+  (wiring
+  )
+)
