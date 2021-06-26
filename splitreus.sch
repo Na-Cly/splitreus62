@@ -1058,21 +1058,21 @@ Text GLabel 7400 5700 1    50   Input ~ 0
 ROW5
 Text GLabel 9200 1500 0    50   Input ~ 0
 ROW0
-Text GLabel 9200 1600 0    50   Input ~ 0
+Text GLabel 8500 2400 0    50   Input ~ 0
 ROW1
-Text GLabel 9200 1900 0    50   Input ~ 0
+Text GLabel 8500 1850 0    50   Input ~ 0
 ROW2
-Text GLabel 9200 2100 0    50   Input ~ 0
+Text GLabel 8500 2500 0    50   Input ~ 0
 ROW3
-Text GLabel 9200 2200 0    50   Input ~ 0
+Text GLabel 8500 2600 0    50   Input ~ 0
 ROW4
-Text GLabel 9200 2300 0    50   Input ~ 0
+Text GLabel 8500 2700 0    50   Input ~ 0
 ROW5
-Text GLabel 9200 2400 0    50   Input ~ 0
+Text GLabel 9200 1600 0    50   Input ~ 0
 COL0
-Text GLabel 9200 2500 0    50   Input ~ 0
+Text GLabel 8500 2900 0    50   Input ~ 0
 COL1
-Text GLabel 9200 2600 0    50   Input ~ 0
+Text GLabel 8500 3000 0    50   Input ~ 0
 COL2
 Text GLabel 1650 5100 3    50   Input ~ 0
 COL0
@@ -1090,7 +1090,7 @@ Text GLabel 10600 2500 2    50   Input ~ 0
 COL4
 Text GLabel 10600 2400 2    50   Input ~ 0
 COL5
-Text GLabel 9200 2000 0    50   Input ~ 0
+Text GLabel 8550 2000 0    50   Input ~ 0
 SERIAL
 $Comp
 L promicro:ProMicro U1
