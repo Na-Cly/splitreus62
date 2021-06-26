@@ -1,4 +1,4 @@
-17047418131086183
+17170320772253920
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -5946,6 +5946,146 @@ Capacitor_Tantalum_SMD
 CP_EIA-7361-438_AVX-U_Pad2.18x3.30mm_HandSolder
 Tantalum Capacitor SMD AVX-U (7361-438 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/NOS.pdf), generated with kicad-footprint-generator
 capacitor tantalum
+0
+2
+2
+CherryMX_KailhSocket
+CherryMX_1.00u_KailhSocket
+Cherry MX switch footprint. Size: 1.00u, Mount type: Plate, Using Kailh Socket: yes, Stabilizer: n/a, Lighting: none
+CherryMX 1.00u KailhSocket
+0
+2
+2
+CherryMX_KailhSocket
+CherryMX_1.25u_KailhSocket
+Cherry MX switch footprint. Size: 1.25u, Mount type: Plate, Using Kailh Socket: yes, Stabilizer: n/a, Lighting: none
+CherryMX 1.25u KailhSocket
+0
+2
+2
+CherryMX_KailhSocket
+CherryMX_1.50u_KailhSocket
+Cherry MX switch footprint. Size: 1.50u, Mount type: Plate, Using Kailh Socket: yes, Stabilizer: n/a, Lighting: none
+CherryMX 1.50u KailhSocket
+0
+2
+2
+CherryMX_KailhSocket
+CherryMX_1.75u_KailhSocket
+Cherry MX switch footprint. Size: 1.75u, Mount type: Plate, Using Kailh Socket: yes, Stabilizer: n/a, Lighting: none
+CherryMX 1.75u KailhSocket
+0
+2
+2
+CherryMX_KailhSocket
+CherryMX_2.00u_KailhSocket
+Cherry MX switch footprint. Size: 2.00u, Mount type: Plate, Using Kailh Socket: yes, Stabilizer: Plate mounted, Lighting: none
+CherryMX 2.00u KailhSocket
+0
+2
+2
+CherryMX_KailhSocket
+CherryMX_2.25u_KailhSocket
+Cherry MX switch footprint. Size: 2.25u, Mount type: Plate, Using Kailh Socket: yes, Stabilizer: Plate mounted, Lighting: none
+CherryMX 2.25u KailhSocket
+0
+2
+2
+CherryMX_KailhSocket
+CherryMX_2.50u_KailhSocket
+Cherry MX switch footprint. Size: 2.50u, Mount type: Plate, Using Kailh Socket: yes, Stabilizer: Plate mounted, Lighting: none
+CherryMX 2.50u KailhSocket
+0
+2
+2
+CherryMX_KailhSocket
+CherryMX_2.75u_KailhSocket
+Cherry MX switch footprint. Size: 2.75u, Mount type: Plate, Using Kailh Socket: yes, Stabilizer: Plate mounted, Lighting: none
+CherryMX 2.75u KailhSocket
+0
+2
+2
+CherryMX_KailhSocket
+CherryMX_3.00u_KailhSocket
+Cherry MX switch footprint. Size: 3.00u, Mount type: Plate, Using Kailh Socket: yes, Stabilizer: Plate mounted, Lighting: none
+CherryMX 3.00u KailhSocket
+0
+2
+2
+CherryMX_KailhSocket
+CherryMX_4.00u_KailhSocket
+Cherry MX switch footprint. Size: 4.00u, Mount type: Plate, Using Kailh Socket: yes, Stabilizer: Plate mounted, Lighting: none
+CherryMX 4.00u KailhSocket
+0
+2
+2
+CherryMX_KailhSocket
+CherryMX_4.50u_KailhSocket
+Cherry MX switch footprint. Size: 4.50u, Mount type: Plate, Using Kailh Socket: yes, Stabilizer: Plate mounted, Lighting: none
+CherryMX 4.50u KailhSocket
+0
+2
+2
+CherryMX_KailhSocket
+CherryMX_5.50u_KailhSocket
+Cherry MX switch footprint. Size: 5.50u, Mount type: Plate, Using Kailh Socket: yes, Stabilizer: Plate mounted, Lighting: none
+CherryMX 5.50u KailhSocket
+0
+2
+2
+CherryMX_KailhSocket
+CherryMX_6.00u_KailhSocket
+Cherry MX switch footprint. Size: 6.00u, Mount type: Plate, Using Kailh Socket: yes, Stabilizer: Plate mounted, Lighting: none
+CherryMX 6.00u KailhSocket
+0
+2
+2
+CherryMX_KailhSocket
+CherryMX_6.25u_KailhSocket
+Cherry MX switch footprint. Size: 6.25u, Mount type: Plate, Using Kailh Socket: yes, Stabilizer: Plate mounted, Lighting: none
+CherryMX 6.25u KailhSocket
+0
+2
+2
+CherryMX_KailhSocket
+CherryMX_6.50u_KailhSocket
+Cherry MX switch footprint. Size: 6.50u, Mount type: Plate, Using Kailh Socket: yes, Stabilizer: Plate mounted, Lighting: none
+CherryMX 6.50u KailhSocket
+0
+2
+2
+CherryMX_KailhSocket
+CherryMX_7.00u_KailhSocket
+Cherry MX switch footprint. Size: 7.00u, Mount type: Plate, Using Kailh Socket: yes, Stabilizer: Plate mounted, Lighting: none
+CherryMX 7.00u KailhSocket
+0
+2
+2
+CherryMX_KailhSocket
+CherryMX_8.00u_KailhSocket
+Cherry MX switch footprint. Size: 8.00u, Mount type: Plate, Using Kailh Socket: yes, Stabilizer: Plate mounted, Lighting: none
+CherryMX 8.00u KailhSocket
+0
+2
+2
+CherryMX_KailhSocket
+CherryMX_9.00u_KailhSocket
+Cherry MX switch footprint. Size: 9.00u, Mount type: Plate, Using Kailh Socket: yes, Stabilizer: Plate mounted, Lighting: none
+CherryMX 9.00u KailhSocket
+0
+2
+2
+CherryMX_KailhSocket
+CherryMX_9.75u_KailhSocket
+Cherry MX switch footprint. Size: 9.75u, Mount type: Plate, Using Kailh Socket: yes, Stabilizer: Plate mounted, Lighting: none
+CherryMX 9.75u KailhSocket
+0
+2
+2
+CherryMX_KailhSocket
+CherryMX_10.00u_KailhSocket
+Cherry MX switch footprint. Size: 10.00u, Mount type: Plate, Using Kailh Socket: yes, Stabilizer: Plate mounted, Lighting: none
+CherryMX 10.00u KailhSocket
 0
 2
 2
@@ -42672,11 +42812,74 @@ THT ceramic resonator filter DSS6
 3
 3
 Custom Footies
+1pin
+
+
+0
+1
+1
+Custom Footies
+1pin_VCC
+
+
+0
+1
+1
+Custom Footies
+1pin_con
+
+
+0
+1
+1
+Custom Footies
+1pin_gnd
+
+
+0
+1
+1
+Custom Footies
+02x02_con
+
+
+0
+4
+4
+Custom Footies
 C_0603_1608Metric_better_silk
 Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
 capacitor
 0
 2
+2
+Custom Footies
+Diode-Hybrid-reversible
+
+
+0
+10
+2
+Custom Footies
+KailhSocket1u
+Cherry MX switch footprint. Size: 1.00u, Mount type: Plate, Using Kailh Socket: yes, Stabilizer: n/a, Lighting: none
+CherryMX 1.00u KailhSocket
+0
+2
+2
+Custom Footies
+Kailh_socket_MX
+MX-style keyswitch with reversible Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
+0
+2
+2
+Custom Footies
+Kailh_socket_MX_reversible_fix
+MX-style keyswitch with reversible Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
+0
+4
 2
 Custom Footies
 MX-Alps-Choc-1U-No-reversible-fixed
@@ -42686,12 +42889,33 @@ MX-Alps-Choc-1U-No-reversible-fixed
 11
 2
 Custom Footies
+MountingHole_2.2mm_M2
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
+0
+0
+0
+Custom Footies
+MountingHole_2.7mm_M2.5
+Mounting Hole 2.7mm, no annular, M2.5
+mounting hole 2.7mm no annular m2.5
+0
+0
+0
+Custom Footies
 PJ-606-6A
 
 
 0
 6
 6
+Custom Footies
+ROW_DATA
+
+
+0
+2
+2
 Custom Footies
 R_0603_1608Metric_better_silk
 Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
@@ -42714,6 +42938,20 @@ USB-C-C168688-Hand_solder
 16
 11
 Custom Footies
+alt
+
+
+0
+0
+0
+Custom Footies
+badge_clip
+
+
+0
+1
+1
+Custom Footies
 breakaway-2mmX1mm
 
 
@@ -42735,6 +42973,90 @@ breakaway-mousebites
 0
 0
 Custom Footies
+breakaway-mousebites_half
+
+
+0
+0
+0
+Custom Footies
+bsides_front_silk
+
+
+0
+0
+0
+Custom Footies
+bsides_solder_mask
+
+
+0
+0
+0
+Custom Footies
+bsides_test
+
+
+0
+0
+0
+Custom Footies
+choc_hs_reversible
+Kailh "Choc" PG1350 keyswitch reversible socket mount
+kailh,choc
+0
+4
+2
+Custom Footies
+connectors
+
+
+0
+2
+2
+Custom Footies
+connectors_vertical
+
+
+0
+4
+4
+Custom Footies
+ctrl
+
+
+0
+0
+0
+Custom Footies
+dactyl_thumbs
+
+
+0
+0
+0
+Custom Footies
+data_out_1_pin
+
+
+0
+2
+1
+Custom Footies
+ddd
+
+
+0
+0
+0
+Custom Footies
+del
+
+
+0
+0
+0
+Custom Footies
 juliet_7e4
 
 
@@ -42742,12 +43064,75 @@ juliet_7e4
 0
 0
 Custom Footies
+mouse_bites_derek
+
+
+0
+2
+1
+Custom Footies
+nacly_thumbs_50
+
+
+0
+0
+0
+Custom Footies
+nacly_thumbs_85
+
+
+0
+0
+0
+Custom Footies
+nacly_thumbs_95
+
+
+0
+0
+0
+Custom Footies
+nc_mask_pos
+
+
+0
+0
+0
+Custom Footies
+nc_silk_negative
+
+
+0
+0
+0
+Custom Footies
+nice_nano
+
+
+0
+24
+24
+Custom Footies
 pgnm
 
 
 0
 0
 0
+Custom Footies
+pgnmh
+
+
+0
+0
+0
+Custom Footies
+reversible_power
+
+
+0
+14
+3
 Custom Footies
 salt8_5x11_9
 
@@ -42757,6 +43142,41 @@ salt8_5x11_9
 0
 Custom Footies
 salt12_7x17_8
+
+
+0
+0
+0
+Custom Footies
+sk6812_mini_e
+
+
+0
+4
+4
+Custom Footies
+sk6812_minie_reversible
+
+
+0
+8
+4
+Custom Footies
+smd_diode_reversible
+
+
+0
+4
+2
+Custom Footies
+sp62
+
+
+0
+0
+0
+Custom Footies
+sp_gplv3
 
 
 0
@@ -74967,7 +75387,7 @@ Diode-Hybrid-Back
 
 
 0
-10
+6
 2
 keebio
 Diode-Hybrid-reversible
@@ -76195,6 +76615,13 @@ breakaway-mousebites
 0
 0
 keebio
+breakaway-mousebites_less
+
+
+0
+0
+0
+keebio
 keebio-tag
 
 
@@ -76215,3 +76642,108 @@ trs
 0
 7
 7
+nrfmicro
+E73-2G4M04S-52832
+
+
+0
+44
+44
+nrfmicro
+E73-2G4M08S1C
+
+
+0
+43
+43
+nrfmicro
+E73-2G4M08S1C-52840
+
+
+0
+43
+43
+nrfmicro
+E73-2G4M08S1C-52840-NO_THT
+
+
+0
+43
+43
+nrfmicro
+HHKB_PRO2_ZH13
+http://www.jst-mfg.com/product/pdf/eng/eZH.pdf
+HHKB pro2, JST, ZH
+0
+15
+15
+nrfmicro
+HRO-TYPE-C-31-M-12
+
+
+0
+16
+13
+nrfmicro
+battery_holder_bs-7
+http://www.memoryprotectiondevices.com/datasheets/BS-7-datasheet.pdf
+
+0
+2
+2
+nrfmicro
+connector_swd
+
+
+0
+2
+2
+nrfmicro
+jumper
+
+
+0
+2
+2
+nrfmicro
+mechcult_hor
+
+
+0
+0
+0
+nrfmicro
+mechcult_vert
+
+
+0
+0
+0
+nrfmicro
+pro_micro
+
+
+0
+24
+24
+nrfmicro
+switch_MSK-12C02_smd
+
+
+0
+7
+3
+nrfmicro
+usb_micro
+USB Micro-B receptacle, http://www.mouser.com/ds/2/445/629105150521-469306.pdf
+usb micro receptacle
+0
+9
+6
+nrfmicro
+usb_type_c
+
+
+0
+20
+17

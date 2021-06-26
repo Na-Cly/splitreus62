@@ -1,0 +1,193 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L promicro:ProMicro U1
+U 1 1 60DC8701
+P 7700 2650
+F 0 "U1" H 7700 3687 60  0000 C CNN
+F 1 "ProMicro" H 7700 3581 60  0000 C CNN
+F 2 "Custom Footies:nice_nano" H 7800 1600 60  0001 C CNN
+F 3 "" H 7800 1600 60  0000 C CNN
+	1    7700 2650
+	1    0    0    -1  
+$EndComp
+Text GLabel 7000 1900 0    50   Input ~ 0
+SERIAL
+Text GLabel 7000 2300 0    50   Input ~ 0
+SCL
+Text GLabel 7000 2400 0    50   Input ~ 0
+SDA
+$Comp
+L gnd:GND #PWR0101
+U 1 1 60DC9300
+P 7000 2100
+F 0 "#PWR0101" H 7000 1850 50  0001 C CNN
+F 1 "GND" V 7000 1800 50  0000 L CNN
+F 2 "" H 7000 2100 50  0001 C CNN
+F 3 "" H 7000 2100 50  0001 C CNN
+	1    7000 2100
+	0    1    1    0   
+$EndComp
+$Comp
+L gnd:GND #PWR0102
+U 1 1 60DC954A
+P 7000 2200
+F 0 "#PWR0102" H 7000 1950 50  0001 C CNN
+F 1 "GND" V 7000 1900 50  0000 L CNN
+F 2 "" H 7000 2200 50  0001 C CNN
+F 3 "" H 7000 2200 50  0001 C CNN
+	1    7000 2200
+	0    1    1    0   
+$EndComp
+$Comp
+L gnd:GND #PWR0103
+U 1 1 60DC9D4A
+P 8400 2000
+F 0 "#PWR0103" H 8400 1750 50  0001 C CNN
+F 1 "GND" V 8400 1700 50  0000 L CNN
+F 2 "" H 8400 2000 50  0001 C CNN
+F 3 "" H 8400 2000 50  0001 C CNN
+	1    8400 2000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L vcc:VCC #PWR0104
+U 1 1 60DCA7E6
+P 8400 2200
+F 0 "#PWR0104" H 8400 2050 50  0001 C CNN
+F 1 "VCC" V 8417 2328 50  0000 L CNN
+F 2 "" H 8400 2200 50  0001 C CNN
+F 3 "" H 8400 2200 50  0001 C CNN
+	1    8400 2200
+	0    1    1    0   
+$EndComp
+NoConn ~ 8400 3000
+NoConn ~ 8400 2900
+NoConn ~ 8400 2800
+NoConn ~ 8400 2700
+NoConn ~ 8400 2600
+NoConn ~ 8400 2500
+NoConn ~ 8400 2400
+NoConn ~ 8400 2300
+NoConn ~ 8400 2100
+NoConn ~ 8400 1900
+NoConn ~ 7000 2000
+NoConn ~ 7000 2500
+NoConn ~ 7000 2600
+NoConn ~ 7000 2700
+NoConn ~ 7000 2800
+NoConn ~ 7000 2900
+NoConn ~ 7000 3000
+$Comp
+L lily58-cache_mj-4pp-9:Lily58-cache_MJ-4PP-9 J1
+U 1 1 60DCC971
+P 5700 3600
+F 0 "J1" H 5733 3997 60  0000 C CNN
+F 1 "Lily58-cache_MJ-4PP-9" H 5733 3891 60  0000 C CNN
+F 2 "Lily58-footprint:MJ-4PP-9_rev2" H 5700 3600 60  0001 C CNN
+F 3 "" H 5700 3600 60  0000 C CNN
+	1    5700 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L vcc:VCC #PWR0105
+U 1 1 60DCD917
+P 6150 3450
+F 0 "#PWR0105" H 6150 3300 50  0001 C CNN
+F 1 "VCC" V 6167 3578 50  0000 L CNN
+F 2 "" H 6150 3450 50  0001 C CNN
+F 3 "" H 6150 3450 50  0001 C CNN
+	1    6150 3450
+	0    1    1    0   
+$EndComp
+Text GLabel 6150 3700 2    50   Input ~ 0
+SERIAL
+$Comp
+L gnd:GND #PWR0106
+U 1 1 60DCDC3E
+P 6150 3800
+F 0 "#PWR0106" H 6150 3550 50  0001 C CNN
+F 1 "GND" V 6150 3500 50  0000 L CNN
+F 2 "" H 6150 3800 50  0001 C CNN
+F 3 "" H 6150 3800 50  0001 C CNN
+	1    6150 3800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L 4pin:4PIN J2
+U 1 1 60DCDFFE
+P 7350 3900
+F 0 "J2" V 7466 3622 60  0000 R CNN
+F 1 "4PIN" V 7360 3622 60  0000 R CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" H 7400 3850 60  0001 C CNN
+F 3 "" H 7400 3850 60  0000 C CNN
+	1    7350 3900
+	0    -1   -1   0   
+$EndComp
+Text GLabel 7200 3650 1    50   Input ~ 0
+SDA
+Text GLabel 7300 3650 1    50   Input ~ 0
+SCL
+Text GLabel 7400 3650 1    50   Input ~ 0
+VCC
+Text GLabel 7500 3650 1    50   Input ~ 0
+GND
+Text GLabel 9500 3300 2    50   Input ~ 0
+GND
+Text GLabel 9400 3400 0    50   Input ~ 0
+VCC
+$Comp
+L vcc:VCC #PWR0107
+U 1 1 60DCFCA0
+P 9400 3400
+F 0 "#PWR0107" H 9400 3250 50  0001 C CNN
+F 1 "VCC" V 9417 3528 50  0000 L CNN
+F 2 "" H 9400 3400 50  0001 C CNN
+F 3 "" H 9400 3400 50  0001 C CNN
+	1    9400 3400
+	0    1    1    0   
+$EndComp
+$Comp
+L gnd:GND #PWR0108
+U 1 1 60DCFE15
+P 9500 3300
+F 0 "#PWR0108" H 9500 3050 50  0001 C CNN
+F 1 "GND" V 9500 3000 50  0000 L CNN
+F 2 "" H 9500 3300 50  0001 C CNN
+F 3 "" H 9500 3300 50  0001 C CNN
+	1    9500 3300
+	0    1    1    0   
+$EndComp
+$Comp
+L 4pin:4PIN J3
+U 1 1 60DD2E48
+P 8250 3950
+F 0 "J3" V 8366 3672 60  0000 R CNN
+F 1 "4PIN" V 8260 3672 60  0000 R CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" H 8300 3900 60  0001 C CNN
+F 3 "" H 8300 3900 60  0000 C CNN
+	1    8250 3950
+	0    -1   -1   0   
+$EndComp
+Text GLabel 8100 3700 1    50   Input ~ 0
+SDA
+Text GLabel 8200 3700 1    50   Input ~ 0
+SCL
+Text GLabel 8300 3700 1    50   Input ~ 0
+VCC
+Text GLabel 8400 3700 1    50   Input ~ 0
+GND
+$EndSCHEMATC
