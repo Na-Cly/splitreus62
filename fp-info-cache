@@ -1,4 +1,4 @@
-17158953906349124
+17173579266284545
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -42910,6 +42910,13 @@ PJ-606-6A
 6
 6
 Custom Footies
+PinHeader_1x04_P2.54mm_REVERSIBLE
+Through hole straight pin header, 1x04, 2.54mm pitch, single row
+Through hole pin header THT 1x04 2.54mm single row
+0
+8
+4
+Custom Footies
 ROW_DATA
 
 
@@ -42937,6 +42944,20 @@ USB-C-C168688-Hand_solder
 0
 16
 11
+Custom Footies
+alt
+
+
+0
+0
+0
+Custom Footies
+badge_clip
+
+
+0
+1
+1
 Custom Footies
 breakaway-2mmX1mm
 
@@ -42980,6 +43001,13 @@ bsides_solder_mask
 0
 0
 Custom Footies
+bsides_test
+
+
+0
+0
+0
+Custom Footies
 choc_hs_reversible
 Kailh "Choc" PG1350 keyswitch reversible socket mount
 kailh,choc
@@ -43001,6 +43029,13 @@ connectors_vertical
 4
 4
 Custom Footies
+ctrl
+
+
+0
+0
+0
+Custom Footies
 dactyl_thumbs
 
 
@@ -43016,6 +43051,13 @@ data_out_1_pin
 1
 Custom Footies
 ddd
+
+
+0
+0
+0
+Custom Footies
+del
 
 
 0
@@ -43051,6 +43093,20 @@ nacly_thumbs_85
 0
 Custom Footies
 nacly_thumbs_95
+
+
+0
+0
+0
+Custom Footies
+nc_mask_pos
+
+
+0
+0
+0
+Custom Footies
+nc_silk_negative
 
 
 0
@@ -43121,6 +43177,13 @@ smd_diode_reversible
 2
 Custom Footies
 sp62
+
+
+0
+0
+0
+Custom Footies
+sp62_spray
 
 
 0
