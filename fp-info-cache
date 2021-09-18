@@ -1,4 +1,4 @@
-17150798989368899
+17201331262794424
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -42840,6 +42840,13 @@ Custom Footies
 1
 1
 Custom Footies
+1x14_esp
+Through hole angled pin header, 1x14, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x14 2.54mm single row
+0
+14
+14
+Custom Footies
 02x02_con
 
 
@@ -42861,6 +42868,13 @@ Diode-Hybrid-reversible
 10
 2
 Custom Footies
+ESP-07_extended_pads
+Wi-Fi Module, http://wiki.ai-thinker.com/_media/esp8266/docs/a007ps01a2_esp-07_product_specification_v1.2.pdf
+Wi-Fi Module
+0
+16
+16
+Custom Footies
 KailhSocket1u
 Cherry MX switch footprint. Size: 1.00u, Mount type: Plate, Using Kailh Socket: yes, Stabilizer: n/a, Lighting: none
 CherryMX 1.00u KailhSocket
@@ -42879,7 +42893,7 @@ Kailh_socket_MX_reversible_fix
 MX-style keyswitch with reversible Kailh socket mount
 MX,cherry,gateron,kailh,pg1511,socket
 0
-4
+6
 2
 Custom Footies
 MX-Alps-Choc-1U-No-reversible-fixed
@@ -42889,12 +42903,33 @@ MX-Alps-Choc-1U-No-reversible-fixed
 11
 2
 Custom Footies
+MountingHole_2.2mm_M2
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
+0
+0
+0
+Custom Footies
+MountingHole_2.7mm_M2.5
+Mounting Hole 2.7mm, no annular, M2.5
+mounting hole 2.7mm no annular m2.5
+0
+0
+0
+Custom Footies
 PJ-606-6A
 
 
 0
 6
 6
+Custom Footies
+PinHeader_1x04_P2.54mm_REVERSIBLE
+Through hole straight pin header, 1x04, 2.54mm pitch, single row
+Through hole pin header THT 1x04 2.54mm single row
+0
+8
+4
 Custom Footies
 ROW_DATA
 
@@ -42910,6 +42945,13 @@ resistor
 2
 2
 Custom Footies
+RotaryEncoder_EC11_choc_hs
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+12
+9
+Custom Footies
 USB-C-C168688
 
 
@@ -42923,6 +42965,20 @@ USB-C-C168688-Hand_solder
 0
 16
 11
+Custom Footies
+alt
+
+
+0
+0
+0
+Custom Footies
+badge_clip
+
+
+0
+1
+1
 Custom Footies
 breakaway-2mmX1mm
 
@@ -42952,6 +43008,69 @@ breakaway-mousebites_half
 0
 0
 Custom Footies
+bsides_front_silk
+
+
+0
+0
+0
+Custom Footies
+bsides_solder_mask
+
+
+0
+0
+0
+Custom Footies
+bsides_test
+
+
+0
+0
+0
+Custom Footies
+choc_hs
+Kailh "Choc" PG1350 keyswitch reversible socket mount
+kailh,choc
+0
+2
+2
+Custom Footies
+choc_hs_reversible
+Kailh "Choc" PG1350 keyswitch reversible socket mount
+kailh,choc
+0
+4
+2
+Custom Footies
+come
+
+
+0
+0
+0
+Custom Footies
+comeandfindit
+
+
+0
+0
+0
+Custom Footies
+compoesp
+
+
+0
+0
+0
+Custom Footies
+compost_pile
+
+
+0
+0
+0
+Custom Footies
 connectors
 
 
@@ -42965,6 +43084,13 @@ connectors_vertical
 0
 4
 4
+Custom Footies
+ctrl
+
+
+0
+0
+0
 Custom Footies
 dactyl_thumbs
 
@@ -42981,6 +43107,13 @@ data_out_1_pin
 1
 Custom Footies
 ddd
+
+
+0
+0
+0
+Custom Footies
+del
 
 
 0
@@ -43022,12 +43155,68 @@ nacly_thumbs_95
 0
 0
 Custom Footies
+nc_mask_pos
+
+
+0
+0
+0
+Custom Footies
+nc_silk_negative
+
+
+0
+0
+0
+Custom Footies
 nice_nano
 
 
 0
 24
 24
+Custom Footies
+optout_attr
+
+
+0
+0
+0
+Custom Footies
+optout_lines
+
+
+0
+0
+0
+Custom Footies
+optout_lines2
+
+
+0
+0
+0
+Custom Footies
+optout_qr
+
+
+0
+0
+0
+Custom Footies
+optout_shatter
+
+
+0
+0
+0
+Custom Footies
+optout_text
+
+
+0
+0
+0
 Custom Footies
 pgnm
 
@@ -43085,7 +43274,28 @@ smd_diode_reversible
 4
 2
 Custom Footies
+smd_power
+
+
+0
+7
+3
+Custom Footies
+smell
+
+
+0
+0
+0
+Custom Footies
 sp62
+
+
+0
+0
+0
+Custom Footies
+sp62_spray
 
 
 0
@@ -43105,6 +43315,13 @@ splitreusqr
 0
 0
 0
+Custom Footies
+top_only_nice_nano_with_battery_pads
+
+
+0
+26
+26
 Custom Footies
 triangles
 
