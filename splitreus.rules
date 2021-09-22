@@ -11,16 +11,16 @@
     (via_costs 50)
     (plane_via_costs 5)
     (start_ripup_costs 100)
-    (start_pass_no 2277)
+    (start_pass_no 21)
     (layer_rule F.Cu
       (active on)
-      (preferred_direction vertical)
+      (preferred_direction horizontal)
       (preferred_direction_trace_costs 1.0)
       (against_preferred_direction_trace_costs 2.3)
     )
     (layer_rule B.Cu
       (active on)
-      (preferred_direction horizontal)
+      (preferred_direction vertical)
       (preferred_direction_trace_costs 1.0)
       (against_preferred_direction_trace_costs 1.8)
     )
@@ -73,7 +73,7 @@
     "Net-(D95-Pad3)" "Net-(D96-Pad3)" "Net-(D97-Pad3)" "Net-(D98-Pad3)" "Net-(D910-Pad1)" "Net-(D910-Pad3)" "Net-(D911-Pad3)" "Net-(D912-Pad3)"
     "Net-(D913-Pad3)" "Net-(D915-Pad1)" "Net-(D915-Pad3)" "Net-(D916-Pad3)" "Net-(D917-Pad3)" "Net-(D918-Pad3)" "Net-(D920-Pad1)" "Net-(D920-Pad3)"
     "Net-(D921-Pad3)" "Net-(D922-Pad3)" "Net-(D923-Pad3)" "Net-(D925-Pad1)" "Net-(D925-Pad3)" "Net-(D926-Pad3)" "Net-(D927-Pad3)" "Net-(D928-Pad3)"
-    "to_right" "Net-(D930-Pad3)"
+    "to_right" "Net-(D930-Pad3)" "Net-(SW91-Pad3)" V+
     (clearance_class "kicad_default")
     (via_rule kicad_default)
     (rule
