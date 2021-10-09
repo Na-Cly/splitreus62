@@ -9797,7 +9797,7 @@
   (via (at 97.468 -7.9632) (size 0.8) (layers F.Cu B.Cu) (net 84))
   (via (at 104.4334 11.2152) (size 0.8) (layers F.Cu B.Cu) (net 84))
 
-  (zone (net 0) (net_name "") (layer F.Cu) (tstamp 6151CA42) (hatch edge 0.508)
+  (zone (net 0) (net_name "") (layer F.Cu) (tstamp 61524A15) (hatch edge 0.508)
     (connect_pads (clearance 0.508))
     (min_thickness 0.254)
     (fill yes (arc_segments 32) (thermal_gap 0.508) (thermal_bridge_width 0.508))
@@ -13639,7 +13639,7 @@
       )
     )
   )
-  (zone (net 0) (net_name "") (layer B.Cu) (tstamp 6151CA3F) (hatch edge 0.508)
+  (zone (net 0) (net_name "") (layer B.Cu) (tstamp 61524A12) (hatch edge 0.508)
     (connect_pads (clearance 0.508))
     (min_thickness 0.254)
     (fill yes (arc_segments 32) (thermal_gap 0.508) (thermal_bridge_width 0.508))
